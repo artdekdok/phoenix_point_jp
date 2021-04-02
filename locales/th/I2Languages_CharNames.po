@@ -1,5236 +1,5250 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2021-02-07 23:10+0900\n"
+"Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
+"Language-Team: \n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.4.2\n"
+
 msgctxt "Names/KEY_FAMILY_NAME_AADLI"
 msgid "Howard"
-msgstr "Howard"
+msgstr "ハワード"
 
 msgctxt "Names/KEY_FAMILY_NAME_AALTO"
 msgid "Aalto"
-msgstr "Aalto"
+msgstr "アールト"
 
 msgctxt "Names/KEY_FAMILY_NAME_ABASI"
 msgid "Abasi"
-msgstr "Abasi"
+msgstr "アバシ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ABAZA"
 msgid "Abaza"
-msgstr "Abaza"
+msgstr "アバザ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ABBASOV"
 msgid "Abbasov"
-msgstr "Abbasov"
+msgstr "アバソフ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ABDALLAH"
 msgid "Abdallah"
-msgstr "Abdallah"
+msgstr "アブダラ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ABDOU"
 msgid "Abdou"
-msgstr "Abdou"
+msgstr "アブドゥ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ABDUL"
 msgid "Abdul"
-msgstr "Abdul"
+msgstr "アブドゥル"
 
 msgctxt "Names/KEY_FAMILY_NAME_ABREU"
 msgid "Abreu"
-msgstr "Abreu"
+msgstr "アブレイユ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ACHARYA"
 msgid "Acharya"
-msgstr "Acharya"
+msgstr "アチャリヤ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ACOSTA"
 msgid "Acosta"
-msgstr "Acosta"
+msgstr "アコスタ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ADAM"
 msgid "Adam"
-msgstr "Adán"
+msgstr "アダム"
 
 msgctxt "Names/KEY_FAMILY_NAME_ADAMS"
 msgid "Adams"
-msgstr "Adams"
+msgstr "アダムス"
 
 msgctxt "Names/KEY_FAMILY_NAME_ADONAI"
 msgid "Adonai"
-msgstr "Adonai"
+msgstr "アドナイ"
 
 msgctxt "Names/KEY_FAMILY_NAME_AFONSO"
 msgid "Afonso"
-msgstr "Afonso"
+msgstr "アフォンソ"
 
 msgctxt "Names/KEY_FAMILY_NAME_AGARWAL"
 msgid "Agarwal"
-msgstr "Agarwal"
+msgstr "アガーワル"
 
 msgctxt "Names/KEY_FAMILY_NAME_AGRE"
 msgid "Agre"
-msgstr "Agre"
+msgstr "アグレ"
 
 msgctxt "Names/KEY_FAMILY_NAME_AGUAS"
 msgid "Aguas"
-msgstr "Aguas"
+msgstr "アグアス"
 
 msgctxt "Names/KEY_FAMILY_NAME_AHMADI"
 msgid "Ahmadi"
-msgstr "Ahmadi"
+msgstr "アフマディ"
 
 msgctxt "Names/KEY_FAMILY_NAME_AHUJA"
 msgid "Ahuja"
-msgstr "Ahuja"
+msgstr "アフージャ"
 
 msgctxt "Names/KEY_FAMILY_NAME_AIDAN"
 msgid "Aidan"
-msgstr "Aidan"
+msgstr "エイダン"
 
 msgctxt "Names/KEY_FAMILY_NAME_AKO"
 msgid "Ako"
-msgstr "Ako"
+msgstr "アコ"
 
 msgctxt "Names/KEY_FAMILY_NAME_AL-HADDAD"
 msgid "Al-Haddad"
-msgstr "Al-Haddad"
+msgstr "アルハダッド"
 
 msgctxt "Names/KEY_FAMILY_NAME_AL-HASHEMI"
 msgid "Al-Hashemi"
-msgstr "Al-Hashemi"
+msgstr "アルハシェミ"
 
 msgctxt "Names/KEY_FAMILY_NAME_AL-HASSAN"
 msgid "Al-Hassan"
-msgstr "Al-Hassan"
+msgstr "アルハサン"
 
 msgctxt "Names/KEY_FAMILY_NAME_ALBERT"
 msgid "Albert"
-msgstr "Albert"
+msgstr "アルバート"
 
 msgctxt "Names/KEY_FAMILY_NAME_ALBINUS"
 msgid "Albinus"
-msgstr "Albino"
+msgstr "アルビヌス"
 
 msgctxt "Names/KEY_FAMILY_NAME_ALEXANDER"
 msgid "Alexander"
-msgstr "Alejandro"
+msgstr "アレクサンダー"
 
 msgctxt "Names/KEY_FAMILY_NAME_ALEXANDROV"
 msgid "Alexandrov"
-msgstr "Alexandrov"
+msgstr "アレクサンドロフ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ALI"
 msgid "Ali"
-msgstr "Ali"
+msgstr "アリ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ALIYEV"
 msgid "Aliyev"
-msgstr "Aliyev"
+msgstr "アリエフ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ALLEN"
 msgid "Allen"
-msgstr "Allen"
+msgstr "アレン"
 
 msgctxt "Names/KEY_FAMILY_NAME_ALLEYNE"
 msgid "Alleyne"
-msgstr "Alleyne"
+msgstr "アレイン"
 
 msgctxt "Names/KEY_FAMILY_NAME_ALLI"
 msgid "Alli"
-msgstr "Alli"
+msgstr "アリ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ALMADA"
 msgid "Almada"
-msgstr "Almada"
+msgstr "アルマダ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ALMEIDA"
 msgid "Almeida"
-msgstr "Almeida"
+msgstr "アルメイダ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ALVA"
 msgid "Alva"
-msgstr "Alva"
+msgstr "アルバ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ALVARES"
 msgid "Alvares"
-msgstr "Alvares"
+msgstr "アルバレス"
 
 msgctxt "Names/KEY_FAMILY_NAME_ALVAREZ"
 msgid "Álvarez"
-msgstr "Álvarez"
+msgstr "アルバレツ"
 
 msgctxt "Names/KEY_FAMILY_NAME_AMIN"
 msgid "Amin"
-msgstr "Amin"
+msgstr "アミン"
 
 msgctxt "Names/KEY_FAMILY_NAME_AMORIM"
 msgid "Amorim"
-msgstr "Amorim"
+msgstr "アモリン"
 
 msgctxt "Names/KEY_FAMILY_NAME_ANAND"
 msgid "Anand"
-msgstr "Anand"
+msgstr "アナンド"
 
 msgctxt "Names/KEY_FAMILY_NAME_ANDERS"
 msgid "Anders"
-msgstr "Anders"
+msgstr "アンダース"
 
 msgctxt "Names/KEY_FAMILY_NAME_ANDERSON"
 msgid "Anderson"
-msgstr "Anderson"
+msgstr "アンダーソン"
 
 msgctxt "Names/KEY_FAMILY_NAME_ANDRADE"
 msgid "Andrade"
-msgstr "Andrade"
+msgstr "アンドラージ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ANDRAS"
 msgid "András"
-msgstr "András"
+msgstr "アンドラーシュ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ANTHON"
 msgid "Anthon"
-msgstr "Anthon"
+msgstr "アンソン"
 
 msgctxt "Names/KEY_FAMILY_NAME_ANTIPAS"
 msgid "Antipas"
-msgstr "Antipas"
+msgstr "アンティパス"
 
 msgctxt "Names/KEY_FAMILY_NAME_ANTONESCU"
 msgid "Antonescu"
-msgstr "Antonescu"
+msgstr "アントネスク"
 
 msgctxt "Names/KEY_FAMILY_NAME_APARICIO"
 msgid "Aparicio"
-msgstr "Aparicio"
+msgstr "アパリシオ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ARAFA"
 msgid "Arafa"
-msgstr "arafa"
+msgstr "アラファ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ARAP"
 msgid "Arap"
-msgstr "Arap"
+msgstr "アラップ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ARBI"
 msgid "Arbi"
-msgstr "Arbi"
+msgstr "アルビ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ARMAO"
 msgid "Armao"
-msgstr "Armao"
+msgstr "アルマオ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ARNOLD"
 msgid "Arnold"
-msgstr "Arnold"
+msgstr "アーノルド"
 
 msgctxt "Names/KEY_FAMILY_NAME_ARRUDA"
 msgid "Arruda"
-msgstr "Arruda"
+msgstr "アルーダ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ASHCROFT"
 msgid "Ashcroft"
-msgstr "Ashcroft"
+msgstr "アシュクロフト"
 
 msgctxt "Names/KEY_FAMILY_NAME_ASHRAF"
 msgid "Ashraf"
-msgstr "Ashraf"
+msgstr "アシュラフ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ATKINSON"
 msgid "Atkinson"
-msgstr "Atkinson"
+msgstr "アトキンソン"
 
 msgctxt "Names/KEY_FAMILY_NAME_AVILA"
 msgid "Avila"
-msgstr "Ávila"
+msgstr "アビラ"
 
 msgctxt "Names/KEY_FAMILY_NAME_AYOUB"
 msgid "Ayoub"
-msgstr "Ayoub"
+msgstr "アイヨブ"
 
 msgctxt "Names/KEY_FAMILY_NAME_AZEVEDO"
 msgid "Azevedo"
-msgstr "Azevedo"
+msgstr "アゼベド"
 
 msgctxt "Names/KEY_FAMILY_NAME_AZIZ"
 msgid "Aziz"
-msgstr "Aziz"
+msgstr "アジズ"
 
 msgctxt "Names/KEY_FAMILY_NAME_BABIC"
 msgid "Babić"
-msgstr "Babic"
+msgstr "バビック"
 
 msgctxt "Names/KEY_FAMILY_NAME_BAKARI"
 msgid "Bakari"
-msgstr "bakari"
+msgstr "バカーリ"
 
 msgctxt "Names/KEY_FAMILY_NAME_BAKKER"
 msgid "Bakker"
-msgstr "Bakker"
+msgstr "ベイカー"
 
 msgctxt "Names/KEY_FAMILY_NAME_BAKR"
 msgid "Bakr"
-msgstr "Bakr"
+msgstr "バクル"
 
 msgctxt "Names/KEY_FAMILY_NAME_BAKSHI"
 msgid "Bakshi"
-msgstr "Bakshi"
+msgstr "バクシ"
 
 msgctxt "Names/KEY_FAMILY_NAME_BALAN"
 msgid "Bălan"
-msgstr "Bălan"
+msgstr "バラン"
 
 msgctxt "Names/KEY_FAMILY_NAME_BALIK"
 msgid "Balik"
-msgstr "balik"
+msgstr "バリク"
 
 msgctxt "Names/KEY_FAMILY_NAME_BANDA"
 msgid "Banda"
-msgstr "Banda"
+msgstr "バンダ"
 
 msgctxt "Names/KEY_FAMILY_NAME_BANDERA"
 msgid "Bandera"
-msgstr "Bandera"
+msgstr "バンデラ"
 
 msgctxt "Names/KEY_FAMILY_NAME_BANGO"
 msgid "Bango"
-msgstr "Bango"
+msgstr "バンゴ"
 
 msgctxt "Names/KEY_FAMILY_NAME_BANGOURA"
 msgid "Bangoura"
-msgstr "Bangoura"
+msgstr "バングラ"
 
 msgctxt "Names/KEY_FAMILY_NAME_BARA"
 msgid "Bara"
-msgstr "bara"
+msgstr "バラ"
 
 msgctxt "Names/KEY_FAMILY_NAME_BARAN"
 msgid "Baran"
-msgstr "Baran"
+msgstr "バラン"
 
 msgctxt "Names/KEY_FAMILY_NAME_BARBAS"
 msgid "Barbas"
-msgstr "Barbas"
+msgstr "バルバス"
 
 msgctxt "Names/KEY_FAMILY_NAME_BARBOSA"
 msgid "Barbosa"
-msgstr "Barbosa"
+msgstr "バルボサ"
 
 msgctxt "Names/KEY_FAMILY_NAME_BARBOZA"
 msgid "Barboza"
-msgstr "Barboza"
+msgstr "バルボーザ"
 
 msgctxt "Names/KEY_FAMILY_NAME_BARIS"
 msgid "Baris"
-msgstr "Baris"
+msgstr "バリス"
 
 msgctxt "Names/KEY_FAMILY_NAME_BAROS"
 msgid "Baros"
-msgstr "baros"
+msgstr "バロス"
 
 msgctxt "Names/KEY_FAMILY_NAME_BARRETO"
 msgid "Barreto"
-msgstr "Barreto"
+msgstr "バレット"
 
 msgctxt "Names/KEY_FAMILY_NAME_BASTO"
 msgid "Basto"
-msgstr "Basto"
+msgstr "バスト"
 
 msgctxt "Names/KEY_FAMILY_NAME_BASTOS"
 msgid "Bastos"
-msgstr "Bastos"
+msgstr "バストス"
 
 msgctxt "Names/KEY_FAMILY_NAME_BAUMGARTNER"
 msgid "Baumgartner"
-msgstr "Baumgartner"
+msgstr "バウムガルトナー"
 
 msgctxt "Names/KEY_FAMILY_NAME_BAYU"
 msgid "Bayu"
-msgstr "bayu"
+msgstr "バユ"
 
 msgctxt "Names/KEY_FAMILY_NAME_BEATTIE"
 msgid "Beattie"
-msgstr "Beattie"
+msgstr "ビーティー"
 
 msgctxt "Names/KEY_FAMILY_NAME_BELA"
 msgid "Béla"
-msgstr "Béla"
+msgstr "ベーラ"
 
 msgctxt "Names/KEY_FAMILY_NAME_BELIN"
 msgid "Bělín"
-msgstr "Bělín"
+msgstr "ベーリン"
 
 msgctxt "Names/KEY_FAMILY_NAME_BELO"
 msgid "Belo"
-msgstr "Belo"
+msgstr "ベロ"
 
 msgctxt "Names/KEY_FAMILY_NAME_BENDA"
 msgid "Benda"
-msgstr "Benda"
+msgstr "ベンダ"
 
 msgctxt "Names/KEY_FAMILY_NAME_BENJAMIN"
 msgid "Benjamin"
-msgstr "Benjamín"
+msgstr "ベンジャミン"
 
 msgctxt "Names/KEY_FAMILY_NAME_BENSOUSSAN"
 msgid "Bensoussan"
-msgstr "Bensoussan"
+msgstr "ベンスーサン"
 
 msgctxt "Names/KEY_FAMILY_NAME_BERGER"
 msgid "Berger"
-msgstr "Berger"
+msgstr "ベルガー"
 
 msgctxt "Names/KEY_FAMILY_NAME_BERNARD"
 msgid "Bernard"
-msgstr "Bernardo"
+msgstr "バーナード"
 
 msgctxt "Names/KEY_FAMILY_NAME_BERRY"
 msgid "Berry"
-msgstr "Baya"
+msgstr "ベリー"
 
 msgctxt "Names/KEY_FAMILY_NAME_BOGDANOV"
 msgid "Bogdanov"
-msgstr "Bogdanov"
+msgstr "ボグダーノフ"
 
 msgctxt "Names/KEY_FAMILY_NAME_BOHM"
 msgid "Böhm"
-msgstr "Böhm"
+msgstr "ベーム"
 
 msgctxt "Names/KEY_FAMILY_NAME_BOLEN"
 msgid "Bolen"
-msgstr "Bolen"
+msgstr "ボーレン"
 
 msgctxt "Names/KEY_FAMILY_NAME_BOMA"
 msgid "Boma"
-msgstr "boma"
+msgstr "ボーマ"
 
 msgctxt "Names/KEY_FAMILY_NAME_BOMANI"
 msgid "Bomani"
-msgstr "Bomani"
+msgstr "ボマニ"
 
 msgctxt "Names/KEY_FAMILY_NAME_BONAVENTURE"
 msgid "Bonaventure"
-msgstr "Buenaventura"
+msgstr "ボナヴェントゥラ"
 
 msgctxt "Names/KEY_FAMILY_NAME_BORBA"
 msgid "Borba"
-msgstr "Borba"
+msgstr "ボルバ"
 
 msgctxt "Names/KEY_FAMILY_NAME_BORGES"
 msgid "Borges"
-msgstr "Borges"
+msgstr "ボルヘス"
 
 msgctxt "Names/KEY_FAMILY_NAME_BORISOV"
 msgid "Borisov"
-msgstr "Borisov"
+msgstr "ボリソフ"
 
 msgctxt "Names/KEY_FAMILY_NAME_BOTE"
 msgid "Bote"
-msgstr "Bote"
+msgstr "ボテ"
 
 msgctxt "Names/KEY_FAMILY_NAME_BOTELHO"
 msgid "Botelho"
-msgstr "Botelho"
+msgstr "ボテロ"
 
 msgctxt "Names/KEY_FAMILY_NAME_BOWEN"
 msgid "Bowen"
-msgstr "Bowen"
+msgstr "ボーエン"
 
 msgctxt "Names/KEY_FAMILY_NAME_BRADLEY"
 msgid "Bradley"
-msgstr "Bradley"
+msgstr "ブラッドリー"
 
 msgctxt "Names/KEY_FAMILY_NAME_BRAGA"
 msgid "Braga"
-msgstr "Braga"
+msgstr "ブラガ"
 
 msgctxt "Names/KEY_FAMILY_NAME_BRAHIM"
 msgid "Brahim"
-msgstr "Brahim"
+msgstr "ブラヒム"
 
 msgctxt "Names/KEY_FAMILY_NAME_BRANCO"
 msgid "Branco"
-msgstr "Branco"
+msgstr "ブランコ"
 
 msgctxt "Names/KEY_FAMILY_NAME_BRANDAO"
 msgid "Brandao"
-msgstr "Brandao"
+msgstr "ブランダオン"
 
 msgctxt "Names/KEY_FAMILY_NAME_BRAZ"
 msgid "Braz"
-msgstr "Braz"
+msgstr "ブラス"
 
 msgctxt "Names/KEY_FAMILY_NAME_BRITO"
 msgid "Brito"
-msgstr "Brito"
+msgstr "ブリット"
 
 msgctxt "Names/KEY_FAMILY_NAME_BRODSKY"
 msgid "Brodsky"
-msgstr "Brodsky"
+msgstr "ブロドスキー"
 
 msgctxt "Names/KEY_FAMILY_NAME_BROOKS"
 msgid "Brooks"
-msgstr "Arroyos"
+msgstr "ブルックス"
 
 msgctxt "Names/KEY_FAMILY_NAME_BULA"
 msgid "Bula"
-msgstr "bula"
+msgstr "ブラ"
 
 msgctxt "Names/KEY_FAMILY_NAME_BYRNE"
 msgid "Byrne"
-msgstr "Byrne"
+msgstr "バーン"
 
 msgctxt "Names/KEY_FAMILY_NAME_BĂLAN"
 msgid "Bălan"
-msgstr "Bălan"
+msgstr "バラン"
 
 msgctxt "Names/KEY_FAMILY_NAME_CABRAL"
 msgid "Cabral"
-msgstr "Cabral"
+msgstr "カブラル"
 
 msgctxt "Names/KEY_FAMILY_NAME_CAETANO"
 msgid "Caetano"
-msgstr "Caetano"
+msgstr "カエターノ"
 
 msgctxt "Names/KEY_FAMILY_NAME_CALDEIRA"
 msgid "Caldeira"
-msgstr "Caldeira"
+msgstr "キャルデラ"
 
 msgctxt "Names/KEY_FAMILY_NAME_CAMACHO"
 msgid "Camacho"
-msgstr "Camacho"
+msgstr "カマチョ"
 
 msgctxt "Names/KEY_FAMILY_NAME_CAMARA"
 msgid "Camara"
-msgstr "Camara"
+msgstr "カマーラ"
 
 msgctxt "Names/KEY_FAMILY_NAME_CAMPBELL"
 msgid "Campbell"
-msgstr "Campbell"
+msgstr "キャンベル"
 
 msgctxt "Names/KEY_FAMILY_NAME_CANDIDO"
 msgid "Candido"
-msgstr "Candido"
+msgstr "キャンディド"
 
 msgctxt "Names/KEY_FAMILY_NAME_CARDOSO"
 msgid "Cardoso"
-msgstr "Cardoso"
+msgstr "カルドーゾ"
 
 msgctxt "Names/KEY_FAMILY_NAME_CARIAS"
 msgid "Carias"
-msgstr "Carías"
+msgstr "カリアス"
 
 msgctxt "Names/KEY_FAMILY_NAME_CARNEIRO"
 msgid "Carneiro"
-msgstr "Carneiro"
+msgstr "カルネイロ"
 
 msgctxt "Names/KEY_FAMILY_NAME_CARR"
 msgid "Carr"
-msgstr "Carr"
+msgstr "カー"
 
 msgctxt "Names/KEY_FAMILY_NAME_CASSIAN"
 msgid "Cassian"
-msgstr "Casiano"
+msgstr "カッシアヌス"
 
 msgctxt "Names/KEY_FAMILY_NAME_CAVACO"
 msgid "Cavaco"
-msgstr "Cavaco"
+msgstr "カヴァコ"
 
 msgctxt "Names/KEY_FAMILY_NAME_CAYETANO"
 msgid "Cayetano"
-msgstr "Cayetano"
+msgstr "カエタノ"
 
 msgctxt "Names/KEY_FAMILY_NAME_CHAMBERS"
 msgid "Chambers"
-msgstr "cámaras"
+msgstr "チャンバーズ"
 
 msgctxt "Names/KEY_FAMILY_NAME_CHAND"
 msgid "Chand"
-msgstr "Chand"
+msgstr "チャンド"
 
 msgctxt "Names/KEY_FAMILY_NAME_CHARLES"
 msgid "Charles"
-msgstr "Charles"
+msgstr "チャールズ"
 
 msgctxt "Names/KEY_FAMILY_NAME_CHAVEZ"
 msgid "Chavez"
-msgstr "Chavez"
+msgstr "チャベス"
 
 msgctxt "Names/KEY_FAMILY_NAME_CHICO"
 msgid "Chico"
-msgstr "Chico"
+msgstr "チコ"
 
 msgctxt "Names/KEY_FAMILY_NAME_CHOLA"
 msgid "Chola"
-msgstr "Chola"
+msgstr "チョーラ"
 
 msgctxt "Names/KEY_FAMILY_NAME_CHRISTENSEN"
 msgid "Christensen"
-msgstr "Christensen"
+msgstr "クリステンセン"
 
 msgctxt "Names/KEY_FAMILY_NAME_CHRISTIE"
 msgid "Christie"
-msgstr "Christie"
+msgstr "クリスティ"
 
 msgctxt "Names/KEY_FAMILY_NAME_CHULA"
 msgid "Chula"
-msgstr "Chula"
+msgstr "チュラ"
 
 msgctxt "Names/KEY_FAMILY_NAME_CLAES"
 msgid "Claes"
-msgstr "Claes"
+msgstr "クレス"
 
 msgctxt "Names/KEY_FAMILY_NAME_CLARK"
 msgid "Clark"
-msgstr "Clark"
+msgstr "クラーク"
 
 msgctxt "Names/KEY_FAMILY_NAME_CLARKE"
 msgid "Clarke"
-msgstr "Clarke"
+msgstr "クラーク"
 
 msgctxt "Names/KEY_FAMILY_NAME_CLEMENCE"
 msgid "Clemence"
-msgstr "Clemencia"
+msgstr "クレメンス"
 
 msgctxt "Names/KEY_FAMILY_NAME_COELHO"
 msgid "Coelho"
-msgstr "Coelho"
+msgstr "コエーリョ"
 
 msgctxt "Names/KEY_FAMILY_NAME_COLLEY"
 msgid "Colley"
-msgstr "Colley"
+msgstr "コリー"
 
 msgctxt "Names/KEY_FAMILY_NAME_COLLINS"
 msgid "Collins"
-msgstr "Collins"
+msgstr "コリンズ"
 
 msgctxt "Names/KEY_FAMILY_NAME_COLOMBO"
 msgid "Colombo"
-msgstr "Colombo"
+msgstr "コロンボ"
 
 msgctxt "Names/KEY_FAMILY_NAME_CONTRERAS"
 msgid "Contreras"
-msgstr "Contreras"
+msgstr "コントレラス"
 
 msgctxt "Names/KEY_FAMILY_NAME_CONYERS"
 msgid "Conyers"
-msgstr "Conyers"
+msgstr "コンヤーズ"
 
 msgctxt "Names/KEY_FAMILY_NAME_CORADO"
 msgid "Corado"
-msgstr "Corado"
+msgstr "コラード"
 
 msgctxt "Names/KEY_FAMILY_NAME_CORDEIRO"
 msgid "Cordeiro"
-msgstr "Cordeiro"
+msgstr "コルデイロ"
 
 msgctxt "Names/KEY_FAMILY_NAME_CORREIA"
 msgid "Correia"
-msgstr "Correia"
+msgstr "コレイア"
 
 msgctxt "Names/KEY_FAMILY_NAME_CORTES"
 msgid "Cortés"
-msgstr "Cortés"
+msgstr "コルテス"
 
 msgctxt "Names/KEY_FAMILY_NAME_COSMAS"
 msgid "Cosmas"
-msgstr "Cosmas"
+msgstr "コスマス"
 
 msgctxt "Names/KEY_FAMILY_NAME_COSTAS"
 msgid "Costas"
-msgstr "Costas"
+msgstr "コスタス"
 
 msgctxt "Names/KEY_FAMILY_NAME_COTTA"
 msgid "Cotta"
-msgstr "Cotta"
+msgstr "コッタ"
 
 msgctxt "Names/KEY_FAMILY_NAME_COUPLAND"
 msgid "Coupland"
-msgstr "Coupland"
+msgstr "クープランド"
 
 msgctxt "Names/KEY_FAMILY_NAME_COURTENAY"
 msgid "Courtenay"
-msgstr "Courtenay"
+msgstr "コートネイ"
 
 msgctxt "Names/KEY_FAMILY_NAME_COUTINHO"
 msgid "Coutinho"
-msgstr "Coutinho"
+msgstr "コウチーニョ"
 
 msgctxt "Names/KEY_FAMILY_NAME_COUTO"
 msgid "Couto"
-msgstr "Couto"
+msgstr "コウト"
 
 msgctxt "Names/KEY_FAMILY_NAME_CRIADO"
 msgid "Criado"
-msgstr "Criado"
+msgstr "クラド"
 
 msgctxt "Names/KEY_FAMILY_NAME_CSABA"
 msgid "Csaba"
-msgstr "Csaba"
+msgstr "チャバ"
 
 msgctxt "Names/KEY_FAMILY_NAME_CUEVAS"
 msgid "Cuevas"
-msgstr "Cuevas"
+msgstr "クエバス"
 
 msgctxt "Names/KEY_FAMILY_NAME_CUNHA"
 msgid "Cunha"
-msgstr "Cunha"
+msgstr "クーニャ"
 
 msgctxt "Names/KEY_FAMILY_NAME_DADU"
 msgid "Dadu"
-msgstr "dadu"
+msgstr "ダドゥ"
 
 msgctxt "Names/KEY_FAMILY_NAME_DAIMON"
 msgid "Daimon"
-msgstr "Daimon"
+msgstr "ダイモン"
 
 msgctxt "Names/KEY_FAMILY_NAME_DANIELSSON"
 msgid "Danielsson"
-msgstr "Danielsson"
+msgstr "ダニエルソン"
 
 msgctxt "Names/KEY_FAMILY_NAME_DANSO"
 msgid "Danso"
-msgstr "Danso"
+msgstr "ダンソ"
 
 msgctxt "Names/KEY_FAMILY_NAME_DAOUD"
 msgid "Daoud"
-msgstr "Daoud"
+msgstr "ダウド"
 
 msgctxt "Names/KEY_FAMILY_NAME_DARRELL"
 msgid "Darrell"
-msgstr "Darrell"
+msgstr "ダレル"
 
 msgctxt "Names/KEY_FAMILY_NAME_DASS"
 msgid "Dass"
-msgstr "dass"
+msgstr "ダス"
 
 msgctxt "Names/KEY_FAMILY_NAME_DAVID"
 msgid "David"
-msgstr "David"
+msgstr "デビッド"
 
 msgctxt "Names/KEY_FAMILY_NAME_DAVIES"
 msgid "Davies"
-msgstr "Davies"
+msgstr "デイヴィス"
 
 msgctxt "Names/KEY_FAMILY_NAME_DAVIS"
 msgid "Davis"
-msgstr "Davis"
+msgstr "デービス"
 
 msgctxt "Names/KEY_FAMILY_NAME_DAWSON"
 msgid "Dawson"
-msgstr "Dawson"
+msgstr "ドーソン"
 
 msgctxt "Names/KEY_FAMILY_NAME_DA_CUNHA"
 msgid "Da Cunha"
-msgstr "da Cunha"
+msgstr "ダ・クーニャ"
 
 msgctxt "Names/KEY_FAMILY_NAME_DEWA"
 msgid "Dewa"
-msgstr "dewa"
+msgstr "デワ"
 
 msgctxt "Names/KEY_FAMILY_NAME_DE_SMET"
 msgid "De Smet"
-msgstr "de Smet"
+msgstr "デ・スメット"
 
 msgctxt "Names/KEY_FAMILY_NAME_DIALLO"
 msgid "Diallo"
-msgstr "Diallo"
+msgstr "ディアロ"
 
 msgctxt "Names/KEY_FAMILY_NAME_DIAS"
 msgid "Días"
-msgstr "Días"
+msgstr "ディアス"
 
 msgctxt "Names/KEY_FAMILY_NAME_DOMINGUEZ"
 msgid "Dominguez"
-msgstr "Domínguez"
+msgstr "ドミンゲス"
 
 msgctxt "Names/KEY_FAMILY_NAME_DOMINICK"
 msgid "Dominick"
-msgstr "Dominick"
+msgstr "ドミニク"
 
 msgctxt "Names/KEY_FAMILY_NAME_DRAME"
 msgid "Drame"
-msgstr "Drame"
+msgstr "ドレーム"
 
 msgctxt "Names/KEY_FAMILY_NAME_DUBOIS"
 msgid "Dubois"
-msgstr "Dubois"
+msgstr "デュボワ"
 
 msgctxt "Names/KEY_FAMILY_NAME_DUMITRESCU"
 msgid "Dumitrescu"
-msgstr "Dumitrescu"
+msgstr "ドゥミトレスク"
 
 msgctxt "Names/KEY_FAMILY_NAME_DUMITRU"
 msgid "Dumitru"
-msgstr "Dumitru"
+msgstr "ドゥミトル"
 
 msgctxt "Names/KEY_FAMILY_NAME_DURHAM"
 msgid "Durham"
-msgstr "Durham"
+msgstr "ダラム"
 
 msgctxt "Names/KEY_FAMILY_NAME_EBNER"
 msgid "Ebner"
-msgstr "Ebner"
+msgstr "エブナー"
 
 msgctxt "Names/KEY_FAMILY_NAME_EDER"
 msgid "Eder"
-msgstr "Eder"
+msgstr "エダー"
 
 msgctxt "Names/KEY_FAMILY_NAME_EDWARDS"
 msgid "Edwards"
-msgstr "Edwards"
+msgstr "エドワーズ"
 
 msgctxt "Names/KEY_FAMILY_NAME_EDWIN"
 msgid "Edwin"
-msgstr "Edwin"
+msgstr "エドウィン"
 
 msgctxt "Names/KEY_FAMILY_NAME_EJIOFOR"
 msgid "Ejiofor"
-msgstr "Ejiofor"
+msgstr "イジョフォー"
 
 msgctxt "Names/KEY_FAMILY_NAME_EKSTROM"
 msgid "Ekström"
-msgstr "Ekström"
+msgstr "イェークストロム"
 
 msgctxt "Names/KEY_FAMILY_NAME_EL-HADDAD"
 msgid "El-Haddad"
-msgstr "El-Haddad"
+msgstr "エルハダッド"
 
 msgctxt "Names/KEY_FAMILY_NAME_ELLIS"
 msgid "Ellis"
-msgstr "Ellis"
+msgstr "エリス"
 
 msgctxt "Names/KEY_FAMILY_NAME_EL_MAHDI"
 msgid "El Mahdi"
-msgstr "El Mahdi"
+msgstr "エル・マーディ"
 
 msgctxt "Names/KEY_FAMILY_NAME_EL_MASRY"
 msgid "El Masry"
-msgstr "El Masry"
+msgstr "エル・マスリ"
 
 msgctxt "Names/KEY_FAMILY_NAME_EMAN"
 msgid "Eman"
-msgstr "Eman"
+msgstr "エマン"
 
 msgctxt "Names/KEY_FAMILY_NAME_EMMANUEL"
 msgid "Emmanuel"
-msgstr "Emmanuel"
+msgstr "エマニュエル"
 
 msgctxt "Names/KEY_FAMILY_NAME_ERZSEBET"
 msgid "Erzsébet"
-msgstr "Erzsébet"
+msgstr "エルジェーベト"
 
 msgctxt "Names/KEY_FAMILY_NAME_ESPOSITO"
 msgid "Esposito"
-msgstr "Esposito"
+msgstr "エスポジート"
 
 msgctxt "Names/KEY_FAMILY_NAME_EVANS"
 msgid "Evans"
-msgstr "Evans"
+msgstr "エヴァンス"
 
 msgctxt "Names/KEY_FAMILY_NAME_EZEKIEL"
 msgid "Ezekiel"
-msgstr "Ezequiel"
+msgstr "エゼキエル"
 
 msgctxt "Names/KEY_FAMILY_NAME_FARAH"
 msgid "Farah"
-msgstr "Farah"
+msgstr "ファラー"
 
 msgctxt "Names/KEY_FAMILY_NAME_FARHAT"
 msgid "Farhat"
-msgstr "Farhat"
+msgstr "ファーハット"
 
 msgctxt "Names/KEY_FAMILY_NAME_FARRELL"
 msgid "Farrell"
-msgstr "Farrell"
+msgstr "ファレル"
 
 msgctxt "Names/KEY_FAMILY_NAME_FAYA"
 msgid "Faya"
-msgstr "Faya"
+msgstr "ファヤ"
 
 msgctxt "Names/KEY_FAMILY_NAME_FIFI"
 msgid "Fifi"
-msgstr "Fifi"
+msgstr "フィフィ"
 
 msgctxt "Names/KEY_FAMILY_NAME_FISCHER"
 msgid "Fischer"
-msgstr "Fischer"
+msgstr "フィッシャー"
 
 msgctxt "Names/KEY_FAMILY_NAME_FORSBERG"
 msgid "Forsberg"
-msgstr "Forsberg"
+msgstr "フォースバーグ"
 
 msgctxt "Names/KEY_FAMILY_NAME_FOX"
 msgid "Fox"
-msgstr "zorro"
+msgstr "フォックス"
 
 msgctxt "Names/KEY_FAMILY_NAME_FRANCIS"
 msgid "Francis"
-msgstr "Francis"
+msgstr "フランシス"
 
 msgctxt "Names/KEY_FAMILY_NAME_FRANK"
 msgid "Frank"
-msgstr "Franco"
+msgstr "フランク"
 
 msgctxt "Names/KEY_FAMILY_NAME_FRIEDRICH"
 msgid "Friedrich"
-msgstr "Friedrich"
+msgstr "フリードリヒ"
 
 msgctxt "Names/KEY_FAMILY_NAME_FUENTES"
 msgid "Fuentes"
-msgstr "Fuentes"
+msgstr "フエンテス"
 
 msgctxt "Names/KEY_FAMILY_NAME_FUSI"
 msgid "Fusi"
-msgstr "Fusi"
+msgstr "フュージ"
 
 msgctxt "Names/KEY_FAMILY_NAME_GAMA"
 msgid "Gama"
-msgstr "Gama"
+msgstr "ガマ"
 
 msgctxt "Names/KEY_FAMILY_NAME_GAMAL"
 msgid "Gamal"
-msgstr "Gamal"
+msgstr "ガマル"
 
 msgctxt "Names/KEY_FAMILY_NAME_GAMBI"
 msgid "Gambi"
-msgstr "gambi"
+msgstr "ガンビ"
 
 msgctxt "Names/KEY_FAMILY_NAME_GARCIA"
 msgid "Garcia"
-msgstr "García"
+msgstr "ガルシア"
 
 msgctxt "Names/KEY_FAMILY_NAME_GARDNER"
 msgid "Gardner"
-msgstr "Gardner"
+msgstr "ガードナー"
 
 msgctxt "Names/KEY_FAMILY_NAME_GAUTIER"
 msgid "Gautier"
-msgstr "Gautier"
+msgstr "ゴーティエ"
 
 msgctxt "Names/KEY_FAMILY_NAME_GELOVANI"
 msgid "Gelovani"
-msgstr "Gelovani"
+msgstr "ジェロバニ"
 
 msgctxt "Names/KEY_FAMILY_NAME_GEORGE"
 msgid "George"
-msgstr "Jorge"
+msgstr "ジョージ"
 
 msgctxt "Names/KEY_FAMILY_NAME_GEZA"
 msgid "Géza"
-msgstr "Géza"
+msgstr "ゲーザ"
 
 msgctxt "Names/KEY_FAMILY_NAME_GIBSON"
 msgid "Gibson"
-msgstr "Gibson"
+msgstr "ギブソン"
 
 msgctxt "Names/KEY_FAMILY_NAME_GIL"
 msgid "Gil"
-msgstr "Gil"
+msgstr "ギル"
 
 msgctxt "Names/KEY_FAMILY_NAME_GILL"
 msgid "Gill"
-msgstr "Branquia"
+msgstr "ギル"
 
 msgctxt "Names/KEY_FAMILY_NAME_GODOY"
 msgid "Godoy"
-msgstr "Godoy"
+msgstr "ゴドイ"
 
 msgctxt "Names/KEY_FAMILY_NAME_GOMEZ"
 msgid "Gómez"
-msgstr "Gómez"
+msgstr "ゴメス"
 
 msgctxt "Names/KEY_FAMILY_NAME_GONZALEZ"
 msgid "Gonzalez"
-msgstr "González"
+msgstr "ゴンザレス"
 
 msgctxt "Names/KEY_FAMILY_NAME_GOOSSENS"
 msgid "Goossens"
-msgstr "Goossens"
+msgstr "グーセンス"
 
 msgctxt "Names/KEY_FAMILY_NAME_GORDON"
 msgid "Gordon"
-msgstr "Gordon"
+msgstr "ゴードン"
 
 msgctxt "Names/KEY_FAMILY_NAME_GOUVEIA"
 msgid "Gouveia"
-msgstr "Gouveia"
+msgstr "ゴベア"
 
 msgctxt "Names/KEY_FAMILY_NAME_GRAHAM"
 msgid "Graham"
-msgstr "Graham"
+msgstr "グラハム"
 
 msgctxt "Names/KEY_FAMILY_NAME_GRANT"
 msgid "Grant"
-msgstr "Conceder"
+msgstr "グラント"
 
 msgctxt "Names/KEY_FAMILY_NAME_GRAY"
 msgid "Gray"
-msgstr "gris"
+msgstr "グレイ"
 
 msgctxt "Names/KEY_FAMILY_NAME_GREYSON"
 msgid "Greyson"
-msgstr "Greyson"
+msgstr "グレイソン"
 
 msgctxt "Names/KEY_FAMILY_NAME_GRIFFITH"
 msgid "Griffith"
-msgstr "Griffith"
+msgstr "グリフィス"
 
 msgctxt "Names/KEY_FAMILY_NAME_GRIFFITHS"
 msgid "Griffiths"
-msgstr "Griffiths"
+msgstr "グリフィス"
 
 msgctxt "Names/KEY_FAMILY_NAME_GROSS"
 msgid "Groß"
-msgstr "Bruto"
+msgstr "グロース"
 
 msgctxt "Names/KEY_FAMILY_NAME_GUERRERO"
 msgid "Guerrero"
-msgstr "Guerrero"
+msgstr "ゲレーロ"
 
 msgctxt "Names/KEY_FAMILY_NAME_GUISSE"
 msgid "Guissé"
-msgstr "Guissé"
+msgstr "ゲス"
 
 msgctxt "Names/KEY_FAMILY_NAME_GULIYEV"
 msgid "Guliyev"
-msgstr "Guliyev"
+msgstr "グリエフ"
 
 msgctxt "Names/KEY_FAMILY_NAME_GUNTHER"
 msgid "Günther"
-msgstr "Günther"
+msgstr "ギュンター"
 
 msgctxt "Names/KEY_FAMILY_NAME_GUTIERREZ"
 msgid "Gutierrez"
-msgstr "Gutiérrez"
+msgstr "グティエレス"
 
 msgctxt "Names/KEY_FAMILY_NAME_GUZMAN"
 msgid "Guzman"
-msgstr "Guzmán"
+msgstr "グスマン"
 
 msgctxt "Names/KEY_FAMILY_NAME_GYORGY"
 msgid "György"
-msgstr "György"
+msgstr "ジェルジュ"
 
 msgctxt "Names/KEY_FAMILY_NAME_HADAD"
 msgid "Hadad"
-msgstr "Hadad"
+msgstr "ハダド"
 
 msgctxt "Names/KEY_FAMILY_NAME_HADDAD"
 msgid "Haddad"
-msgstr "Haddad"
+msgstr "アダジ"
 
 msgctxt "Names/KEY_FAMILY_NAME_HADZIC"
 msgid "Hadžić"
-msgstr "Hadzic"
+msgstr "ハジック"
 
 msgctxt "Names/KEY_FAMILY_NAME_HAJI"
 msgid "Haji"
-msgstr "Haji"
+msgstr "ハジ"
 
 msgctxt "Names/KEY_FAMILY_NAME_HAMIDOU"
 msgid "Hamidou"
-msgstr "hamidou"
+msgstr "ハミドゥ"
 
 msgctxt "Names/KEY_FAMILY_NAME_HAMILTON"
 msgid "Hamilton"
-msgstr "Hamilton"
+msgstr "ハミルトン"
 
 msgctxt "Names/KEY_FAMILY_NAME_HARRIS"
 msgid "Harris"
-msgstr "Harris"
+msgstr "ハリス"
 
 msgctxt "Names/KEY_FAMILY_NAME_HARRISON"
 msgid "Harrison"
-msgstr "Harrison"
+msgstr "ハリソン"
 
 msgctxt "Names/KEY_FAMILY_NAME_HARTMANN"
 msgid "Hartmann"
-msgstr "Hartmann"
+msgstr "ハートマン"
 
 msgctxt "Names/KEY_FAMILY_NAME_HARU"
 msgid "Haru"
-msgstr "Haru"
+msgstr "ハル"
 
 msgctxt "Names/KEY_FAMILY_NAME_HARVEY"
 msgid "Harvey"
-msgstr "Harvey"
+msgstr "ハーヴェイ"
 
 msgctxt "Names/KEY_FAMILY_NAME_HASANOV"
 msgid "Hasanov"
-msgstr "Hasanov"
+msgstr "ハサノフ"
 
 msgctxt "Names/KEY_FAMILY_NAME_HASANOVIC"
 msgid "Hasanović"
-msgstr "Hasanović"
+msgstr "ハサノヴィック"
 
 msgctxt "Names/KEY_FAMILY_NAME_HE"
 msgid "Hé"
-msgstr "Él"
+msgstr "フ―"
 
 msgctxt "Names/KEY_FAMILY_NAME_HEILIG"
 msgid "Heilig"
-msgstr "Heilig"
+msgstr "ハイリヒ"
 
 msgctxt "Names/KEY_FAMILY_NAME_HENRY"
 msgid "Henry"
-msgstr "Enrique"
+msgstr "ヘンリー"
 
 msgctxt "Names/KEY_FAMILY_NAME_HERMAN"
 msgid "Herman"
-msgstr "Germán"
+msgstr "ハーマン"
 
 msgctxt "Names/KEY_FAMILY_NAME_HERNANDEZ"
 msgid "Hernández"
-msgstr "Hernández"
+msgstr "エルナンデス"
 
 msgctxt "Names/KEY_FAMILY_NAME_HOFER"
 msgid "Hofer"
-msgstr "Hofer"
+msgstr "ホーファー"
 
 msgctxt "Names/KEY_FAMILY_NAME_HOLMGREN"
 msgid "Holmgren"
-msgstr "Holmgren"
+msgstr "ホルグレン"
 
 msgctxt "Names/KEY_FAMILY_NAME_HORVAT"
 msgid "Horvat"
-msgstr "Horvat"
+msgstr "ホルヴァート"
 
 msgctxt "Names/KEY_FAMILY_NAME_HOSSAIN"
 msgid "Hossain"
-msgstr "Hossain"
+msgstr "フセイン"
 
 msgctxt "Names/KEY_FAMILY_NAME_HOVHANNISYAN"
 msgid "Hovhannisyan"
-msgstr "Hovhannisyan"
+msgstr "ホヴァニシアン"
 
 msgctxt "Names/KEY_FAMILY_NAME_HUDSON"
 msgid "Hudson"
-msgstr "Hudson"
+msgstr "ハドソン"
 
 msgctxt "Names/KEY_FAMILY_NAME_HUSEYNOV"
 msgid "Huseynov"
-msgstr "Huseynov"
+msgstr "ヒュージノフ"
 
 msgctxt "Names/KEY_FAMILY_NAME_HUSSAIN"
 msgid "Hussain"
-msgstr "Hussain"
+msgstr "フサイン"
 
 msgctxt "Names/KEY_FAMILY_NAME_IBRAHIM"
 msgid "Ibrahim"
-msgstr "Ibrahim"
+msgstr "イブラヒム"
 
 msgctxt "Names/KEY_FAMILY_NAME_IBRAHIMOV"
 msgid "Ibrahimov"
-msgstr "Ibrahimov"
+msgstr "イブラヒモフ"
 
 msgctxt "Names/KEY_FAMILY_NAME_IBRAHIMOVIC"
 msgid "Ibrahimović"
-msgstr "Ibrahimović"
+msgstr "イブラヒモビッチ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ILIESCU"
 msgid "Iliescu"
-msgstr "Iliescu"
+msgstr "イリエスク"
 
 msgctxt "Names/KEY_FAMILY_NAME_ILIEV"
 msgid "Iliev"
-msgstr "Iliev"
+msgstr "イリエフ"
 
 msgctxt "Names/KEY_FAMILY_NAME_IMAM"
 msgid "Imam"
-msgstr "Imán"
+msgstr "イマーム"
 
 msgctxt "Names/KEY_FAMILY_NAME_IMRAN"
 msgid "Imran"
-msgstr "Imran"
+msgstr "イムラーン"
 
 msgctxt "Names/KEY_FAMILY_NAME_IMRE"
 msgid "Imre"
-msgstr "Imre"
+msgstr "イムレ"
 
 msgctxt "Names/KEY_FAMILY_NAME_INGRAHAM"
 msgid "Ingraham"
-msgstr "Ingraham"
+msgstr "イングラム"
 
 msgctxt "Names/KEY_FAMILY_NAME_IONESCO"
 msgid "Ionesco"
-msgstr "Ionesco"
+msgstr "イヨネスコ"
 
 msgctxt "Names/KEY_FAMILY_NAME_IONESCU"
 msgid "Ionescu"
-msgstr "Ionescu"
+msgstr "イオネスク"
 
 msgctxt "Names/KEY_FAMILY_NAME_ISHAK"
 msgid "Ishak"
-msgstr "Ishak"
+msgstr "イシャク"
 
 msgctxt "Names/KEY_FAMILY_NAME_ISSA"
 msgid "Issa"
-msgstr "Issa"
+msgstr "イサ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ISTVAN"
 msgid "István"
-msgstr "István"
+msgstr "イシュトヴァン"
 
 msgctxt "Names/KEY_FAMILY_NAME_IVANOVA"
 msgid "Ivanova"
-msgstr "Ivanova"
+msgstr "イヴァノヴァ"
 
 msgctxt "Names/KEY_FAMILY_NAME_JABIR"
 msgid "Jabir"
-msgstr "jabir"
+msgstr "ジャービル"
 
 msgctxt "Names/KEY_FAMILY_NAME_JACKSON"
 msgid "Jackson"
-msgstr "Jackson"
+msgstr "ジャクソン"
 
 msgctxt "Names/KEY_FAMILY_NAME_JALALA"
 msgid "Jalala"
-msgstr "jalala"
+msgstr "ジャララ"
 
 msgctxt "Names/KEY_FAMILY_NAME_JAMAL"
 msgid "Jamal"
-msgstr "Jamal"
+msgstr "ジャマル"
 
 msgctxt "Names/KEY_FAMILY_NAME_JAMES"
 msgid "James"
-msgstr "James"
+msgstr "ジェームズ"
 
 msgctxt "Names/KEY_FAMILY_NAME_JAMMEH"
 msgid "Jammeh"
-msgstr "Jammeh"
+msgstr "ジャメ"
 
 msgctxt "Names/KEY_FAMILY_NAME_JANNEH"
 msgid "Janneh"
-msgstr "Janneh"
+msgstr "ジャネェ"
 
 msgctxt "Names/KEY_FAMILY_NAME_JANOS"
 msgid "János"
-msgstr "János"
+msgstr "ヤーノシュ"
 
 msgctxt "Names/KEY_FAMILY_NAME_JANSSENS"
 msgid "Janssens"
-msgstr "Janssens"
+msgstr "ジェンセンス"
 
 msgctxt "Names/KEY_FAMILY_NAME_JARED"
 msgid "Jared"
-msgstr "Jared"
+msgstr "ジャレド"
 
 msgctxt "Names/KEY_FAMILY_NAME_JEAN_BAPTISTE"
 msgid "Jean Baptiste"
-msgstr "Jean Baptiste"
+msgstr "ジャン・バティスト"
 
 msgctxt "Names/KEY_FAMILY_NAME_JEAN_LOUIS"
 msgid "Jean Louis"
-msgstr "Jean Louis"
+msgstr "ジャン・ルイ"
 
 msgctxt "Names/KEY_FAMILY_NAME_JEN"
 msgid "Jen"
-msgstr "Jen"
+msgstr "ジェン"
 
 msgctxt "Names/KEY_FAMILY_NAME_JENKINS"
 msgid "Jenkins"
-msgstr "Jenkins"
+msgstr "ジェンキンス"
 
 msgctxt "Names/KEY_FAMILY_NAME_JEREMIAH"
 msgid "Jeremiah"
-msgstr "Jeremías"
+msgstr "エレミヤ"
 
 msgctxt "Names/KEY_FAMILY_NAME_JESSE"
 msgid "Jesse"
-msgstr "Jesse"
+msgstr "ジェシー"
 
 msgctxt "Names/KEY_FAMILY_NAME_JIMENEZ"
 msgid "Jiménez"
-msgstr "Jiménez"
+msgstr "ヒメネス"
 
 msgctxt "Names/KEY_FAMILY_NAME_JINGU"
 msgid "Jingu"
-msgstr "Jingu"
+msgstr "ジングー"
 
 msgctxt "Names/KEY_FAMILY_NAME_JOBE"
 msgid "Jobe"
-msgstr "Jobe"
+msgstr "ジョーブ"
 
 msgctxt "Names/KEY_FAMILY_NAME_JOHN"
 msgid "John"
-msgstr "Juan"
+msgstr "ジョン"
 
 msgctxt "Names/KEY_FAMILY_NAME_JOHNSON"
 msgid "Johnson"
-msgstr "Johnson"
+msgstr "ジョンソン"
 
 msgctxt "Names/KEY_FAMILY_NAME_JOHNSTON"
 msgid "Johnston"
-msgstr "Johnston"
+msgstr "ジョンストン"
 
 msgctxt "Names/KEY_FAMILY_NAME_JONES"
 msgid "Jones"
-msgstr "Jones"
+msgstr "ジョーンズ"
 
 msgctxt "Names/KEY_FAMILY_NAME_JOSEPH"
 msgid "Joseph"
-msgstr "Joseph"
+msgstr "ジョセフ"
 
 msgctxt "Names/KEY_FAMILY_NAME_JURIC"
 msgid "Jurić"
-msgstr "Jurić"
+msgstr "ジュリック"
 
 msgctxt "Names/KEY_FAMILY_NAME_KABIR"
 msgid "Kabir"
-msgstr "Kabir"
+msgstr "カビール"
 
 msgctxt "Names/KEY_FAMILY_NAME_KABORE"
 msgid "Kabore"
-msgstr "kabore"
+msgstr "カボレ"
 
 msgctxt "Names/KEY_FAMILY_NAME_KAGURA"
 msgid "Kagura"
-msgstr "Kagura"
+msgstr "カグラ"
 
 msgctxt "Names/KEY_FAMILY_NAME_KAH"
 msgid "Kah"
-msgstr "Kah"
+msgstr "カー"
 
 msgctxt "Names/KEY_FAMILY_NAME_KAMIL"
 msgid "Kamil"
-msgstr "Kamil"
+msgstr "カミーユ"
 
 msgctxt "Names/KEY_FAMILY_NAME_KAROLY"
 msgid "Károly"
-msgstr "Károly"
+msgstr "カーロイ"
 
 msgctxt "Names/KEY_FAMILY_NAME_KARONGA"
 msgid "Karonga"
-msgstr "Karonga"
+msgstr "カロンガ"
 
 msgctxt "Names/KEY_FAMILY_NAME_KARTAL"
 msgid "Kartal"
-msgstr "kartal"
+msgstr "カルタル"
 
 msgctxt "Names/KEY_FAMILY_NAME_KARZAI"
 msgid "Karzai"
-msgstr "Karzai"
+msgstr "カルザイ"
 
 msgctxt "Names/KEY_FAMILY_NAME_KATALIN"
 msgid "Katalin"
-msgstr "Katalin"
+msgstr "カタリン"
 
 msgctxt "Names/KEY_FAMILY_NAME_KATEB"
 msgid "Kateb"
-msgstr "Kateb"
+msgstr "カテブ"
 
 msgctxt "Names/KEY_FAMILY_NAME_KAUR"
 msgid "Kaur"
-msgstr "Kaur"
+msgstr "カウル"
 
 msgctxt "Names/KEY_FAMILY_NAME_KAZANTZAKIS"
 msgid "Kazantzakis"
-msgstr "Kazantzakis"
+msgstr "カザンザキス"
 
 msgctxt "Names/KEY_FAMILY_NAME_KEITA"
 msgid "Keita"
-msgstr "Keita"
+msgstr "ケイタ"
 
 msgctxt "Names/KEY_FAMILY_NAME_KELLY"
 msgid "Kelly"
-msgstr "Kelly"
+msgstr "ケリー"
 
 msgctxt "Names/KEY_FAMILY_NAME_KENNEDY"
 msgid "Kennedy"
-msgstr "Kennedy"
+msgstr "ケネディ"
 
 msgctxt "Names/KEY_FAMILY_NAME_KHACHATRYAN"
 msgid "Khachatryan "
-msgstr "Khachatryan"
+msgstr "ハチャトゥリアン"
 
 msgctxt "Names/KEY_FAMILY_NAME_KHALIF"
 msgid "Khalif"
-msgstr "khalif"
+msgstr "カリフ"
 
 msgctxt "Names/KEY_FAMILY_NAME_KHAY"
 msgid "Khay"
-msgstr "khay"
+msgstr "カイ"
 
 msgctxt "Names/KEY_FAMILY_NAME_KIBA WANGMO"
 msgid "Kiba Wangmo"
-msgstr "Kiba Wangmo"
+msgstr "キバ・ワンモ"
 
 msgctxt "Names/KEY_FAMILY_NAME_KIBA_WANGMO"
 msgid "Kiba Wangmo"
-msgstr "Kiba Wangmo"
+msgstr "キバ・ワンモ"
 
 msgctxt "Names/KEY_FAMILY_NAME_KIM"
 msgid "Kim"
-msgstr "Kim"
+msgstr "キム"
 
 msgctxt "Names/KEY_FAMILY_NAME_KISHISHEV"
 msgid "Kishishev"
-msgstr "Kishishev"
+msgstr "キシシェフ"
 
 msgctxt "Names/KEY_FAMILY_NAME_KLEIN"
 msgid "Klein"
-msgstr "Klein"
+msgstr "クライン"
 
 msgctxt "Names/KEY_FAMILY_NAME_KOBE"
 msgid "Kobe"
-msgstr "Kobe"
+msgstr "コービー"
 
 msgctxt "Names/KEY_FAMILY_NAME_KOFFI"
 msgid "Koffi"
-msgstr "koffi"
+msgstr "コフィ"
 
 msgctxt "Names/KEY_FAMILY_NAME_KOFI"
 msgid "Kofi"
-msgstr "Kofi"
+msgstr "コフィー"
 
 msgctxt "Names/KEY_FAMILY_NAME_KOHLER"
 msgid "Köhler"
-msgstr "Köhler"
+msgstr "ケーラー"
 
 msgctxt "Names/KEY_FAMILY_NAME_KOJO"
 msgid "Kojo"
-msgstr "Kojo"
+msgstr "コジョ"
 
 msgctxt "Names/KEY_FAMILY_NAME_KOSI"
 msgid "Kosi"
-msgstr "kosi"
+msgstr "コシ"
 
 msgctxt "Names/KEY_FAMILY_NAME_KOVACEVIC"
 msgid "Kovačević"
-msgstr "Kovačević"
+msgstr "コヴァチェヴィック"
 
 msgctxt "Names/KEY_FAMILY_NAME_KRAMER"
 msgid "Krämer"
-msgstr "Krämer"
+msgstr "クレーマー"
 
 msgctxt "Names/KEY_FAMILY_NAME_KRAUSE"
 msgid "Krause"
-msgstr "Krause"
+msgstr "クラウゼ"
 
 msgctxt "Names/KEY_FAMILY_NAME_KREMER"
 msgid "Kremer"
-msgstr "Kremer"
+msgstr "クレーメル"
 
 msgctxt "Names/KEY_FAMILY_NAME_KRISTENSEN"
 msgid "Kristensen"
-msgstr "Kristensen"
+msgstr "クリステンセン"
 
 msgctxt "Names/KEY_FAMILY_NAME_KROGH"
 msgid "Krogh"
-msgstr "Krogh"
+msgstr "クローグ"
 
 msgctxt "Names/KEY_FAMILY_NAME_KRUGER"
 msgid "Krüger"
-msgstr "Krüger"
+msgstr "クルーガー"
 
 msgctxt "Names/KEY_FAMILY_NAME_KUHN"
 msgid "Kühn"
-msgstr "Kühn"
+msgstr "キューン"
 
 msgctxt "Names/KEY_FAMILY_NAME_KWASI"
 msgid "Kwasi"
-msgstr "kwasi"
+msgstr "クワシ"
 
 msgctxt "Names/KEY_FAMILY_NAME_LAJOS"
 msgid "Lajos"
-msgstr "Lajos"
+msgstr "ラヨシュ"
 
 msgctxt "Names/KEY_FAMILY_NAME_LAMBERT"
 msgid "Lambert"
-msgstr "Lambert"
+msgstr "ランバート"
 
 msgctxt "Names/KEY_FAMILY_NAME_LARSSON"
 msgid "Larsson"
-msgstr "Larsson"
+msgstr "ラーソン"
 
 msgctxt "Names/KEY_FAMILY_NAME_LASZLO"
 msgid "László"
-msgstr "László"
+msgstr "ラースロー"
 
 msgctxt "Names/KEY_FAMILY_NAME_LAWRENCE"
 msgid "Lawrence"
-msgstr "Lawrence"
+msgstr "ローレンス"
 
 msgctxt "Names/KEY_FAMILY_NAME_LEBLANC"
 msgid "Leblanc"
-msgstr "Leblanc"
+msgstr "ルブラン"
 
 msgctxt "Names/KEY_FAMILY_NAME_LEFEBVRE"
 msgid "Lefebvre"
-msgstr "Lefebvre"
+msgstr "ルフェーヴル"
 
 msgctxt "Names/KEY_FAMILY_NAME_LEHNER"
 msgid "Lehner"
-msgstr "Lehner"
+msgstr "リーナー"
 
 msgctxt "Names/KEY_FAMILY_NAME_LEHTONEN"
 msgid "Lehtonen"
-msgstr "Lehtonen"
+msgstr "リトーネン"
 
 msgctxt "Names/KEY_FAMILY_NAME_LEONG"
 msgid "Leong"
-msgstr "Leong"
+msgstr "リョン"
 
 msgctxt "Names/KEY_FAMILY_NAME_LEWIS"
 msgid "Lewis"
-msgstr "Luis"
+msgstr "ルイス"
 
 msgctxt "Names/KEY_FAMILY_NAME_LIMA"
 msgid "Lima"
-msgstr "Lima"
+msgstr "リマ"
 
 msgctxt "Names/KEY_FAMILY_NAME_LINDQVIST"
 msgid "Lindqvist"
-msgstr "Lindqvist"
+msgstr "リンドクヴィスト"
 
 msgctxt "Names/KEY_FAMILY_NAME_LINNA"
 msgid "Linna"
-msgstr "Linna"
+msgstr "リンナ"
 
 msgctxt "Names/KEY_FAMILY_NAME_LOPEZ"
 msgid "Lopez"
-msgstr "López"
+msgstr "ロペス"
 
 msgctxt "Names/KEY_FAMILY_NAME_LORENZ"
 msgid "Lorenz"
-msgstr "Lorenz"
+msgstr "ローレンツ"
 
 msgctxt "Names/KEY_FAMILY_NAME_LOTI"
 msgid "Loti"
-msgstr "Loti"
+msgstr "ロティ"
 
 msgctxt "Names/KEY_FAMILY_NAME_LOUIS"
 msgid "Louis"
-msgstr "Louis"
+msgstr "ルイ"
 
 msgctxt "Names/KEY_FAMILY_NAME_LUDWIG"
 msgid "Ludwig"
-msgstr "Ludwig"
+msgstr "ルートヴィヒ"
 
 msgctxt "Names/KEY_FAMILY_NAME_LUNGU"
 msgid "Lungu"
-msgstr "lungu"
+msgstr "ルング"
 
 msgctxt "Names/KEY_FAMILY_NAME_MAGED"
 msgid "Maged"
-msgstr "mAGED"
+msgstr "マゲド"
 
 msgctxt "Names/KEY_FAMILY_NAME_MAGHAN"
 msgid "Maghan"
-msgstr "Maghan"
+msgstr "マガン"
 
 msgctxt "Names/KEY_FAMILY_NAME_MAHARAJ"
 msgid "Maharaj"
-msgstr "Maharaj"
+msgstr "マハラージ"
 
 msgctxt "Names/KEY_FAMILY_NAME_MALAYA"
 msgid "Malaya"
-msgstr "Malaya"
+msgstr "マラヤ"
 
 msgctxt "Names/KEY_FAMILY_NAME_MALICK"
 msgid "Malick"
-msgstr "Malick"
+msgstr "マリック"
 
 msgctxt "Names/KEY_FAMILY_NAME_MAMMADOV"
 msgid "Mammadov"
-msgstr "Mammadov"
+msgstr "マムマドフ"
 
 msgctxt "Names/KEY_FAMILY_NAME_MANCINI"
 msgid "Mancini"
-msgstr "Mancini"
+msgstr "マンシーニ"
 
 msgctxt "Names/KEY_FAMILY_NAME_MANDA"
 msgid "Manda"
-msgstr "Manda"
+msgstr "マンダ"
 
 msgctxt "Names/KEY_FAMILY_NAME_MANGUE"
 msgid "Mangue"
-msgstr "mangue"
+msgstr "マングィ"
 
 msgctxt "Names/KEY_FAMILY_NAME_MARIA"
 msgid "Mária"
-msgstr "Mária"
+msgstr "マリア"
 
 msgctxt "Names/KEY_FAMILY_NAME_MARIC"
 msgid "Marić"
-msgstr "Marić"
+msgstr "マリク"
 
 msgctxt "Names/KEY_FAMILY_NAME_MARINOV"
 msgid "Marinov"
-msgstr "marinov"
+msgstr "マリノフ"
 
 msgctxt "Names/KEY_FAMILY_NAME_MARKOVIC"
 msgid "Marković"
-msgstr "Markovic"
+msgstr "マルコヴィッチ"
 
 msgctxt "Names/KEY_FAMILY_NAME_MARSHALL"
 msgid "Marshall"
-msgstr "Marshall"
+msgstr "マーシャル"
 
 msgctxt "Names/KEY_FAMILY_NAME_MARTIN"
 msgid "Martín"
-msgstr "Martín"
+msgstr "マーティン"
 
 msgctxt "Names/KEY_FAMILY_NAME_MARTINEZ"
 msgid "Martinez"
-msgstr "Martínez"
+msgstr "マルティネス"
 
 msgctxt "Names/KEY_FAMILY_NAME_MARTON"
 msgid "Márton"
-msgstr "Márton"
+msgstr "マートン"
 
 msgctxt "Names/KEY_FAMILY_NAME_MATAKA"
 msgid "Mataka"
-msgstr "Mataka"
+msgstr "マターカ"
 
 msgctxt "Names/KEY_FAMILY_NAME_MATHE"
 msgid "Mathe"
-msgstr "Mathe"
+msgstr "マテ"
 
 msgctxt "Names/KEY_FAMILY_NAME_MCDONALD"
 msgid "Mcdonald"
-msgstr "McDonald"
+msgstr "マクドナルド"
 
 msgctxt "Names/KEY_FAMILY_NAME_MEJIA"
 msgid "Mejía"
-msgstr "Mejía"
+msgstr "メヒア"
 
 msgctxt "Names/KEY_FAMILY_NAME_MELES"
 msgid "Meles"
-msgstr "Meles"
+msgstr "メレス"
 
 msgctxt "Names/KEY_FAMILY_NAME_MELI"
 msgid "Meli"
-msgstr "Meli"
+msgstr "メリ"
 
 msgctxt "Names/KEY_FAMILY_NAME_MELINDA"
 msgid "Melinda"
-msgstr "Melinda"
+msgstr "メリンダ"
 
 msgctxt "Names/KEY_FAMILY_NAME_MENDES"
 msgid "Mendes"
-msgstr "Mendes"
+msgstr "メンデス"
 
 msgctxt "Names/KEY_FAMILY_NAME_MENDOZA"
 msgid "Mendoza"
-msgstr "Mendoza"
+msgstr "メンドーサ"
 
 msgctxt "Names/KEY_FAMILY_NAME_MENDY"
 msgid "Mendy"
-msgstr "Mendy"
+msgstr "メンディ"
 
 msgctxt "Names/KEY_FAMILY_NAME_MENSAH"
 msgid "Mensah"
-msgstr "Mensah"
+msgstr "メンサー"
 
 msgctxt "Names/KEY_FAMILY_NAME_MERTENS"
 msgid "Mertens"
-msgstr "Mertens"
+msgstr "メルテンス"
 
 msgctxt "Names/KEY_FAMILY_NAME_MICHEL"
 msgid "Michel"
-msgstr "Michel"
+msgstr "ミシェル"
 
 msgctxt "Names/KEY_FAMILY_NAME_MIRONOV"
 msgid "Mironov"
-msgstr "Mironov"
+msgstr "ミロノフ"
 
 msgctxt "Names/KEY_FAMILY_NAME_MOLLER"
 msgid "Möller"
-msgstr "Möller"
+msgstr "メーラー"
 
 msgctxt "Names/KEY_FAMILY_NAME_MOORE"
 msgid "Moore"
-msgstr "Moore"
+msgstr "ムーア"
 
 msgctxt "Names/KEY_FAMILY_NAME_MORGAN"
 msgid "Morgan"
-msgstr "Morgan"
+msgstr "モーガン"
 
 msgctxt "Names/KEY_FAMILY_NAME_MORRIS"
 msgid "Morris"
-msgstr "Morris"
+msgstr "モリス"
 
 msgctxt "Names/KEY_FAMILY_NAME_MOUSSA"
 msgid "Moussa"
-msgstr "Moussa"
+msgstr "ムサ"
 
 msgctxt "Names/KEY_FAMILY_NAME_MUJIB"
 msgid "Mujib"
-msgstr "mujib"
+msgstr "ムジブ"
 
 msgctxt "Names/KEY_FAMILY_NAME_MUMBA"
 msgid "Mumba"
-msgstr "mumba"
+msgstr "ムンバ"
 
 msgctxt "Names/KEY_FAMILY_NAME_MUNOZ"
 msgid "Muñoz"
-msgstr "Muñoz"
+msgstr "ムニョス"
 
 msgctxt "Names/KEY_FAMILY_NAME_MURATOVIC"
 msgid "Muratović"
-msgstr "Muratović"
+msgstr "ミュラトヴィック"
 
 msgctxt "Names/KEY_FAMILY_NAME_MURPHY"
 msgid "Murphy"
-msgstr "Murphy"
+msgstr "マーフィー"
 
 msgctxt "Names/KEY_FAMILY_NAME_MURRAY"
 msgid "Murray"
-msgstr "Murray"
+msgstr "マリー"
 
 msgctxt "Names/KEY_FAMILY_NAME_MUSTAFI"
 msgid "Mustafi"
-msgstr "Mustafi"
+msgstr "ムスタフィ"
 
 msgctxt "Names/KEY_FAMILY_NAME_MWANZA"
 msgid "Mwanza"
-msgstr "mwanza"
+msgstr "ムワンザ"
 
 msgctxt "Names/KEY_FAMILY_NAME_MÜLLER"
 msgid "Müller"
-msgstr "Müller"
+msgstr "ミュラー"
 
 msgctxt "Names/KEY_FAMILY_NAME_NARAYAN"
 msgid "Narayan"
-msgstr "Narayan"
+msgstr "ナラヤン"
 
 msgctxt "Names/KEY_FAMILY_NAME_NAWA"
 msgid "Nawa"
-msgstr "Nawa"
+msgstr "ナワ"
 
 msgctxt "Names/KEY_FAMILY_NAME_NIEMINEN"
 msgid "Nieminen"
-msgstr "Nieminen"
+msgstr "ニエミネン"
 
 msgctxt "Names/KEY_FAMILY_NAME_NIETO"
 msgid "Nieto"
-msgstr "Nieto"
+msgstr "ニエト"
 
 msgctxt "Names/KEY_FAMILY_NAME_NIKULA"
 msgid "Nikula"
-msgstr "nikula"
+msgstr "ニクラ"
 
 msgctxt "Names/KEY_FAMILY_NAME_NOEL"
 msgid "Noel"
-msgstr "Navidad"
+msgstr "ノエル"
 
 msgctxt "Names/KEY_FAMILY_NAME_NORBU WANGMO"
 msgid "Norbu Wangmo"
-msgstr "Norbu Wangmo"
+msgstr "ノルブ・ワンモ"
 
 msgctxt "Names/KEY_FAMILY_NAME_NORBU_WANGMO"
 msgid "Norbu Wangmo"
-msgstr "Norbu Wangmo"
+msgstr "ノルブ・ワンモ"
 
 msgctxt "Names/KEY_FAMILY_NAME_NOVAK"
 msgid "Novak"
-msgstr "Novak"
+msgstr "ノバク"
 
 msgctxt "Names/KEY_FAMILY_NAME_NOVIK"
 msgid "Novik"
-msgstr "Novik"
+msgstr "ノヴィク"
 
 msgctxt "Names/KEY_FAMILY_NAME_NYIKA"
 msgid "Nyika"
-msgstr "Nyika"
+msgstr "ニカ"
 
 msgctxt "Names/KEY_FAMILY_NAME_OBAMA"
 msgid "Obama"
-msgstr "Obama"
+msgstr "オバマ"
 
 msgctxt "Names/KEY_FAMILY_NAME_OBRIEN"
 msgid "O'Brien"
-msgstr "O'Brien"
+msgstr "オブライエン"
 
 msgctxt "Names/KEY_FAMILY_NAME_OCONNOR"
 msgid "O'Connor"
-msgstr "O'Connor"
+msgstr "オコナー"
 
 msgctxt "Names/KEY_FAMILY_NAME_OLIVEIRA"
 msgid "Oliveira"
-msgstr "Oliveira"
+msgstr "オリベイラ"
 
 msgctxt "Names/KEY_FAMILY_NAME_OLSSON"
 msgid "Olsson"
-msgstr "Olsson"
+msgstr "オルソン"
 
 msgctxt "Names/KEY_FAMILY_NAME_OMAR"
 msgid "Omar"
-msgstr "Omar"
+msgstr "オマール"
 
 msgctxt "Names/KEY_FAMILY_NAME_ONDO"
 msgid "Ondo"
-msgstr "Ondo"
+msgstr "オンド"
 
 msgctxt "Names/KEY_FAMILY_NAME_OSEI"
 msgid "Osei"
-msgstr "Osei"
+msgstr "オセイ"
 
 msgctxt "Names/KEY_FAMILY_NAME_OSULLIVAN"
 msgid "O'Sullivan"
-msgstr "O'Sullivan"
+msgstr "オサリバン"
 
 msgctxt "Names/KEY_FAMILY_NAME_OWEN"
 msgid "Owen"
-msgstr "Owen"
+msgstr "オーウェン"
 
 msgctxt "Names/KEY_FAMILY_NAME_PAPADOPOULOS"
 msgid "Papadopoulos"
-msgstr "Papadopoulos"
+msgstr "パパドプロス"
 
 msgctxt "Names/KEY_FAMILY_NAME_PAPADOPOULOU"
 msgid "Papadopoulou"
-msgstr "Papadopoulou"
+msgstr "パパドプロウ"
 
 msgctxt "Names/KEY_FAMILY_NAME_PAPARIGA"
 msgid "Papariga"
-msgstr "Papariga"
+msgstr "パパリガ"
 
 msgctxt "Names/KEY_FAMILY_NAME_PEDERSEN"
 msgid "Pedersen"
-msgstr "Pedersen"
+msgstr "ペダーセン"
 
 msgctxt "Names/KEY_FAMILY_NAME_PEETERS"
 msgid "Peeters"
-msgstr "Peeters"
+msgstr "ペーテルス"
 
 msgctxt "Names/KEY_FAMILY_NAME_PEMA KARZI DEMA"
 msgid "Pema Karzi Dema"
-msgstr "Pema Karzi Dema"
+msgstr "ペマ・カルジ・デマ"
 
 msgctxt "Names/KEY_FAMILY_NAME_PEMA_KARZI_DEMA"
 msgid "Pema Karzi Dema"
-msgstr "Pema Karzi Dema"
+msgstr "ペマ・カルジ・デマ"
 
 msgctxt "Names/KEY_FAMILY_NAME_PENA"
 msgid "Peña"
-msgstr "Peña"
+msgstr "ペーニャ"
 
 msgctxt "Names/KEY_FAMILY_NAME_PETERSEN"
 msgid "Petersen"
-msgstr "Petersen"
+msgstr "ピーターセン"
 
 msgctxt "Names/KEY_FAMILY_NAME_PETRESCU"
 msgid "Petrescu"
-msgstr "Petrescu"
+msgstr "ペトレスク"
 
 msgctxt "Names/KEY_FAMILY_NAME_PETROSYAN"
 msgid "Petrosyan"
-msgstr "petrosyan"
+msgstr "ペトロシアン"
 
 msgctxt "Names/KEY_FAMILY_NAME_PETROV"
 msgid "Petrov"
-msgstr "Petrov"
+msgstr "ペトロフ"
 
 msgctxt "Names/KEY_FAMILY_NAME_PHILLIPS"
 msgid "Phillips"
-msgstr "Phillips"
+msgstr "フィリップス"
 
 msgctxt "Names/KEY_FAMILY_NAME_PICHLER"
 msgid "Pichler"
-msgstr "Pichler"
+msgstr "ピヒラー"
 
 msgctxt "Names/KEY_FAMILY_NAME_PIMENTEL"
 msgid "Pimentel"
-msgstr "Pimentel"
+msgstr "ピメンテル"
 
 msgctxt "Names/KEY_FAMILY_NAME_PINEDA"
 msgid "Pineda"
-msgstr "Pineda"
+msgstr "ピネダ"
 
 msgctxt "Names/KEY_FAMILY_NAME_POK"
 msgid "Pok"
-msgstr "pok"
+msgstr "ポク"
 
 msgctxt "Names/KEY_FAMILY_NAME_POPESCU"
 msgid "Popescu"
-msgstr "Popescu"
+msgstr "ポペスク"
 
 msgctxt "Names/KEY_FAMILY_NAME_POWELL"
 msgid "Powell"
-msgstr "Powell"
+msgstr "パウエル"
 
 msgctxt "Names/KEY_FAMILY_NAME_RAJA"
 msgid "Raja"
-msgstr "Raja"
+msgstr "ラージャ"
 
 msgctxt "Names/KEY_FAMILY_NAME_RASHID"
 msgid "Rashid"
-msgstr "Rashid"
+msgstr "ラシード"
 
 msgctxt "Names/KEY_FAMILY_NAME_RASMUSSEN"
 msgid "Rasmussen"
-msgstr "Rasmussen"
+msgstr "ラスムセン"
 
 msgctxt "Names/KEY_FAMILY_NAME_RASULOV"
 msgid "Rasulov"
-msgstr "Rasulov"
+msgstr "ラスロフ"
 
 msgctxt "Names/KEY_FAMILY_NAME_RENFRO"
 msgid "Renfro"
-msgstr "Renfro"
+msgstr "レンフロ"
 
 msgctxt "Names/KEY_FAMILY_NAME_REYNOLDS"
 msgid "Reynolds"
-msgstr "Reynolds"
+msgstr "レイノルズ"
 
 msgctxt "Names/KEY_FAMILY_NAME_RICHARD"
 msgid "Richard"
-msgstr "Ricardo"
+msgstr "リチャード"
 
 msgctxt "Names/KEY_FAMILY_NAME_RICHARDS"
 msgid "Richards"
-msgstr "Richards"
+msgstr "リチャーズ"
 
 msgctxt "Names/KEY_FAMILY_NAME_RICHARDSON"
 msgid "Richardson"
-msgstr "Richardson"
+msgstr "リチャードソン"
 
 msgctxt "Names/KEY_FAMILY_NAME_RICHTER"
 msgid "Richter"
-msgstr "Richter"
+msgstr "リヒテル"
 
 msgctxt "Names/KEY_FAMILY_NAME_ROBERT"
 msgid "Robert"
-msgstr "Robert"
+msgstr "ロバート"
 
 msgctxt "Names/KEY_FAMILY_NAME_ROBERTS"
 msgid "Roberts"
-msgstr "Roberts"
+msgstr "ロバーツ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ROBERTSON"
 msgid "Robertson"
-msgstr "Robertson"
+msgstr "ロバートソン"
 
 msgctxt "Names/KEY_FAMILY_NAME_ROBINSON"
 msgid "Robinson"
-msgstr "Robinson"
+msgstr "ロビンソン"
 
 msgctxt "Names/KEY_FAMILY_NAME_RODRIGUEZ"
 msgid "Rodriguez"
-msgstr "Rodríguez"
+msgstr "ロドリゲス"
 
 msgctxt "Names/KEY_FAMILY_NAME_ROGERS"
 msgid "Rogers"
-msgstr "Rogers"
+msgstr "ロジャース"
 
 msgctxt "Names/KEY_FAMILY_NAME_ROMANO"
 msgid "Romano"
-msgstr "Romano"
+msgstr "ロマーノ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ROSE"
 msgid "Rose"
-msgstr "Rosa"
+msgstr "ローズ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ROSS"
 msgid "Ross"
-msgstr "Ross"
+msgstr "ロス"
 
 msgctxt "Names/KEY_FAMILY_NAME_ROTH"
 msgid "Roth"
-msgstr "Roth"
+msgstr "ロト"
 
 msgctxt "Names/KEY_FAMILY_NAME_ROURE"
 msgid "Roure"
-msgstr "Roure"
+msgstr "ローウレ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ROY"
 msgid "Roy"
-msgstr "Roy"
+msgstr "ロイ"
 
 msgctxt "Names/KEY_FAMILY_NAME_RUSSELL"
 msgid "Russell"
-msgstr "Russell"
+msgstr "ラッセル"
 
 msgctxt "Names/KEY_FAMILY_NAME_RYAN"
 msgid "Ryan"
-msgstr "Ryan"
+msgstr "ライアン"
 
 msgctxt "Names/KEY_FAMILY_NAME_SADIK"
 msgid "Sadik"
-msgstr "Sadik"
+msgstr "サディク"
 
 msgctxt "Names/KEY_FAMILY_NAME_SAHNOUN"
 msgid "Sahnoun"
-msgstr "Sahnoun"
+msgstr "サーナウン"
 
 msgctxt "Names/KEY_FAMILY_NAME_SAHO"
 msgid "Saho"
-msgstr "saho"
+msgstr "サホ"
 
 msgctxt "Names/KEY_FAMILY_NAME_SAID"
 msgid "Said"
-msgstr "Dijo"
+msgstr "サイード"
 
 msgctxt "Names/KEY_FAMILY_NAME_SALAZAR"
 msgid "Salazar"
-msgstr "Salazar"
+msgstr "サラザール"
 
 msgctxt "Names/KEY_FAMILY_NAME_SALIHOVIC"
 msgid "Salihović"
-msgstr "Salihović"
+msgstr "サリホヴィッチ"
 
 msgctxt "Names/KEY_FAMILY_NAME_SAMARAS"
 msgid "Samaras"
-msgstr "Samaras"
+msgstr "サマラス"
 
 msgctxt "Names/KEY_FAMILY_NAME_SAMUEL"
 msgid "Samuel"
-msgstr "Samuel"
+msgstr "サミュエル"
 
 msgctxt "Names/KEY_FAMILY_NAME_SANCHEZ"
 msgid "Sánchez"
-msgstr "Sánchez"
+msgstr "サンチェス"
 
 msgctxt "Names/KEY_FAMILY_NAME_SARGSYAN"
 msgid "Sargsyan "
-msgstr "Sargsyan"
+msgstr "サルキシャン"
 
 msgctxt "Names/KEY_FAMILY_NAME_SAUNDERS"
 msgid "Saunders"
-msgstr "Saunders"
+msgstr "サンダース"
 
 msgctxt "Names/KEY_FAMILY_NAME_SCHAFER"
 msgid "Schäfer"
-msgstr "Schäfer"
+msgstr "シェーファー"
 
 msgctxt "Names/KEY_FAMILY_NAME_SCHMIDT"
 msgid "Schmidt"
-msgstr "Schmidt"
+msgstr "シュミット"
 
 msgctxt "Names/KEY_FAMILY_NAME_SCHMIT"
 msgid "Schmit"
-msgstr "Schmit"
+msgstr "シュミット"
 
 msgctxt "Names/KEY_FAMILY_NAME_SCHRODER"
 msgid "Schröder"
-msgstr "Schröder"
+msgstr "シュローダー"
 
 msgctxt "Names/KEY_FAMILY_NAME_SCHULTE"
 msgid "Schulte"
-msgstr "Schulte"
+msgstr "シュルテ"
 
 msgctxt "Names/KEY_FAMILY_NAME_SCHUMACHER"
 msgid "Schumacher"
-msgstr "Schumacher"
+msgstr "シューマッハ"
 
 msgctxt "Names/KEY_FAMILY_NAME_SCOTT"
 msgid "Scott"
-msgstr "scott"
+msgstr "スコット"
 
 msgctxt "Names/KEY_FAMILY_NAME_SEIDEL"
 msgid "Seidel"
-msgstr "Seidel"
+msgstr "サイデル"
 
 msgctxt "Names/KEY_FAMILY_NAME_SHAQIRI"
 msgid "Shaqiri"
-msgstr "Shaqiri"
+msgstr "シャチリ"
 
 msgctxt "Names/KEY_FAMILY_NAME_SHARIF"
 msgid "Sharif"
-msgstr "Sharif"
+msgstr "シャリーフ"
 
 msgctxt "Names/KEY_FAMILY_NAME_SHAW"
 msgid "Shaw"
-msgstr "Shaw"
+msgstr "ショー"
 
 msgctxt "Names/KEY_FAMILY_NAME_SHAYA"
 msgid "Shaya"
-msgstr "Shaya"
+msgstr "シェイア"
 
 msgctxt "Names/KEY_FAMILY_NAME_SILVA"
 msgid "Silva"
-msgstr "Silva"
+msgstr "シルバ"
 
 msgctxt "Names/KEY_FAMILY_NAME_SIMON"
 msgid "Simon"
-msgstr "Simón"
+msgstr "サイモン"
 
 msgctxt "Names/KEY_FAMILY_NAME_SIMPSON"
 msgid "Simpson"
-msgstr "Simpson"
+msgstr "シンプソン"
 
 msgctxt "Names/KEY_FAMILY_NAME_SISI"
 msgid "Sisi"
-msgstr "sisi"
+msgstr "シシ"
 
 msgctxt "Names/KEY_FAMILY_NAME_SMYTH"
 msgid "Smyth"
-msgstr "Smyth"
+msgstr "スミス"
 
 msgctxt "Names/KEY_FAMILY_NAME_SOKO"
 msgid "Soko"
-msgstr "Soko"
+msgstr "ソーコ"
 
 msgctxt "Names/KEY_FAMILY_NAME_SOLIMAN"
 msgid "Soliman"
-msgstr "Soliman"
+msgstr "ソリマン"
 
 msgctxt "Names/KEY_FAMILY_NAME_SOLORZANO"
 msgid "Solórzano"
-msgstr "Solórzano"
+msgstr "ソローザノ"
 
 msgctxt "Names/KEY_FAMILY_NAME_SONAM PEMA"
 msgid "Sonam Pema"
-msgstr "Sonam Pema"
+msgstr "ソナム・ペマ"
 
 msgctxt "Names/KEY_FAMILY_NAME_SONAM_PEMA"
 msgid "Sonam Pema"
-msgstr "Sonam Pema"
+msgstr "ソナム・ペマ"
 
 msgctxt "Names/KEY_FAMILY_NAME_SOSA"
 msgid "Sosa"
-msgstr "Sosa"
+msgstr "ソーサ"
 
 msgctxt "Names/KEY_FAMILY_NAME_SOUSA"
 msgid "Sousa"
-msgstr "Sousa"
+msgstr "スーザ"
 
 msgctxt "Names/KEY_FAMILY_NAME_STEVENS"
 msgid "Stevens"
-msgstr "Stevens"
+msgstr "スティーブンス"
 
 msgctxt "Names/KEY_FAMILY_NAME_STEWART"
 msgid "Stewart"
-msgstr "Stewart"
+msgstr "スチュワート"
 
 msgctxt "Names/KEY_FAMILY_NAME_SUAREZ"
 msgid "Suarez"
-msgstr "Suárez"
+msgstr "スアレス"
 
 msgctxt "Names/KEY_FAMILY_NAME_SULEYMANOV"
 msgid "Suleymanov"
-msgstr "Suleymanov"
+msgstr "スレイマノフ"
 
 msgctxt "Names/KEY_FAMILY_NAME_SUNDBERG"
 msgid "Sundberg"
-msgstr "Sundberg"
+msgstr "サンドバーグ"
 
 msgctxt "Names/KEY_FAMILY_NAME_SUSO"
 msgid "Suso"
-msgstr "Suso"
+msgstr "スソ"
 
 msgctxt "Names/KEY_FAMILY_NAME_TAHIR"
 msgid "Tahir"
-msgstr "Tahir"
+msgstr "ターヒル"
 
 msgctxt "Names/KEY_FAMILY_NAME_TAMAS"
 msgid "Tamás"
-msgstr "Tamás"
+msgstr "タマーシュ"
 
 msgctxt "Names/KEY_FAMILY_NAME_TAMM"
 msgid "Tamm"
-msgstr "Tamm"
+msgstr "タム"
 
 msgctxt "Names/KEY_FAMILY_NAME_TAYLOR"
 msgid "Taylor"
-msgstr "Taylor"
+msgstr "テイラー"
 
 msgctxt "Names/KEY_FAMILY_NAME_TEKE"
 msgid "Teke"
-msgstr "Teke"
+msgstr "ティーク"
 
 msgctxt "Names/KEY_FAMILY_NAME_TERZIC"
 msgid "Terzić"
-msgstr "Terzić"
+msgstr "テルジック"
 
 msgctxt "Names/KEY_FAMILY_NAME_THOMAS"
 msgid "Thomas"
-msgstr "Thomas"
+msgstr "トーマス"
 
 msgctxt "Names/KEY_FAMILY_NAME_THOMPSON"
 msgid "Thompson"
-msgstr "Thompson"
+msgstr "トンプソン"
 
 msgctxt "Names/KEY_FAMILY_NAME_TODOROV"
 msgid "Todorov"
-msgstr "Todorov"
+msgstr "トドロフ"
 
 msgctxt "Names/KEY_FAMILY_NAME_TORRES"
 msgid "Torres"
-msgstr "Torres"
+msgstr "トーレス"
 
 msgctxt "Names/KEY_FAMILY_NAME_TREMBLAY"
 msgid "Tremblay"
-msgstr "Tremblay"
+msgstr "トランブレ"
 
 msgctxt "Names/KEY_FAMILY_NAME_UZUN"
 msgid "Uzun"
-msgstr "uzun"
+msgstr "ウズン"
 
 msgctxt "Names/KEY_FAMILY_NAME_VACA"
 msgid "Vaca"
-msgstr "Vaca"
+msgstr "バカ"
 
 msgctxt "Names/KEY_FAMILY_NAME_VALIYEV"
 msgid "Valiyev"
-msgstr "VALIYEV"
+msgstr "バリエフ"
 
 msgctxt "Names/KEY_FAMILY_NAME_VAN DE BERG."
 msgid "Van de Berg."
-msgstr "Van de Berg."
+msgstr "ヴァ・ンデ・ベルク"
 
 msgctxt "Names/KEY_FAMILY_NAME_VAN_DE_BERG"
 msgid "Van de Berg."
-msgstr "Van de Berg."
+msgstr "ヴァン・デ・ベルク"
 
 msgctxt "Names/KEY_FAMILY_NAME_VAN_DIJK"
 msgid "Van Dijk"
-msgstr "Van Dijk"
+msgstr "ヴァン・ダイク"
 
 msgctxt "Names/KEY_FAMILY_NAME_VARGAS"
 msgid "Vargas"
-msgstr "Vargas"
+msgstr "バルガス"
 
 msgctxt "Names/KEY_FAMILY_NAME_VASQUEZ"
 msgid "Vasquez"
-msgstr "Vásquez"
+msgstr "バスケス"
 
 msgctxt "Names/KEY_FAMILY_NAME_VELAZQUEZ"
 msgid "Velazquez"
-msgstr "Velázquez"
+msgstr "ベラスケス"
 
 msgctxt "Names/KEY_FAMILY_NAME_VERA"
 msgid "Vera"
-msgstr "Vera"
+msgstr "ヴェラ"
 
 msgctxt "Names/KEY_FAMILY_NAME_VILAR"
 msgid "Vilar"
-msgstr "Vilar"
+msgstr "ヴィラー"
 
 msgctxt "Names/KEY_FAMILY_NAME_VINCENT"
 msgid "Vincent"
-msgstr "Vicente"
+msgstr "ヴィンセント"
 
 msgctxt "Names/KEY_FAMILY_NAME_VIRTANEN"
 msgid "Virtanen"
-msgstr "Virtanen"
+msgstr "ヴィルタネン"
 
 msgctxt "Names/KEY_FAMILY_NAME_VISSER"
 msgid "Visser"
-msgstr "Visser"
+msgstr "ヴィサー"
 
 msgctxt "Names/KEY_FAMILY_NAME_VUKOVIC"
 msgid "Vuković"
-msgstr "Vuković"
+msgstr "ヴコヴィック"
 
 msgctxt "Names/KEY_FAMILY_NAME_WAGNER"
 msgid "Wagner"
-msgstr "Wagner"
+msgstr "ワーグナー"
 
 msgctxt "Names/KEY_FAMILY_NAME_WALLNER"
 msgid "Wallner"
-msgstr "Wallner"
+msgstr "ウォルナー"
 
 msgctxt "Names/KEY_FAMILY_NAME_WALSH"
 msgid "Walsh"
-msgstr "Walsh"
+msgstr "ウォルシュ"
 
 msgctxt "Names/KEY_FAMILY_NAME_WALTER"
 msgid "Walter"
-msgstr "Walter"
+msgstr "ウォルター"
 
 msgctxt "Names/KEY_FAMILY_NAME_WATSON"
 msgid "Watson"
-msgstr "Watson"
+msgstr "ワトソン"
 
 msgctxt "Names/KEY_FAMILY_NAME_WAWA"
 msgid "Wawa"
-msgstr "wawa"
+msgstr "ワワ"
 
 msgctxt "Names/KEY_FAMILY_NAME_WEBB"
 msgid "Webb"
-msgstr "Webb"
+msgstr "ウェッブ"
 
 msgctxt "Names/KEY_FAMILY_NAME_WEBER"
 msgid "Weber"
-msgstr "Weber"
+msgstr "ウェーバー"
 
 msgctxt "Names/KEY_FAMILY_NAME_WERNER"
 msgid "Werner"
-msgstr "Werner"
+msgstr "ヴェルナー"
 
 msgctxt "Names/KEY_FAMILY_NAME_WILKINSON"
 msgid "Wilkinson"
-msgstr "Wilkinson"
+msgstr "ウィルキンソン"
 
 msgctxt "Names/KEY_FAMILY_NAME_WILLEMS"
 msgid "Willems"
-msgstr "Willems"
+msgstr "ウィレムス"
 
 msgctxt "Names/KEY_FAMILY_NAME_WOUTERS"
 msgid "Wouters"
-msgstr "Wouters"
+msgstr "ボウタース"
 
 msgctxt "Names/KEY_FAMILY_NAME_WRIGHT"
 msgid "Wright"
-msgstr "Wright"
+msgstr "ライト"
 
 msgctxt "Names/KEY_FAMILY_NAME_XU"
 msgid "Xú"
-msgstr "Xu"
+msgstr "シィー"
 
 msgctxt "Names/KEY_FAMILY_NAME_YAHYA"
 msgid "Yahya"
-msgstr "Yahya"
+msgstr "ヤハヤ"
 
 msgctxt "Names/KEY_FAMILY_NAME_YANGCHEN LHAMO"
 msgid "Yangchen Lhamo"
-msgstr "yangchen Lhamo"
+msgstr "ヤンチェン・ラモ"
 
 msgctxt "Names/KEY_FAMILY_NAME_YANGCHEN_LHAMO"
 msgid "Yangchen Lhamo"
-msgstr "yangchen Lhamo"
+msgstr "ヤンチェン・ラモ"
 
 msgctxt "Names/KEY_FAMILY_NAME_YOHANNES"
 msgid "Yohannes"
-msgstr "Yohannes"
+msgstr "ヨハンネス"
 
 msgctxt "Names/KEY_FAMILY_NAME_YOUSSOUF"
 msgid "Youssouf"
-msgstr "Youssouf"
+msgstr "ユーゾフ"
 
 msgctxt "Names/KEY_FAMILY_NAME_YUSOF"
 msgid "Yusof"
-msgstr "yusof"
+msgstr "ユソフ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ZAIDI"
 msgid "Zaidi"
-msgstr "Zaidi"
+msgstr "ゼイディ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ZAINUDDIN"
 msgid "Zainuddin"
-msgstr "Zainuddin"
+msgstr "ゼイナディン"
 
 msgctxt "Names/KEY_FAMILY_NAME_ZAMBRANO"
 msgid "Zambrano"
-msgstr "Zambrano"
+msgstr "ザンブラーノ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ZELAYA"
 msgid "Zelaya"
-msgstr "Zelaya"
+msgstr "セラヤ"
 
 msgctxt "Names/KEY_FAMILY_NAME_ZOLTAN"
 msgid "Zoltán"
-msgstr "Zoltán"
+msgstr "ゾルターン"
 
 msgctxt "Names/KEY_FAMILY_NAME_ZSUZSANNA"
 msgid "Zsuzsanna"
-msgstr "Zsuzsanna"
+msgstr "ツザンナ"
 
 msgctxt "Names/KEY_FIRST_NAME_AARON"
 msgid "Aarón"
-msgstr "Aarón"
+msgstr "アーロン"
 
 msgctxt "Names/KEY_FIRST_NAME_ABEL"
 msgid "Abel"
-msgstr "Abel"
+msgstr "アベル"
 
 msgctxt "Names/KEY_FIRST_NAME_ABRIL"
 msgid "Abril"
-msgstr "Abril"
+msgstr "アブリル"
 
 msgctxt "Names/KEY_FIRST_NAME_ADAM"
 msgid "Adam"
-msgstr "Adán"
+msgstr "アダム"
 
 msgctxt "Names/KEY_FIRST_NAME_ADELA"
 msgid "Adela"
-msgstr "Adela"
+msgstr "アデラ"
 
 msgctxt "Names/KEY_FIRST_NAME_ADELE"
 msgid "Adele"
-msgstr "Adele"
+msgstr "アデル"
 
 msgctxt "Names/KEY_FIRST_NAME_ADRIA"
 msgid "Adrià"
-msgstr "Adrià"
+msgstr "アドリア"
 
 msgctxt "Names/KEY_FIRST_NAME_ADRIAN"
 msgid "Adrián"
-msgstr "Adrián"
+msgstr "アドリアン"
 
 msgctxt "Names/KEY_FIRST_NAME_ADRIANNA"
 msgid "Adrianna"
-msgstr "Adrianna"
+msgstr "アドリアナ"
 
 msgctxt "Names/KEY_FIRST_NAME_AGNES"
 msgid "Agnes"
-msgstr "Inés"
+msgstr "アグネス"
 
 msgctxt "Names/KEY_FIRST_NAME_AGON"
 msgid "Agon"
-msgstr "Agon"
+msgstr "アゴン"
 
 msgctxt "Names/KEY_FIRST_NAME_AGUSTIN"
 msgid "Agustín"
-msgstr "Agustín"
+msgstr "アグスティン"
 
 msgctxt "Names/KEY_FIRST_NAME_AIDAN"
 msgid "Aidan"
-msgstr "Aidan"
+msgstr "エイダン"
 
 msgctxt "Names/KEY_FIRST_NAME_AINA"
 msgid "Aina"
-msgstr "Aina"
+msgstr "アイナ"
 
 msgctxt "Names/KEY_FIRST_NAME_AINE"
 msgid "Aine"
-msgstr "Aine"
+msgstr "アーニャ"
 
 msgctxt "Names/KEY_FIRST_NAME_AITANA"
 msgid "Aitana"
-msgstr "Aitana"
+msgstr "アイタナ"
 
 msgctxt "Names/KEY_FIRST_NAME_AKSEL"
 msgid "Aksel"
-msgstr "Aksel"
+msgstr "アクセル"
 
 msgctxt "Names/KEY_FIRST_NAME_ALAN"
 msgid "Alan"
-msgstr "Alan"
+msgstr "アラン"
 
 msgctxt "Names/KEY_FIRST_NAME_ALBERT"
 msgid "Albert"
-msgstr "Albert"
+msgstr "アルバート"
 
 msgctxt "Names/KEY_FIRST_NAME_ALEJANDRA"
 msgid "Alejandra"
-msgstr "alejandra"
+msgstr "アレハンドラ"
 
 msgctxt "Names/KEY_FIRST_NAME_ALEKSANDER"
 msgid "Aleksander"
-msgstr "Aleksander"
+msgstr "アレクサンダー"
 
 msgctxt "Names/KEY_FIRST_NAME_ALEKSI"
 msgid "Aleksi"
-msgstr "aleksi"
+msgstr "アレクシ"
 
 msgctxt "Names/KEY_FIRST_NAME_ALEXANDER"
 msgid "Alexander"
-msgstr "Alejandro"
+msgstr "アレキサンダー"
 
 msgctxt "Names/KEY_FIRST_NAME_ALEXANDR"
 msgid "Alexandr"
-msgstr "Alexandr"
+msgstr "アレクサンドル"
 
 msgctxt "Names/KEY_FIRST_NAME_ALEXANDRA"
 msgid "Alexandra"
-msgstr "Alexandra"
+msgstr "アレクサンドラ"
 
 msgctxt "Names/KEY_FIRST_NAME_ALEXANDRE"
 msgid "Alexandre"
-msgstr "Alexandre"
+msgstr "アレクサンドル"
 
 msgctxt "Names/KEY_FIRST_NAME_ALFRED"
 msgid "Alfred"
-msgstr "Alfredo"
+msgstr "アルフレッド"
 
 msgctxt "Names/KEY_FIRST_NAME_ALI"
 msgid "Ali"
-msgstr "Ali"
+msgstr "アリ"
 
 msgctxt "Names/KEY_FIRST_NAME_ALIA"
 msgid "Alia"
-msgstr "alia"
+msgstr "アーリヤー"
 
 msgctxt "Names/KEY_FIRST_NAME_ALICE"
 msgid "Alice"
-msgstr "Alicia"
+msgstr "アリス"
 
 msgctxt "Names/KEY_FIRST_NAME_ALICIA"
 msgid "Alicia"
-msgstr "Alicia"
+msgstr "アリシア"
 
 msgctxt "Names/KEY_FIRST_NAME_ALINA"
 msgid "Alina"
-msgstr "alina"
+msgstr "アリーナ"
 
 msgctxt "Names/KEY_FIRST_NAME_ALISA"
 msgid "Alisa"
-msgstr "Alisa"
+msgstr "アリサ"
 
 msgctxt "Names/KEY_FIRST_NAME_ALONSO"
 msgid "Alonso"
-msgstr "Alonso"
+msgstr "アロンソ"
 
 msgctxt "Names/KEY_FIRST_NAME_ALYSSA"
 msgid "Alyssa"
-msgstr "Alyssa"
+msgstr "アリッサ"
 
 msgctxt "Names/KEY_FIRST_NAME_AMAL"
 msgid "Amal"
-msgstr "Amal"
+msgstr "アマル"
 
 msgctxt "Names/KEY_FIRST_NAME_AMALIE"
 msgid "Amalie"
-msgstr "Amalie"
+msgstr "アマリー"
 
 msgctxt "Names/KEY_FIRST_NAME_AMANDA"
 msgid "Amanda"
-msgstr "Amanda"
+msgstr "アマンダ"
 
 msgctxt "Names/KEY_FIRST_NAME_AMELIA"
 msgid "Amelia"
-msgstr "Amelia"
+msgstr "アメリア"
 
 msgctxt "Names/KEY_FIRST_NAME_AMINA"
 msgid "Amina"
-msgstr "Amina"
+msgstr "アミナ"
 
 msgctxt "Names/KEY_FIRST_NAME_AMY"
 msgid "Amy"
-msgstr "Amy"
+msgstr "エイミー"
 
 msgctxt "Names/KEY_FIRST_NAME_ANA PAULA"
 msgid "Ana Paula"
-msgstr "Ana Paula"
+msgstr "アナ・ポーラ"
 
 msgctxt "Names/KEY_FIRST_NAME_ANAIS"
 msgid "Anaïs"
-msgstr "Anaïs"
+msgstr "アナイス"
 
 msgctxt "Names/KEY_FIRST_NAME_ANAS"
 msgid "Anas"
-msgstr "Anas"
+msgstr "アナス"
 
 msgctxt "Names/KEY_FIRST_NAME_ANASTASIA"
 msgid "Anastasia"
-msgstr "Anastasia"
+msgstr "アナスタシア"
 
 msgctxt "Names/KEY_FIRST_NAME_ANATOLE"
 msgid "Anatole"
-msgstr "Anatole"
+msgstr "アナトール"
 
 msgctxt "Names/KEY_FIRST_NAME_ANDERS"
 msgid "Anders"
-msgstr "Anders"
+msgstr "アンダース"
 
 msgctxt "Names/KEY_FIRST_NAME_ANDRANIK"
 msgid "Andranik"
-msgstr "Andranik"
+msgstr "アンドラニク"
 
 msgctxt "Names/KEY_FIRST_NAME_ANDRAS"
 msgid "András"
-msgstr "András"
+msgstr "アンドラーシュ"
 
 msgctxt "Names/KEY_FIRST_NAME_ANETA"
 msgid "Aneta"
-msgstr "Aneta"
+msgstr "アネタ"
 
 msgctxt "Names/KEY_FIRST_NAME_ANGEL"
 msgid "Ángel"
-msgstr "Ángel"
+msgstr "エンジェル"
 
 msgctxt "Names/KEY_FIRST_NAME_ANI"
 msgid "Ani"
-msgstr "Y yo"
+msgstr "アニ"
 
 msgctxt "Names/KEY_FIRST_NAME_ANITA"
 msgid "Anita"
-msgstr "Anita"
+msgstr "アニタ"
 
 msgctxt "Names/KEY_FIRST_NAME_ANNA"
 msgid "Anna"
-msgstr "Anna"
+msgstr "アンナ"
 
 msgctxt "Names/KEY_FIRST_NAME_ANNABELLE"
 msgid "Annabelle"
-msgstr "Annabelle"
+msgstr "アナベル"
 
 msgctxt "Names/KEY_FIRST_NAME_ANNE"
 msgid "Anne"
-msgstr "Ana"
+msgstr "アン"
 
 msgctxt "Names/KEY_FIRST_NAME_ANNIE"
 msgid "Annie"
-msgstr "Annie"
+msgstr "アニー"
 
 msgctxt "Names/KEY_FIRST_NAME_ANTERO"
 msgid "Antero"
-msgstr "antero"
+msgstr "アンテロ"
 
 msgctxt "Names/KEY_FIRST_NAME_ANTHONY"
 msgid "Anthony"
-msgstr "Antonio"
+msgstr "アンソニー"
 
 msgctxt "Names/KEY_FIRST_NAME_ANTON"
 msgid "Anton"
-msgstr "Anton"
+msgstr "アントン"
 
 msgctxt "Names/KEY_FIRST_NAME_ANTONELLA"
 msgid "Antonella"
-msgstr "Antonella"
+msgstr "アントネラ"
 
 msgctxt "Names/KEY_FIRST_NAME_ANTONI"
 msgid "Antoni"
-msgstr "Antoni"
+msgstr "アントニ"
 
 msgctxt "Names/KEY_FIRST_NAME_ANTONIA"
 msgid "Antonia"
-msgstr "Antonia"
+msgstr "アントニア"
 
 msgctxt "Names/KEY_FIRST_NAME_ANTONIN"
 msgid "Antonin"
-msgstr "Antonin"
+msgstr "アントニン"
 
 msgctxt "Names/KEY_FIRST_NAME_ANTONIO"
 msgid "Antonio"
-msgstr "Antonio"
+msgstr "アントニオ"
 
 msgctxt "Names/KEY_FIRST_NAME_APOLONIA"
 msgid "Apolonia"
-msgstr "Apolonia"
+msgstr "アポロニア"
 
 msgctxt "Names/KEY_FIRST_NAME_ARAM"
 msgid "Aram"
-msgstr "Aram"
+msgstr "アラム"
 
 msgctxt "Names/KEY_FIRST_NAME_ARCHIE"
 msgid "Archie"
-msgstr "Archie"
+msgstr "アーチー"
 
 msgctxt "Names/KEY_FIRST_NAME_ARLO"
 msgid "Arlo"
-msgstr "arlo"
+msgstr "アーロ"
 
 msgctxt "Names/KEY_FIRST_NAME_ARMAS"
 msgid "Armas"
-msgstr "Armas"
+msgstr "アルマス"
 
 msgctxt "Names/KEY_FIRST_NAME_ARMEN"
 msgid "Armen"
-msgstr "Armen"
+msgstr "アーメン"
 
 msgctxt "Names/KEY_FIRST_NAME_ARSEN"
 msgid "Arsen"
-msgstr "Arsen"
+msgstr "アルセン"
 
 msgctxt "Names/KEY_FIRST_NAME_ARSENE"
 msgid "Arsène"
-msgstr "Arsène"
+msgstr "アルセーヌ"
 
 msgctxt "Names/KEY_FIRST_NAME_ARTHUR"
 msgid "Arthur"
-msgstr "Arturo"
+msgstr "アーサー"
 
 msgctxt "Names/KEY_FIRST_NAME_ARTUR"
 msgid "Artur"
-msgstr "Artur"
+msgstr "アルトゥール"
 
 msgctxt "Names/KEY_FIRST_NAME_ARTYOM"
 msgid "Artyom"
-msgstr "Artyom"
+msgstr "アルティオム"
 
 msgctxt "Names/KEY_FIRST_NAME_ASHER"
 msgid "Asher"
-msgstr "Asher"
+msgstr "アッシャー"
 
 msgctxt "Names/KEY_FIRST_NAME_ASHURA"
 msgid "Ashura"
-msgstr "Ashura"
+msgstr "アシュラ"
 
 msgctxt "Names/KEY_FIRST_NAME_ASIA"
 msgid "Asia"
-msgstr "Asia"
+msgstr "エジャ"
 
 msgctxt "Names/KEY_FIRST_NAME_ATTICUS"
 msgid "Atticus"
-msgstr "Atticus"
+msgstr "アティカス"
 
 msgctxt "Names/KEY_FIRST_NAME_AUDREY"
 msgid "Audrey"
-msgstr "Audrey"
+msgstr "オードリー"
 
 msgctxt "Names/KEY_FIRST_NAME_AURORA"
 msgid "Aurora"
-msgstr "Aurora"
+msgstr "アウロラ"
 
 msgctxt "Names/KEY_FIRST_NAME_AUSTIN"
 msgid "Austin"
-msgstr "Austin"
+msgstr "オースティン"
 
 msgctxt "Names/KEY_FIRST_NAME_AYA"
 msgid "Aya"
-msgstr "Aya"
+msgstr "アヤ"
 
 msgctxt "Names/KEY_FIRST_NAME_AYAZ"
 msgid "Ayaz"
-msgstr "Ayaz"
+msgstr "アヤズ"
 
 msgctxt "Names/KEY_FIRST_NAME_AYLA"
 msgid "Ayla"
-msgstr "Ayla"
+msgstr "アイラ"
 
 msgctxt "Names/KEY_FIRST_NAME_AYNUR"
 msgid "Aynur"
-msgstr "aynur"
+msgstr "エイナー"
 
 msgctxt "Names/KEY_FIRST_NAME_AYOUB"
 msgid "Ayoub"
-msgstr "Ayoub"
+msgstr "アユーブ"
 
 msgctxt "Names/KEY_FIRST_NAME_AÏCHA"
 msgid "Aïcha"
-msgstr "Aïcha"
+msgstr "アイシャ"
 
 msgctxt "Names/KEY_FIRST_NAME_BALAZS"
 msgid "Balázs"
-msgstr "Balázs"
+msgstr "バラシ"
 
 msgctxt "Names/KEY_FIRST_NAME_BALINT"
 msgid "Bálint"
-msgstr "Bálint"
+msgstr "バリント"
 
 msgctxt "Names/KEY_FIRST_NAME_BAPTISTE"
 msgid "Baptiste"
-msgstr "Baptiste"
+msgstr "バティスト"
 
 msgctxt "Names/KEY_FIRST_NAME_BARBARA"
 msgid "Barbara"
-msgstr "Bárbara"
+msgstr "バーバラ"
 
 msgctxt "Names/KEY_FIRST_NAME_BARBORA"
 msgid "Barbora"
-msgstr "Barbora"
+msgstr "バルボラ"
 
 msgctxt "Names/KEY_FIRST_NAME_BARNABAS"
 msgid "Barnabas"
-msgstr "Bernabé"
+msgstr "バルナバ"
 
 msgctxt "Names/KEY_FIRST_NAME_BARRY"
 msgid "Barry"
-msgstr "Barry"
+msgstr "バリー"
 
 msgctxt "Names/KEY_FIRST_NAME_BARTOSZ"
 msgid "Bartosz"
-msgstr "Bartosz"
+msgstr "バルトシュ"
 
 msgctxt "Names/KEY_FIRST_NAME_BASMA"
 msgid "Basma"
-msgstr "Basma"
+msgstr "バスマ"
 
 msgctxt "Names/KEY_FIRST_NAME_BAUTISTA"
 msgid "Bautista"
-msgstr "Bautista"
+msgstr "バウティスタ"
 
 msgctxt "Names/KEY_FIRST_NAME_BEATRICE"
 msgid "Beatrice"
-msgstr "Beatrice"
+msgstr "ベアトリス"
 
 msgctxt "Names/KEY_FIRST_NAME_BEATRIZ"
 msgid "Beatriz"
-msgstr "Beatriz"
+msgstr "ベアトリス"
 
 msgctxt "Names/KEY_FIRST_NAME_BECKY"
 msgid "Becky"
-msgstr "Becky"
+msgstr "ベッキー"
 
 msgctxt "Names/KEY_FIRST_NAME_BELLA"
 msgid "Bella"
-msgstr "Bella"
+msgstr "ベラ"
 
 msgctxt "Names/KEY_FIRST_NAME_BEN"
 msgid "Ben"
-msgstr "Ben"
+msgstr "ベン"
 
 msgctxt "Names/KEY_FIRST_NAME_BENCE"
 msgid "Bence"
-msgstr "Bence"
+msgstr "ベンス"
 
 msgctxt "Names/KEY_FIRST_NAME_BENGT"
 msgid "Bengt"
-msgstr "Bengt"
+msgstr "ベンクト"
 
 msgctxt "Names/KEY_FIRST_NAME_BENJAMIN"
 msgid "Benjamin"
-msgstr "Benjamín"
+msgstr "ベンジャミン"
 
 msgctxt "Names/KEY_FIRST_NAME_BERTHA"
 msgid "Bertha"
-msgstr "Berta"
+msgstr "バーサ"
 
 msgctxt "Names/KEY_FIRST_NAME_BETHANY"
 msgid "Bethany"
-msgstr "Betania"
+msgstr "ベサニー"
 
 msgctxt "Names/KEY_FIRST_NAME_BILL"
 msgid "Bill"
-msgstr "Cuenta"
+msgstr "ビル"
 
 msgctxt "Names/KEY_FIRST_NAME_BILLY"
 msgid "Billy"
-msgstr "Porra"
+msgstr "ビリー"
 
 msgctxt "Names/KEY_FIRST_NAME_BIRGIT"
 msgid "Birgit"
-msgstr "Birgit"
+msgstr "ビルギット"
 
 msgctxt "Names/KEY_FIRST_NAME_BIRGITTA"
 msgid "Birgitta"
-msgstr "Birgitta"
+msgstr "ビルギッタ"
 
 msgctxt "Names/KEY_FIRST_NAME_BJORN"
 msgid "Björn"
-msgstr "Björn"
+msgstr "ビョルン"
 
 msgctxt "Names/KEY_FIRST_NAME_BLAKE"
 msgid "Blake"
-msgstr "Blake"
+msgstr "ブレイク"
 
 msgctxt "Names/KEY_FIRST_NAME_BLANCA"
 msgid "Blanca"
-msgstr "Blanca"
+msgstr "ブランカ"
 
 msgctxt "Names/KEY_FIRST_NAME_BOBBY"
 msgid "Bobby"
-msgstr "Poli"
+msgstr "ボビー"
 
 msgctxt "Names/KEY_FIRST_NAME_BOEL"
 msgid "Boel"
-msgstr "Boel"
+msgstr "ボエル"
 
 msgctxt "Names/KEY_FIRST_NAME_BRADLEY"
 msgid "Bradley"
-msgstr "Bradley"
+msgstr "ブラッドリー"
 
 msgctxt "Names/KEY_FIRST_NAME_BRAHIM"
 msgid "Brahim"
-msgstr "Brahim"
+msgstr "ブラヒム"
 
 msgctxt "Names/KEY_FIRST_NAME_BRAM"
 msgid "Bram"
-msgstr "Bram"
+msgstr "ブラム"
 
 msgctxt "Names/KEY_FIRST_NAME_BRAXTON"
 msgid "Braxton"
-msgstr "Braxton"
+msgstr "ブラクストン"
 
 msgctxt "Names/KEY_FIRST_NAME_BRIAN"
 msgid "Brian"
-msgstr "Brian"
+msgstr "ブライアン"
 
 msgctxt "Names/KEY_FIRST_NAME_CAITLIN"
 msgid "Caitlin"
-msgstr "Caitlin"
+msgstr "ケイトリン"
 
 msgctxt "Names/KEY_FIRST_NAME_CALEB"
 msgid "Caleb"
-msgstr "Caleb"
+msgstr "カレブ"
 
 msgctxt "Names/KEY_FIRST_NAME_CALLUM"
 msgid "Callum"
-msgstr "Callum"
+msgstr "カラム"
 
 msgctxt "Names/KEY_FIRST_NAME_CAMILLA"
 msgid "Camilla"
-msgstr "Camilla"
+msgstr "カミラ"
 
 msgctxt "Names/KEY_FIRST_NAME_CAMILLE"
 msgid "Camille"
-msgstr "Camille"
+msgstr "カミーユ"
 
 msgctxt "Names/KEY_FIRST_NAME_CAMILO"
 msgid "Camilo"
-msgstr "Camilo"
+msgstr "カミロ"
 
 msgctxt "Names/KEY_FIRST_NAME_CARLOTA"
 msgid "Carlota"
-msgstr "Carlota"
+msgstr "カルロタ"
 
 msgctxt "Names/KEY_FIRST_NAME_CARLOTTA"
 msgid "Carlotta"
-msgstr "Carlotta"
+msgstr "カルロッタ"
 
 msgctxt "Names/KEY_FIRST_NAME_CAROLINA"
 msgid "Carolina"
-msgstr "Carolina"
+msgstr "キャロライナ"
 
 msgctxt "Names/KEY_FIRST_NAME_CAROLINE"
 msgid "Caroline"
-msgstr "carolino"
+msgstr "キャロライン"
 
 msgctxt "Names/KEY_FIRST_NAME_CECILIA"
 msgid "Cecilia"
-msgstr "Cecilia"
+msgstr "セシリア"
 
 msgctxt "Names/KEY_FIRST_NAME_CEDRIC"
 msgid "Cedric"
-msgstr "Cedric"
+msgstr "セドリック"
 
 msgctxt "Names/KEY_FIRST_NAME_CELIA"
 msgid "Celia"
-msgstr "Celia"
+msgstr "セリア"
 
 msgctxt "Names/KEY_FIRST_NAME_CELINA"
 msgid "Celina"
-msgstr "Celina"
+msgstr "セリーナ"
 
 msgctxt "Names/KEY_FIRST_NAME_CHARLES"
 msgid "Charles"
-msgstr "Charles"
+msgstr "チャールズ"
 
 msgctxt "Names/KEY_FIRST_NAME_CHARLIE"
 msgid "Charlie"
-msgstr "Charlie"
+msgstr "チャーリー"
 
 msgctxt "Names/KEY_FIRST_NAME_CHRIS"
 msgid "Chris"
-msgstr "Chris"
+msgstr "クリス"
 
 msgctxt "Names/KEY_FIRST_NAME_CHRISTA"
 msgid "Christa"
-msgstr "Christa"
+msgstr "クリスタ"
 
 msgctxt "Names/KEY_FIRST_NAME_CHRISTER"
 msgid "Christer"
-msgstr "Christer"
+msgstr "クリスター"
 
 msgctxt "Names/KEY_FIRST_NAME_CHRISTIAN"
 msgid "Christian"
-msgstr "cristiano"
+msgstr "クリスチャン"
 
 msgctxt "Names/KEY_FIRST_NAME_CHRISTINA"
 msgid "Christina"
-msgstr "Christina"
+msgstr "クリスティーナ"
 
 msgctxt "Names/KEY_FIRST_NAME_CHRISTOPHER"
 msgid "Christopher"
-msgstr "Christopher"
+msgstr "クリストファー"
 
 msgctxt "Names/KEY_FIRST_NAME_CIAN"
 msgid "Cian"
-msgstr "Cian"
+msgstr "キアン"
 
 msgctxt "Names/KEY_FIRST_NAME_CIARAN"
 msgid "Ciaran"
-msgstr "Ciaran"
+msgstr "キアラン"
 
 msgctxt "Names/KEY_FIRST_NAME_CLARA"
 msgid "Clara"
-msgstr "Clara"
+msgstr "クララ"
 
 msgctxt "Names/KEY_FIRST_NAME_CLEMENCE"
 msgid "Clémence"
-msgstr "Clémence"
+msgstr "クレマンス"
 
 msgctxt "Names/KEY_FIRST_NAME_CONCEPCION"
 msgid "Concepcion"
-msgstr "Concepción"
+msgstr "コンセプシオン"
 
 msgctxt "Names/KEY_FIRST_NAME_CONNOR"
 msgid "Connor"
-msgstr "Connor"
+msgstr "コナー"
 
 msgctxt "Names/KEY_FIRST_NAME_CONOR"
 msgid "Conor"
-msgstr "Conor"
+msgstr "コナー"
 
 msgctxt "Names/KEY_FIRST_NAME_CONSTANCE"
 msgid "Constance"
-msgstr "Constanza"
+msgstr "コンスタンス"
 
 msgctxt "Names/KEY_FIRST_NAME_CORMAC"
 msgid "Cormac"
-msgstr "Cormac"
+msgstr "コーマック"
 
 msgctxt "Names/KEY_FIRST_NAME_DAAN"
 msgid "Daan"
-msgstr "Daan"
+msgstr "ダーン"
 
 msgctxt "Names/KEY_FIRST_NAME_DAGMARA"
 msgid "Dagmara"
-msgstr "dagmara"
+msgstr "ダグマーラ"
 
 msgctxt "Names/KEY_FIRST_NAME_DAN"
 msgid "Dan"
-msgstr "Dan"
+msgstr "ダン"
 
 msgctxt "Names/KEY_FIRST_NAME_DANIEL"
 msgid "Daniel"
-msgstr "Daniel"
+msgstr "ダニエル"
 
 msgctxt "Names/KEY_FIRST_NAME_DANNY"
 msgid "Danny"
-msgstr "Danny"
+msgstr "ダニー"
 
 msgctxt "Names/KEY_FIRST_NAME_DARA"
 msgid "Dara"
-msgstr "Dara"
+msgstr "ダーラ"
 
 msgctxt "Names/KEY_FIRST_NAME_DARAGH"
 msgid "Daragh"
-msgstr "daragh"
+msgstr "ダラー"
 
 msgctxt "Names/KEY_FIRST_NAME_DARIA"
 msgid "Daria"
-msgstr "Daria"
+msgstr "ダリア"
 
 msgctxt "Names/KEY_FIRST_NAME_DARRAGH"
 msgid "Darragh"
-msgstr "Darragh"
+msgstr "ダーラ"
 
 msgctxt "Names/KEY_FIRST_NAME_DARREN"
 msgid "Darren"
-msgstr "Darren"
+msgstr "ダレン"
 
 msgctxt "Names/KEY_FIRST_NAME_DAVID"
 msgid "David"
-msgstr "David"
+msgstr "デビッド"
 
 msgctxt "Names/KEY_FIRST_NAME_DAWOOD"
 msgid "Dawood"
-msgstr "dawood"
+msgstr "ダーウード"
 
 msgctxt "Names/KEY_FIRST_NAME_DEBORA"
 msgid "Debora"
-msgstr "Debora"
+msgstr "デボラ"
 
 msgctxt "Names/KEY_FIRST_NAME_DECLAN"
 msgid "Declan"
-msgstr "Declan"
+msgstr "デクラン"
 
 msgctxt "Names/KEY_FIRST_NAME_DENIS"
 msgid "Denis"
-msgstr "Denis"
+msgstr "デニス"
 
 msgctxt "Names/KEY_FIRST_NAME_DENNIS"
 msgid "Dennis"
-msgstr "Dennis"
+msgstr "デニス"
 
 msgctxt "Names/KEY_FIRST_NAME_DIANA"
 msgid "Diana"
-msgstr "Diana"
+msgstr "ダイアナ"
 
 msgctxt "Names/KEY_FIRST_NAME_DIEGO"
 msgid "Diego"
-msgstr "Diego"
+msgstr "ディエゴ"
 
 msgctxt "Names/KEY_FIRST_NAME_DIEGO_ALEJANDRO"
 msgid "Diego Alejandro"
-msgstr "Diego Alejandro"
+msgstr "ディエゴ・アレハンドロ"
 
 msgctxt "Names/KEY_FIRST_NAME_DOMENICO"
 msgid "Domenico"
-msgstr "Domenico"
+msgstr "ドメニコ"
 
 msgctxt "Names/KEY_FIRST_NAME_DONAL"
 msgid "Donal"
-msgstr "Donal"
+msgstr "ドナル"
 
 msgctxt "Names/KEY_FIRST_NAME_DORA"
 msgid "Dora"
-msgstr "dora"
+msgstr "ドラ"
 
 msgctxt "Names/KEY_FIRST_NAME_DORIAN"
 msgid "Dorian"
-msgstr "dorio"
+msgstr "ドリアン"
 
 msgctxt "Names/KEY_FIRST_NAME_DOROTA"
 msgid "Dorota"
-msgstr "Dorota"
+msgstr "ドロタ"
 
 msgctxt "Names/KEY_FIRST_NAME_DOROTEA"
 msgid "Dorotea"
-msgstr "Dorotea"
+msgstr "ドロティア"
 
 msgctxt "Names/KEY_FIRST_NAME_EDEN"
 msgid "Eden"
-msgstr "Edén"
+msgstr "エデン"
 
 msgctxt "Names/KEY_FIRST_NAME_EDGAR"
 msgid "Edgar"
-msgstr "Edgar"
+msgstr "エドガー"
 
 msgctxt "Names/KEY_FIRST_NAME_EDITH"
 msgid "Edith"
-msgstr "Edith"
+msgstr "エディット"
 
 msgctxt "Names/KEY_FIRST_NAME_EDOARDO"
 msgid "Edoardo"
-msgstr "Edoardo"
+msgstr "エドアルド"
 
 msgctxt "Names/KEY_FIRST_NAME_EDSON"
 msgid "Edson"
-msgstr "Edson"
+msgstr "エドソン"
 
 msgctxt "Names/KEY_FIRST_NAME_EDUARD"
 msgid "Eduard"
-msgstr "Eduard"
+msgstr "エデュアルド"
 
 msgctxt "Names/KEY_FIRST_NAME_EDUARDO"
 msgid "Eduardo"
-msgstr "Eduardo"
+msgstr "エドゥアルド"
 
 msgctxt "Names/KEY_FIRST_NAME_EDWARD"
 msgid "Edward"
-msgstr "Eduardo"
+msgstr "エドワード"
 
 msgctxt "Names/KEY_FIRST_NAME_EITAN"
 msgid "Eitan"
-msgstr "Eitan"
+msgstr "エイタン"
 
 msgctxt "Names/KEY_FIRST_NAME_ELDA"
 msgid "Elda"
-msgstr "Elda"
+msgstr "エルダ"
 
 msgctxt "Names/KEY_FIRST_NAME_ELEANOR"
 msgid "Eleanor"
-msgstr "Eleanor"
+msgstr "エレノア"
 
 msgctxt "Names/KEY_FIRST_NAME_ELENA"
 msgid "Elena"
-msgstr "Elena"
+msgstr "エレナ"
 
 msgctxt "Names/KEY_FIRST_NAME_ELIAS"
 msgid "Elías"
-msgstr "Elías"
+msgstr "エライアス"
 
 msgctxt "Names/KEY_FIRST_NAME_ELIF"
 msgid "Elif"
-msgstr "Elif"
+msgstr "エリフ"
 
 msgctxt "Names/KEY_FIRST_NAME_ELIJAH"
 msgid "Elijah"
-msgstr "Elías"
+msgstr "エリヤ"
 
 msgctxt "Names/KEY_FIRST_NAME_ELINE"
 msgid "Eline"
-msgstr "Eline"
+msgstr "エリーネ"
 
 msgctxt "Names/KEY_FIRST_NAME_ELISABETH"
 msgid "Elisabeth"
-msgstr "Elisabeth"
+msgstr "エリザベート"
 
 msgctxt "Names/KEY_FIRST_NAME_ELIZA"
 msgid "Eliza"
-msgstr "Eliza"
+msgstr "イライザ"
 
 msgctxt "Names/KEY_FIRST_NAME_ELIZABETH"
 msgid "Elizabeth"
-msgstr "Elizabeth"
+msgstr "エリザベス"
 
 msgctxt "Names/KEY_FIRST_NAME_ELKE"
 msgid "Elke"
-msgstr "Elke"
+msgstr "エルケ"
 
 msgctxt "Names/KEY_FIRST_NAME_ELLA"
 msgid "Ella"
-msgstr "Ella"
+msgstr "エラ"
 
 msgctxt "Names/KEY_FIRST_NAME_ELLEN"
 msgid "Ellen"
-msgstr "Ellen"
+msgstr "エレン"
 
 msgctxt "Names/KEY_FIRST_NAME_ELLIOT"
 msgid "Elliot"
-msgstr "Elliot"
+msgstr "エリオット"
 
 msgctxt "Names/KEY_FIRST_NAME_ELNUR"
 msgid "Elnur"
-msgstr "Elnur"
+msgstr "エルナー"
 
 msgctxt "Names/KEY_FIRST_NAME_ELSA"
 msgid "Elsa"
-msgstr "Elsa"
+msgstr "エルザ"
 
 msgctxt "Names/KEY_FIRST_NAME_ELSIE"
 msgid "Elsie"
-msgstr "Elsie"
+msgstr "エルシー"
 
 msgctxt "Names/KEY_FIRST_NAME_ELZBIETA"
 msgid "Elzbieta"
-msgstr "Elzbieta"
+msgstr "エルジビエタ"
 
 msgctxt "Names/KEY_FIRST_NAME_EMA"
 msgid "Ema"
-msgstr "Ema"
+msgstr "エマ"
 
 msgctxt "Names/KEY_FIRST_NAME_EMAD"
 msgid "Emad"
-msgstr "Emad"
+msgstr "エマード"
 
 msgctxt "Names/KEY_FIRST_NAME_EMAN"
 msgid "Eman"
-msgstr "Eman"
+msgstr "エマン"
 
 msgctxt "Names/KEY_FIRST_NAME_EMIL"
 msgid "Emil"
-msgstr "Emil"
+msgstr "エーミール"
 
 msgctxt "Names/KEY_FIRST_NAME_EMILIA"
 msgid "Emilia"
-msgstr "Emilia"
+msgstr "エミリア"
 
 msgctxt "Names/KEY_FIRST_NAME_EMILIANO"
 msgid "Emiliano"
-msgstr "Emiliano"
+msgstr "エミリアーノ"
 
 msgctxt "Names/KEY_FIRST_NAME_EMILIO"
 msgid "Emilio"
-msgstr "Emilio"
+msgstr "エミリオ"
 
 msgctxt "Names/KEY_FIRST_NAME_EMILY"
 msgid "Emily"
-msgstr "Emily"
+msgstr "エミリー"
 
 msgctxt "Names/KEY_FIRST_NAME_EMINA"
 msgid "Emina"
-msgstr "Emina"
+msgstr "エミーナ"
 
 msgctxt "Names/KEY_FIRST_NAME_EMMA"
 msgid "Emma"
-msgstr "Emma"
+msgstr "エマ"
 
 msgctxt "Names/KEY_FIRST_NAME_EMMANUEL"
 msgid "Emmanuel"
-msgstr "Emmanuel"
+msgstr "エマニュエル"
 
 msgctxt "Names/KEY_FIRST_NAME_ERIC"
 msgid "Eric"
-msgstr "Eric"
+msgstr "エリック"
 
 msgctxt "Names/KEY_FIRST_NAME_ERNST"
 msgid "Ernst"
-msgstr "Ernst"
+msgstr "エルンスト"
 
 msgctxt "Names/KEY_FIRST_NAME_ERWAN"
 msgid "Erwan"
-msgstr "Erwan"
+msgstr "エルワン"
 
 msgctxt "Names/KEY_FIRST_NAME_ESTELLE"
 msgid "Estelle"
-msgstr "Estelle"
+msgstr "エステル"
 
 msgctxt "Names/KEY_FIRST_NAME_ESTHER"
 msgid "Esther"
-msgstr "Esther"
+msgstr "エスター"
 
 msgctxt "Names/KEY_FIRST_NAME_ETHAN"
 msgid "Ethan"
-msgstr "Ethan"
+msgstr "イーサン"
 
 msgctxt "Names/KEY_FIRST_NAME_EVA"
 msgid "Eva"
-msgstr "Eva"
+msgstr "エヴァ"
 
 msgctxt "Names/KEY_FIRST_NAME_EVE"
 msgid "Eve"
-msgstr "Víspera"
+msgstr "イブ"
 
 msgctxt "Names/KEY_FIRST_NAME_EVELYN"
 msgid "Evelyn"
-msgstr "Evelyn"
+msgstr "エブリン"
 
 msgctxt "Names/KEY_FIRST_NAME_EVIE"
 msgid "Evie"
-msgstr "Evie"
+msgstr "イーヴィー"
 
 msgctxt "Names/KEY_FIRST_NAME_FABIANA"
 msgid "Fabiana"
-msgstr "fabiana"
+msgstr "ファビアナ"
 
 msgctxt "Names/KEY_FIRST_NAME_FACUNDO"
 msgid "Facundo"
-msgstr "Facundo"
+msgstr "ファクンド"
 
 msgctxt "Names/KEY_FIRST_NAME_FATMA"
 msgid "Fatma"
-msgstr "Fatma"
+msgstr "ファトマ"
 
 msgctxt "Names/KEY_FIRST_NAME_FELIPE"
 msgid "Felipe"
-msgstr "Felipe"
+msgstr "フェリペ"
 
 msgctxt "Names/KEY_FIRST_NAME_FELIX"
 msgid "Felix"
-msgstr "Felix"
+msgstr "フェリックス"
 
 msgctxt "Names/KEY_FIRST_NAME_FERNANDO"
 msgid "Fernando"
-msgstr "Fernando"
+msgstr "フェルナンド"
 
 msgctxt "Names/KEY_FIRST_NAME_FIONN"
 msgid "Fionn"
-msgstr "fionn"
+msgstr "フィン"
 
 msgctxt "Names/KEY_FIRST_NAME_FLORA"
 msgid "Flora"
-msgstr "Flora"
+msgstr "フローラ"
 
 msgctxt "Names/KEY_FIRST_NAME_FRANCISCO"
 msgid "Francisco"
-msgstr "Francisco"
+msgstr "フランシスコ"
 
 msgctxt "Names/KEY_FIRST_NAME_FRANCISZEK"
 msgid "Franciszek"
-msgstr "franciszek"
+msgstr "フランチーシェク"
 
 msgctxt "Names/KEY_FIRST_NAME_FRANK"
 msgid "Frank"
-msgstr "Franco"
+msgstr "フランク"
 
 msgctxt "Names/KEY_FIRST_NAME_FRANKIE"
 msgid "Frankie"
-msgstr "Frankie"
+msgstr "フランキー"
 
 msgctxt "Names/KEY_FIRST_NAME_FRIDA"
 msgid "Frida"
-msgstr "Frida"
+msgstr "フリーダ"
 
 msgctxt "Names/KEY_FIRST_NAME_FRIEDA"
 msgid "Frieda"
-msgstr "Frieda"
+msgstr "フリーダ"
 
 msgctxt "Names/KEY_FIRST_NAME_FRIEDRICH"
 msgid "Friedrich"
-msgstr "Friedrich"
+msgstr "フリードリッヒ"
 
 msgctxt "Names/KEY_FIRST_NAME_GABRIEL"
 msgid "Gabriel"
-msgstr "Gabriel"
+msgstr "ガブリエル"
 
 msgctxt "Names/KEY_FIRST_NAME_GABRIELLE"
 msgid "Gabrielle"
-msgstr "Gabrielle"
+msgstr "ガブリエル"
 
 msgctxt "Names/KEY_FIRST_NAME_GAGIK"
 msgid "Gagik"
-msgstr "gagik"
+msgstr "ガギク"
 
 msgctxt "Names/KEY_FIRST_NAME_GEORGE"
 msgid "George"
-msgstr "Jorge"
+msgstr "ジョージ"
 
 msgctxt "Names/KEY_FIRST_NAME_GERTRUD"
 msgid "Gertrud"
-msgstr "Gertrud"
+msgstr "ゲルトルート"
 
 msgctxt "Names/KEY_FIRST_NAME_GEVORG"
 msgid "Gevorg"
-msgstr "Gevorg"
+msgstr "ゲボルグ"
 
 msgctxt "Names/KEY_FIRST_NAME_GIORGIO"
 msgid "Giorgio"
-msgstr "Giorgio"
+msgstr "ジョルジオ"
 
 msgctxt "Names/KEY_FIRST_NAME_GIULIO"
 msgid "Giulio"
-msgstr "Giulio"
+msgstr "ジュリオ"
 
 msgctxt "Names/KEY_FIRST_NAME_GRETA"
 msgid "Greta"
-msgstr "Greta"
+msgstr "グレタ"
 
 msgctxt "Names/KEY_FIRST_NAME_GRIGOR"
 msgid "Grigor"
-msgstr "Grigor"
+msgstr "グリゴール"
 
 msgctxt "Names/KEY_FIRST_NAME_GUILLAUME"
 msgid "Guillaume"
-msgstr "Guillaume"
+msgstr "ギヨーム"
 
 msgctxt "Names/KEY_FIRST_NAME_GUNNAR"
 msgid "Gunnar"
-msgstr "Gunnar"
+msgstr "グンナー"
 
 msgctxt "Names/KEY_FIRST_NAME_GUNTER"
 msgid "Günter"
-msgstr "Günter"
+msgstr "ギュンター"
 
 msgctxt "Names/KEY_FIRST_NAME_GORAN"
 msgid "Göran"
-msgstr "Göran"
+msgstr "ヨーラン"
 
 msgctxt "Names/KEY_FIRST_NAME_HAMEED"
 msgid "Hameed"
-msgstr "Hameed"
+msgstr "ハミード"
 
 msgctxt "Names/KEY_FIRST_NAME_HAMISH"
 msgid "Hamish"
-msgstr "Hamish"
+msgstr "ハミッシュ"
 
 msgctxt "Names/KEY_FIRST_NAME_HAMZA"
 msgid "Hamza"
-msgstr "Hamza"
+msgstr "ハムザ"
 
 msgctxt "Names/KEY_FIRST_NAME_HANI"
 msgid "Hani"
-msgstr "Hani"
+msgstr "ハニ"
 
 msgctxt "Names/KEY_FIRST_NAME_HANIYA"
 msgid "Haniya"
-msgstr "Haniya"
+msgstr "ハニーヤ"
 
 msgctxt "Names/KEY_FIRST_NAME_HANNA"
 msgid "Hanna"
-msgstr "Hanna"
+msgstr "ハンナ"
 
 msgctxt "Names/KEY_FIRST_NAME_HARRIET"
 msgid "Harriet"
-msgstr "Harriet"
+msgstr "ハリエット"
 
 msgctxt "Names/KEY_FIRST_NAME_HARRISON"
 msgid "Harrison"
-msgstr "Harrison"
+msgstr "ハリソン"
 
 msgctxt "Names/KEY_FIRST_NAME_HARVEY"
 msgid "Harvey"
-msgstr "Harvey"
+msgstr "ハーヴェイ"
 
 msgctxt "Names/KEY_FIRST_NAME_HEIKE"
 msgid "Heike"
-msgstr "Heike"
+msgstr "ハイカ"
 
 msgctxt "Names/KEY_FIRST_NAME_HELEN"
 msgid "Helen"
-msgstr "Helen"
+msgstr "ヘレン"
 
 msgctxt "Names/KEY_FIRST_NAME_HELMER"
 msgid "Helmer"
-msgstr "Helmer"
+msgstr "ヘルマー"
 
 msgctxt "Names/KEY_FIRST_NAME_HELMI"
 msgid "Helmi"
-msgstr "Helmi"
+msgstr "ヘルミ"
 
 msgctxt "Names/KEY_FIRST_NAME_HELOISE"
 msgid "Heloise"
-msgstr "Heloise"
+msgstr "エロイーズ"
 
 msgctxt "Names/KEY_FIRST_NAME_HEMMING"
 msgid "Hemming"
-msgstr "Hemming"
+msgstr "ヘミング"
 
 msgctxt "Names/KEY_FIRST_NAME_HENRIK"
 msgid "Henrik"
-msgstr "Henrik"
+msgstr "ヘンリック"
 
 msgctxt "Names/KEY_FIRST_NAME_HENRY"
 msgid "Henry"
-msgstr "Enrique"
+msgstr "ヘンリー"
 
 msgctxt "Names/KEY_FIRST_NAME_HERBERT"
 msgid "Herbert"
-msgstr "Herbert"
+msgstr "ハーバート"
 
 msgctxt "Names/KEY_FIRST_NAME_HERMANN"
 msgid "Hermann"
-msgstr "Hermann"
+msgstr "ヘルマン"
 
 msgctxt "Names/KEY_FIRST_NAME_HILDA"
 msgid "Hilda"
-msgstr "Hilda"
+msgstr "ヒルダ"
 
 msgctxt "Names/KEY_FIRST_NAME_HILDEGARD"
 msgid "Hildegard"
-msgstr "Hildegard"
+msgstr "ヒルデガルト"
 
 msgctxt "Names/KEY_FIRST_NAME_HILLA"
 msgid "Hilla"
-msgstr "Hilla"
+msgstr "ヒラ"
 
 msgctxt "Names/KEY_FIRST_NAME_HUBERT"
 msgid "Hubert"
-msgstr "Hubert"
+msgstr "ヒューバート"
 
 msgctxt "Names/KEY_FIRST_NAME_HUDA"
 msgid "Huda"
-msgstr "Huda"
+msgstr "フダ"
 
 msgctxt "Names/KEY_FIRST_NAME_HUGH"
 msgid "Hugh"
-msgstr "Hugh"
+msgstr "ヒュー"
 
 msgctxt "Names/KEY_FIRST_NAME_HUGO"
 msgid "Hugo"
-msgstr "Hugo"
+msgstr "ヒューゴ"
 
 msgctxt "Names/KEY_FIRST_NAME_HUSSAIN"
 msgid "Hussain"
-msgstr "Hussain"
+msgstr "フセイン"
 
 msgctxt "Names/KEY_FIRST_NAME_HÅKAN"
 msgid "Håkan"
-msgstr "håkan"
+msgstr "ホーカン"
 
 msgctxt "Names/KEY_FIRST_NAME_IAN"
 msgid "Ian"
-msgstr "Ian"
+msgstr "イアン"
 
 msgctxt "Names/KEY_FIRST_NAME_IBRAHIM"
 msgid "Ibrahim"
-msgstr "Ibrahim"
+msgstr "イブラヒム"
 
 msgctxt "Names/KEY_FIRST_NAME_IDA"
 msgid "Ida"
-msgstr "Ida"
+msgstr "アイダ"
 
 msgctxt "Names/KEY_FIRST_NAME_IGNACY"
 msgid "Ignacy"
-msgstr "ignacy"
+msgstr "イグナツィ"
 
 msgctxt "Names/KEY_FIRST_NAME_IGOR"
 msgid "Igor"
-msgstr "Igor"
+msgstr "イゴール"
 
 msgctxt "Names/KEY_FIRST_NAME_IHSAN"
 msgid "Ihsan"
-msgstr "Ihsan"
+msgstr "イーサン"
 
 msgctxt "Names/KEY_FIRST_NAME_IIDA"
 msgid "Iida"
-msgstr "Iida"
+msgstr "イーダ"
 
 msgctxt "Names/KEY_FIRST_NAME_IKER"
 msgid "Iker"
-msgstr "Iker"
+msgstr "イケル"
 
 msgctxt "Names/KEY_FIRST_NAME_ILSE"
 msgid "Ilse"
-msgstr "Ilse"
+msgstr "イルゼ"
 
 msgctxt "Names/KEY_FIRST_NAME_ILYAS"
 msgid "Ilyas"
-msgstr "Ilyas"
+msgstr "イリアス"
 
 msgctxt "Names/KEY_FIRST_NAME_IMOGEN"
 msgid "Imogen"
-msgstr "Imogen"
+msgstr "イモージェン"
 
 msgctxt "Names/KEY_FIRST_NAME_IMRAN"
 msgid "Imran"
-msgstr "Imran"
+msgstr "イムラーン"
 
 msgctxt "Names/KEY_FIRST_NAME_INDIANA"
 msgid "Indiana"
-msgstr "Indiana"
+msgstr "インディアナ"
 
 msgctxt "Names/KEY_FIRST_NAME_INDIE"
 msgid "Indie"
-msgstr "indie"
+msgstr "インディー"
 
 msgctxt "Names/KEY_FIRST_NAME_INGEBORG"
 msgid "Ingeborg"
-msgstr "Ingeborg"
+msgstr "インゲボルグ"
 
 msgctxt "Names/KEY_FIRST_NAME_INGEMAR"
 msgid "Ingemar"
-msgstr "Ingemar"
+msgstr "インジマール"
 
 msgctxt "Names/KEY_FIRST_NAME_INGER"
 msgid "Inger"
-msgstr "Inger"
+msgstr "インゲル"
 
 msgctxt "Names/KEY_FIRST_NAME_INKA"
 msgid "Inka"
-msgstr "Inka"
+msgstr "インカ"
 
 msgctxt "Names/KEY_FIRST_NAME_IRENE"
 msgid "Irene"
-msgstr "Irene"
+msgstr "アイリーン"
 
 msgctxt "Names/KEY_FIRST_NAME_IRVING"
 msgid "Irving"
-msgstr "Irving"
+msgstr "アーヴィング"
 
 msgctxt "Names/KEY_FIRST_NAME_ISAAC"
 msgid "Isaac"
-msgstr "Isaac"
+msgstr "イサク"
 
 msgctxt "Names/KEY_FIRST_NAME_ISABEL"
 msgid "Isabel"
-msgstr "Isabel"
+msgstr "イザベル"
 
 msgctxt "Names/KEY_FIRST_NAME_ISABELLA"
 msgid "Isabella"
-msgstr "Isabela"
+msgstr "イザベラ"
 
 msgctxt "Names/KEY_FIRST_NAME_ISAK"
 msgid "Isak"
-msgstr "Isak"
+msgstr "アイザック"
 
 msgctxt "Names/KEY_FIRST_NAME_ISLA"
 msgid "Isla"
-msgstr "Isla"
+msgstr "イスラ"
 
 msgctxt "Names/KEY_FIRST_NAME_ISTVAN"
 msgid "Istvan"
-msgstr "Istvan"
+msgstr "イストヴァン"
 
 msgctxt "Names/KEY_FIRST_NAME_IVAN"
 msgid "Ivan"
-msgstr "Ivan"
+msgstr "イワン"
 
 msgctxt "Names/KEY_FIRST_NAME_IVAR"
 msgid "Ivar"
-msgstr "Ivar"
+msgstr "イーヴァル"
 
 msgctxt "Names/KEY_FIRST_NAME_IWO"
 msgid "Iwo"
-msgstr "Iwo"
+msgstr "イウォ"
 
 msgctxt "Names/KEY_FIRST_NAME_IZABELA"
 msgid "Izabela"
-msgstr "Izabela"
+msgstr "イザベラ"
 
 msgctxt "Names/KEY_FIRST_NAME_IZZY"
 msgid "Izzy"
-msgstr "Izzy"
+msgstr "イジー"
 
 msgctxt "Names/KEY_FIRST_NAME_JACK"
 msgid "Jack"
-msgstr "Jack"
+msgstr "ジャック"
 
 msgctxt "Names/KEY_FIRST_NAME_JACKSON"
 msgid "Jackson"
-msgstr "Jackson"
+msgstr "ジャクソン"
 
 msgctxt "Names/KEY_FIRST_NAME_JACOB"
 msgid "Jacob"
-msgstr "Jacob"
+msgstr "ジェイコブ"
 
 msgctxt "Names/KEY_FIRST_NAME_JACOBO"
 msgid "Jacobo"
-msgstr "Jacobo"
+msgstr "ハコボ"
 
 msgctxt "Names/KEY_FIRST_NAME_JAGODA"
 msgid "Jagoda"
-msgstr "jagoda"
+msgstr "ジャゴダ"
 
 msgctxt "Names/KEY_FIRST_NAME_JAKE"
 msgid "Jake"
-msgstr "Jake"
+msgstr "ジェイク"
 
 msgctxt "Names/KEY_FIRST_NAME_JALIL"
 msgid "Jalil"
-msgstr "Jalil"
+msgstr "ジャリル"
 
 msgctxt "Names/KEY_FIRST_NAME_JAMES"
 msgid "James"
-msgstr "James"
+msgstr "ジェームズ"
 
 msgctxt "Names/KEY_FIRST_NAME_JAMIE"
 msgid "Jamie"
-msgstr "Jamie"
+msgstr "ジェイミー"
 
 msgctxt "Names/KEY_FIRST_NAME_JAMIL"
 msgid "Jamil"
-msgstr "Jamil"
+msgstr "ジャミール"
 
 msgctxt "Names/KEY_FIRST_NAME_JAMILA"
 msgid "Jamila"
-msgstr "Jamila"
+msgstr "ジャミラ"
 
 msgctxt "Names/KEY_FIRST_NAME_JANOS"
 msgid "János"
-msgstr "János"
+msgstr "ヤーノシュ"
 
 msgctxt "Names/KEY_FIRST_NAME_JASON"
 msgid "Jason"
-msgstr "Jason"
+msgstr "ジェイソン"
 
 msgctxt "Names/KEY_FIRST_NAME_JASPER"
 msgid "Jasper"
-msgstr "Jaspe"
+msgstr "ジャスパー"
 
 msgctxt "Names/KEY_FIRST_NAME_JAYDEN"
 msgid "Jayden"
-msgstr "Jayden"
+msgstr "ジェイデン"
 
 msgctxt "Names/KEY_FIRST_NAME_JEANNE"
 msgid "Jeanne"
-msgstr "Jeanne"
+msgstr "ジャンヌ"
 
 msgctxt "Names/KEY_FIRST_NAME_JENNIFER"
 msgid "Jennifer"
-msgstr "jennifer"
+msgstr "ジェニファー"
 
 msgctxt "Names/KEY_FIRST_NAME_JENNY"
 msgid "Jenny"
-msgstr "Jenny"
+msgstr "ジェニー"
 
 msgctxt "Names/KEY_FIRST_NAME_JERONIMO"
 msgid "Jerónimo"
-msgstr "Jerónimo"
+msgstr "ジェロニモ"
 
 msgctxt "Names/KEY_FIRST_NAME_JESS"
 msgid "Jess"
-msgstr "Cadena"
+msgstr "ジェス"
 
 msgctxt "Names/KEY_FIRST_NAME_JESSE"
 msgid "Jesse"
-msgstr "Jesse"
+msgstr "ジェシー"
 
 msgctxt "Names/KEY_FIRST_NAME_JESSICA"
 msgid "Jessica"
-msgstr "Jessica"
+msgstr "ジェシカ"
 
 msgctxt "Names/KEY_FIRST_NAME_JESUS"
 msgid "Jesús"
-msgstr "Jesús"
+msgstr "ジーザス"
 
 msgctxt "Names/KEY_FIRST_NAME_JOANNA"
 msgid "Joanna"
-msgstr "Joanna"
+msgstr "ジョアンナ"
 
 msgctxt "Names/KEY_FIRST_NAME_JOAQUIN"
 msgid "Joaquín"
-msgstr "Joaquín"
+msgstr "ホアキン"
 
 msgctxt "Names/KEY_FIRST_NAME_JOE"
 msgid "Joe"
-msgstr "Joe"
+msgstr "ジョー"
 
 msgctxt "Names/KEY_FIRST_NAME_JOHN"
 msgid "John"
-msgstr "Juan"
+msgstr "ジョン"
 
 msgctxt "Names/KEY_FIRST_NAME_JOHNSON"
 msgid "Johnson"
-msgstr "Johnson"
+msgstr "ジョンソン"
 
 msgctxt "Names/KEY_FIRST_NAME_JONATHAN"
 msgid "Jonathan"
-msgstr "Jonathan"
+msgstr "ジョナサン"
 
 msgctxt "Names/KEY_FIRST_NAME_JORDAN"
 msgid "Jordan"
-msgstr "Jordán"
+msgstr "ジョーダン"
 
 msgctxt "Names/KEY_FIRST_NAME_JORG"
 msgid "Jörg"
-msgstr "Jörg"
+msgstr "イェルク"
 
 msgctxt "Names/KEY_FIRST_NAME_JOSE"
 msgid "José"
-msgstr "José"
+msgstr "ホセ"
 
 msgctxt "Names/KEY_FIRST_NAME_JOSEFA"
 msgid "Josefa"
-msgstr "Josefa"
+msgstr "ジョセファ"
 
 msgctxt "Names/KEY_FIRST_NAME_JOSEFINA"
 msgid "Josefina"
-msgstr "Josefina"
+msgstr "ジョセフィーナ"
 
 msgctxt "Names/KEY_FIRST_NAME_JOSEPH"
 msgid "Joseph"
-msgstr "Joseph"
+msgstr "ジョセフ"
 
 msgctxt "Names/KEY_FIRST_NAME_JOSHUA"
 msgid "Joshua"
-msgstr "Joshua"
+msgstr "ジョシュア"
 
 msgctxt "Names/KEY_FIRST_NAME_JOSUE"
 msgid "Josué"
-msgstr "Josué"
+msgstr "ジョズイ"
 
 msgctxt "Names/KEY_FIRST_NAME_JOZEF"
 msgid "Jozef"
-msgstr "Jozef"
+msgstr "ヨゼフ"
 
 msgctxt "Names/KEY_FIRST_NAME_JUAN CARLOS"
 msgid "Juan Carlos"
-msgstr "Juan Carlos"
+msgstr "フアン・カルロス"
 
 msgctxt "Names/KEY_FIRST_NAME_JUAN DIEGO"
 msgid "Juan Diego"
-msgstr "Juan Diego"
+msgstr "フアン・ディエゴ"
 
 msgctxt "Names/KEY_FIRST_NAME_JUAN MARTIN"
 msgid "Juan Martín"
-msgstr "Juan Martín"
+msgstr "フアン・マルティン"
 
 msgctxt "Names/KEY_FIRST_NAME_JUANA"
 msgid "Juana"
-msgstr "Juana"
+msgstr "フアナ"
 
 msgctxt "Names/KEY_FIRST_NAME_JUAN_JOSE"
 msgid "Juan José"
-msgstr "Juan Jose"
+msgstr "フアン・ホセ"
 
 msgctxt "Names/KEY_FIRST_NAME_JUAN_PABLO"
 msgid "Juan Pablo"
-msgstr "Juan Pablo"
+msgstr "フアン・パブロ"
 
 msgctxt "Names/KEY_FIRST_NAME_JUAN_SEBASTIAN"
 msgid "Juan Sebastián"
-msgstr "Juan Sebastián"
+msgstr "フアン・セバスティアン"
 
 msgctxt "Names/KEY_FIRST_NAME_JUHANI"
 msgid "Juhani"
-msgstr "Juhani"
+msgstr "ジュハニ"
 
 msgctxt "Names/KEY_FIRST_NAME_JULIA"
 msgid "Julia"
-msgstr "Julia"
+msgstr "ジュリア"
 
 msgctxt "Names/KEY_FIRST_NAME_JULIAN"
 msgid "Julián"
-msgstr "Julian"
+msgstr "フリアン"
 
 msgctxt "Names/KEY_FIRST_NAME_JULIANA"
 msgid "Juliana"
-msgstr "juliana"
+msgstr "ジュリアナ"
 
 msgctxt "Names/KEY_FIRST_NAME_JULIUS"
 msgid "Julius"
-msgstr "Julius"
+msgstr "ジュリアス"
 
 msgctxt "Names/KEY_FIRST_NAME_JULIUSZ"
 msgid "Juliusz"
-msgstr "Juliusz"
+msgstr "ジュリウス"
 
 msgctxt "Names/KEY_FIRST_NAME_JUMA"
 msgid "Juma"
-msgstr "Juma"
+msgstr "ジュマ"
 
 msgctxt "Names/KEY_FIRST_NAME_JORGEN"
 msgid "Jörgen"
-msgstr "Jörgen"
+msgstr "ヨルゲン"
 
 msgctxt "Names/KEY_FIRST_NAME_KAI"
 msgid "Kai"
-msgstr "Kai"
+msgstr "カイ"
 
 msgctxt "Names/KEY_FIRST_NAME_KAJA"
 msgid "Kaja"
-msgstr "Kaja"
+msgstr "カジャ"
 
 msgctxt "Names/KEY_FIRST_NAME_KALEVI"
 msgid "Kalevi"
-msgstr "Kalevi"
+msgstr "カレヴィ"
 
 msgctxt "Names/KEY_FIRST_NAME_KAMIL"
 msgid "Kamil"
-msgstr "Kamil"
+msgstr "カミーユ"
 
 msgctxt "Names/KEY_FIRST_NAME_KAMILA"
 msgid "Kamila"
-msgstr "Kamila"
+msgstr "カミラ"
 
 msgctxt "Names/KEY_FIRST_NAME_KARL"
 msgid "Karl"
-msgstr "Karl"
+msgstr "カール"
 
 msgctxt "Names/KEY_FIRST_NAME_KARNA"
 msgid "Karna"
-msgstr "Karna"
+msgstr "カルナ"
 
 msgctxt "Names/KEY_FIRST_NAME_KASPAR"
 msgid "Kaspar"
-msgstr "Kaspar"
+msgstr "カスパー"
 
 msgctxt "Names/KEY_FIRST_NAME_KATE"
 msgid "Kate"
-msgstr "Kate"
+msgstr "ケイト"
 
 msgctxt "Names/KEY_FIRST_NAME_KATIE"
 msgid "Katie"
-msgstr "Katie"
+msgstr "ケイティ"
 
 msgctxt "Names/KEY_FIRST_NAME_KATO"
 msgid "Kato"
-msgstr "Kato"
+msgstr "カトー"
 
 msgctxt "Names/KEY_FIRST_NAME_KAYLEIGH"
 msgid "Kayleigh"
-msgstr "Kayleigh"
+msgstr "ケイリー"
 
 msgctxt "Names/KEY_FIRST_NAME_KAZIMIERZ"
 msgid "Kazimierz"
-msgstr "Kazimierz"
+msgstr "カジミェシュ"
 
 msgctxt "Names/KEY_FIRST_NAME_KEITH"
 msgid "Keith"
-msgstr "Keith"
+msgstr "キース"
 
 msgctxt "Names/KEY_FIRST_NAME_KERSTIN"
 msgid "Kerstin"
-msgstr "Kerstin"
+msgstr "ケルシュティン"
 
 msgctxt "Names/KEY_FIRST_NAME_KHALID"
 msgid "Khalid"
-msgstr "Khalid"
+msgstr "カリード"
 
 msgctxt "Names/KEY_FIRST_NAME_KHAMIS"
 msgid "Khamis"
-msgstr "khamis"
+msgstr "ハミース"
 
 msgctxt "Names/KEY_FIRST_NAME_KIAN"
 msgid "Kian"
-msgstr "Kian"
+msgstr "キアン"
 
 msgctxt "Names/KEY_FIRST_NAME_KIERAN"
 msgid "Kieran"
-msgstr "Kieran"
+msgstr "キーラン"
 
 msgctxt "Names/KEY_FIRST_NAME_KILLIAN"
 msgid "Killian"
-msgstr "Killian"
+msgstr "キリアン"
 
 msgctxt "Names/KEY_FIRST_NAME_KIRILL"
 msgid "Kirill"
-msgstr "Kirill"
+msgstr "キリル"
 
 msgctxt "Names/KEY_FIRST_NAME_KIRSTY"
 msgid "Kirsty"
-msgstr "Kirsty"
+msgstr "カースティ"
 
 msgctxt "Names/KEY_FIRST_NAME_KLAS"
 msgid "Klas"
-msgstr "Klas"
+msgstr "クラス"
 
 msgctxt "Names/KEY_FIRST_NAME_KLAUS"
 msgid "Klaus"
-msgstr "Klaus"
+msgstr "クラウス"
 
 msgctxt "Names/KEY_FIRST_NAME_KNUT"
 msgid "Knut"
-msgstr "Knut"
+msgstr "クヌート"
 
 msgctxt "Names/KEY_FIRST_NAME_KOBE"
 msgid "Kobe"
-msgstr "Kobe"
+msgstr "コービー"
 
 msgctxt "Names/KEY_FIRST_NAME_KRISTINA"
 msgid "Kristina"
-msgstr "Kristina"
+msgstr "クリスティーナ"
 
 msgctxt "Names/KEY_FIRST_NAME_KRZYSZTOF"
 msgid "Krzysztof"
-msgstr "Krzysztof"
+msgstr "クシシュトフ"
 
 msgctxt "Names/KEY_FIRST_NAME_LAURA"
 msgid "Laura"
-msgstr "Laura"
+msgstr "ローラ"
 
 msgctxt "Names/KEY_FIRST_NAME_LAURI"
 msgid "Lauri"
-msgstr "Lauri"
+msgstr "ラウリ"
 
 msgctxt "Names/KEY_FIRST_NAME_LEAH"
 msgid "Leah"
-msgstr "Leah"
+msgstr "レア"
 
 msgctxt "Names/KEY_FIRST_NAME_LENA"
 msgid "Lena"
-msgstr "Lena"
+msgstr "レナ"
 
 msgctxt "Names/KEY_FIRST_NAME_LENNART"
 msgid "Lennart"
-msgstr "Lennart"
+msgstr "レナート"
 
 msgctxt "Names/KEY_FIRST_NAME_LEO"
 msgid "Leo"
-msgstr "León"
+msgstr "レオ"
 
 msgctxt "Names/KEY_FIRST_NAME_LEON"
 msgid "Leon"
-msgstr "León"
+msgstr "レオン"
 
 msgctxt "Names/KEY_FIRST_NAME_LEONARD"
 msgid "Leonard"
-msgstr "Leonard"
+msgstr "レオナード"
 
 msgctxt "Names/KEY_FIRST_NAME_LEONIE"
 msgid "Léonie"
-msgstr "léonie"
+msgstr "レオニー"
 
 msgctxt "Names/KEY_FIRST_NAME_LEVI"
 msgid "Levi"
-msgstr "Levi"
+msgstr "レヴィ"
 
 msgctxt "Names/KEY_FIRST_NAME_LEVON"
 msgid "Levon"
-msgstr "Levon"
+msgstr "レボン"
 
 msgctxt "Names/KEY_FIRST_NAME_LEWIS"
 msgid "Lewis"
-msgstr "Luis"
+msgstr "ルイス"
 
 msgctxt "Names/KEY_FIRST_NAME_LIBBY"
 msgid "Libby"
-msgstr "Libby"
+msgstr "リビー"
 
 msgctxt "Names/KEY_FIRST_NAME_LIISA"
 msgid "Liisa"
-msgstr "Liisa"
+msgstr "リーサ"
 
 msgctxt "Names/KEY_FIRST_NAME_LILIANA"
 msgid "Liliana"
-msgstr "Liliana"
+msgstr "リリアナ"
 
 msgctxt "Names/KEY_FIRST_NAME_LILJA"
 msgid "Lilja"
-msgstr "Lilja"
+msgstr "リリャ"
 
 msgctxt "Names/KEY_FIRST_NAME_LILLIAN"
 msgid "Lillian"
-msgstr "Lillian"
+msgstr "リリアン"
 
 msgctxt "Names/KEY_FIRST_NAME_LILLY"
 msgid "Lilly"
-msgstr "Lilly"
+msgstr "リリー"
 
 msgctxt "Names/KEY_FIRST_NAME_LILOU"
 msgid "Lilou"
-msgstr "Lilou"
+msgstr "リルー"
 
 msgctxt "Names/KEY_FIRST_NAME_LILY"
 msgid "Lily"
-msgstr "Lirio"
+msgstr "リリー"
 
 msgctxt "Names/KEY_FIRST_NAME_LINCOLN"
 msgid "Lincoln"
-msgstr "Lincoln"
+msgstr "リンカーン"
 
 msgctxt "Names/KEY_FIRST_NAME_LISA"
 msgid "Lisa"
-msgstr "Lisa"
+msgstr "リサ"
 
 msgctxt "Names/KEY_FIRST_NAME_LIVA"
 msgid "Liva"
-msgstr "Liva"
+msgstr "リヴァ"
 
 msgctxt "Names/KEY_FIRST_NAME_LIZ"
 msgid "Liz"
-msgstr "Liz"
+msgstr "リズ"
 
 msgctxt "Names/KEY_FIRST_NAME_LOGAN"
 msgid "Logan"
-msgstr "Logan"
+msgstr "ローガン"
 
 msgctxt "Names/KEY_FIRST_NAME_LOIC"
 msgid "Loïc"
-msgstr "Loïc"
+msgstr "ロイック"
 
 msgctxt "Names/KEY_FIRST_NAME_LOLA"
 msgid "Lola"
-msgstr "lola"
+msgstr "ローラ"
 
 msgctxt "Names/KEY_FIRST_NAME_LORCAN"
 msgid "Lorcan"
-msgstr "Lorcan"
+msgstr "ロルカン"
 
 msgctxt "Names/KEY_FIRST_NAME_LOU"
 msgid "Lou"
-msgstr "Lou"
+msgstr "ルー"
 
 msgctxt "Names/KEY_FIRST_NAME_LOUIS"
 msgid "Louis"
-msgstr "Louis"
+msgstr "ルイス"
 
 msgctxt "Names/KEY_FIRST_NAME_LOUISE"
 msgid "Louise"
-msgstr "Louise"
+msgstr "ルイーズ"
 
 msgctxt "Names/KEY_FIRST_NAME_LOWIE"
 msgid "Lowie"
-msgstr "Lowie"
+msgstr "ローウィー"
 
 msgctxt "Names/KEY_FIRST_NAME_LUANA"
 msgid "Luana"
-msgstr "Luana"
+msgstr "ルアナ"
 
 msgctxt "Names/KEY_FIRST_NAME_LUCA"
 msgid "Luca"
-msgstr "Luca"
+msgstr "ルカ"
 
 msgctxt "Names/KEY_FIRST_NAME_LUCAS"
 msgid "Lucas"
-msgstr "Lucas"
+msgstr "ルーカス"
 
 msgctxt "Names/KEY_FIRST_NAME_LUCIANO"
 msgid "Luciano"
-msgstr "Luciano"
+msgstr "ルチアーノ"
 
 msgctxt "Names/KEY_FIRST_NAME_LUCY"
 msgid "Lucy"
-msgstr "Lucy"
+msgstr "ルーシー"
 
 msgctxt "Names/KEY_FIRST_NAME_LUIGI"
 msgid "Luigi"
-msgstr "Luigi"
+msgstr "ルイージ"
 
 msgctxt "Names/KEY_FIRST_NAME_LUIS"
 msgid "Luis"
-msgstr "Luis"
+msgstr "ルイス"
 
 msgctxt "Names/KEY_FIRST_NAME_LUKASZ"
 msgid "Łukasz"
-msgstr "Łukasz"
+msgstr "ルカス"
 
 msgctxt "Names/KEY_FIRST_NAME_LUKE"
 msgid "Luke"
-msgstr "Lucas"
+msgstr "ルーク"
 
 msgctxt "Names/KEY_FIRST_NAME_LYDIA"
 msgid "Lydia"
-msgstr "Lidia"
+msgstr "リディア"
 
 msgctxt "Names/KEY_FIRST_NAME_LYNN"
 msgid "Lynn"
-msgstr "Lynn"
+msgstr "リン"
 
 msgctxt "Names/KEY_FIRST_NAME_MABEL"
 msgid "Mabel"
-msgstr "Mabel"
+msgstr "メイベル"
 
 msgctxt "Names/KEY_FIRST_NAME_MADDIE"
 msgid "Maddie"
-msgstr "Maddie"
+msgstr "マディ"
 
 msgctxt "Names/KEY_FIRST_NAME_MADDISON"
 msgid "Maddison"
-msgstr "Maddison"
+msgstr "マディソン"
 
 msgctxt "Names/KEY_FIRST_NAME_MADELEINE"
 msgid "Madeleine"
-msgstr "Madeleine"
+msgstr "マドレーヌ"
 
 msgctxt "Names/KEY_FIRST_NAME_MADELINE"
 msgid "Madeline"
-msgstr "Madeline"
+msgstr "マデライン"
 
 msgctxt "Names/KEY_FIRST_NAME_MAGNUS"
 msgid "Magnus"
-msgstr "Magnus"
+msgstr "マグナス"
 
 msgctxt "Names/KEY_FIRST_NAME_MAHVASH"
 msgid "Mahvash"
-msgstr "Mahvash"
+msgstr "マーヴァシュ"
 
 msgctxt "Names/KEY_FIRST_NAME_MAITE"
 msgid "Maite"
-msgstr "Maite"
+msgstr "マイテ"
 
 msgctxt "Names/KEY_FIRST_NAME_MAKSIM"
 msgid "Maksim"
-msgstr "Maksim"
+msgstr "マクシム"
 
 msgctxt "Names/KEY_FIRST_NAME_MALAK"
 msgid "Malak"
-msgstr "Malak"
+msgstr "マラク"
 
 msgctxt "Names/KEY_FIRST_NAME_MALENA"
 msgid "Malena"
-msgstr "Malena"
+msgstr "マレーナ"
 
 msgctxt "Names/KEY_FIRST_NAME_MALGORZATA"
 msgid "Malgorzata"
-msgstr "Malgorzata"
+msgstr "マウゴジャタ"
 
 msgctxt "Names/KEY_FIRST_NAME_MANON"
 msgid "Manon"
-msgstr "Manon"
+msgstr "マノン"
 
 msgctxt "Names/KEY_FIRST_NAME_MARCUS"
 msgid "Marcus"
-msgstr "Marcus"
+msgstr "マーカス"
 
 msgctxt "Names/KEY_FIRST_NAME_MARGARETA"
 msgid "Margareta"
-msgstr "Margareta"
+msgstr "マルガレータ"
 
 msgctxt "Names/KEY_FIRST_NAME_MARIA"
 msgid "María"
-msgstr "María"
+msgstr "マリア"
 
 msgctxt "Names/KEY_FIRST_NAME_MARIAM"
 msgid "Mariam"
-msgstr "Mariam"
+msgstr "マリアム"
 
 msgctxt "Names/KEY_FIRST_NAME_MARIA_ALEJANDRA"
 msgid "María Alejandra"
-msgstr "María Alejandra"
+msgstr "マリア・アレハンドラ"
 
 msgctxt "Names/KEY_FIRST_NAME_MARIA_CAMILA"
 msgid "María Camila"
-msgstr "María Camila"
+msgstr "マリア・カミラ"
 
 msgctxt "Names/KEY_FIRST_NAME_MARIA_FERNANDA"
 msgid "María Fernanda"
-msgstr "María Fernanda"
+msgstr "マリア・フェルナンダ"
 
 msgctxt "Names/KEY_FIRST_NAME_MARIA_PAULA"
 msgid "María Paula"
-msgstr "María Paula"
+msgstr "マリア・パウラ"
 
 msgctxt "Names/KEY_FIRST_NAME_MARIKA"
 msgid "Marika"
-msgstr "Marika"
+msgstr "マリカ"
 
 msgctxt "Names/KEY_FIRST_NAME_MARIO"
 msgid "Mario"
-msgstr "Mario"
+msgstr "マリオ"
 
 msgctxt "Names/KEY_FIRST_NAME_MARION"
 msgid "Marion"
-msgstr "Marion"
+msgstr "マリオン"
 
 msgctxt "Names/KEY_FIRST_NAME_MARIT"
 msgid "Marit"
-msgstr "Marit"
+msgstr "マーリット"
 
 msgctxt "Names/KEY_FIRST_NAME_MARLEEN"
 msgid "Marleen"
-msgstr "Marleen"
+msgstr "マルレーン"
 
 msgctxt "Names/KEY_FIRST_NAME_MARLENA"
 msgid "Marlena"
-msgstr "Marlena"
+msgstr "マリーナ"
 
 msgctxt "Names/KEY_FIRST_NAME_MARTHA"
 msgid "Martha"
-msgstr "Martha"
+msgstr "マーサ"
 
 msgctxt "Names/KEY_FIRST_NAME_MARTIN"
 msgid "Martín"
-msgstr "Martín"
+msgstr "マーティン"
 
 msgctxt "Names/KEY_FIRST_NAME_MARTON"
 msgid "Márton"
-msgstr "Márton"
+msgstr "マートン"
 
 msgctxt "Names/KEY_FIRST_NAME_MARY"
 msgid "Mary"
-msgstr "María"
+msgstr "メアリー"
 
 msgctxt "Names/KEY_FIRST_NAME_MARYAM"
 msgid "Maryam"
-msgstr "Maryam"
+msgstr "マリアム"
 
 msgctxt "Names/KEY_FIRST_NAME_MATEJ"
 msgid "Matej"
-msgstr "Matej"
+msgstr "マテジ"
 
 msgctxt "Names/KEY_FIRST_NAME_MATHIEU"
 msgid "Mathieu"
-msgstr "Mathieu"
+msgstr "マシュー"
 
 msgctxt "Names/KEY_FIRST_NAME_MATHILDA"
 msgid "Mathilda"
-msgstr "mathilda"
+msgstr "マチルダ"
 
 msgctxt "Names/KEY_FIRST_NAME_MATHILDE"
 msgid "Mathilde"
-msgstr "Mathilde"
+msgstr "マチルド"
 
 msgctxt "Names/KEY_FIRST_NAME_MATHIS"
 msgid "Mathis"
-msgstr "Mathis"
+msgstr "マティス"
 
 msgctxt "Names/KEY_FIRST_NAME_MATIAS"
 msgid "Matías"
-msgstr "Matías"
+msgstr "マティアス"
 
 msgctxt "Names/KEY_FIRST_NAME_MATILDA"
 msgid "Matilda"
-msgstr "Matilde"
+msgstr "マティルダ"
 
 msgctxt "Names/KEY_FIRST_NAME_MATILDE"
 msgid "Matilde"
-msgstr "Matilde"
+msgstr "マティルデ"
 
 msgctxt "Names/KEY_FIRST_NAME_MATTHEW"
 msgid "Matthew"
-msgstr "Mateo"
+msgstr "マシュー"
 
 msgctxt "Names/KEY_FIRST_NAME_MATTHIAS"
 msgid "Matthias"
-msgstr "Matthias"
+msgstr "マティアス"
 
 msgctxt "Names/KEY_FIRST_NAME_MATTI"
 msgid "Matti"
-msgstr "Matti"
+msgstr "マティ"
 
 msgctxt "Names/KEY_FIRST_NAME_MATTIA"
 msgid "Mattia"
-msgstr "Mattia"
+msgstr "マッティア"
 
 msgctxt "Names/KEY_FIRST_NAME_MATTIAS"
 msgid "Mattias"
-msgstr "Mattias"
+msgstr "マティアス"
 
 msgctxt "Names/KEY_FIRST_NAME_MAUD"
 msgid "Maud"
-msgstr "Maud"
+msgstr "モード"
 
 msgctxt "Names/KEY_FIRST_NAME_MAXIM"
 msgid "Maxim"
-msgstr "Máxima"
+msgstr "マキシム"
 
 msgctxt "Names/KEY_FIRST_NAME_MAXIMILIANO"
 msgid "Maximiliano"
-msgstr "Maximiliano"
+msgstr "マクシミリアーノ"
 
 msgctxt "Names/KEY_FIRST_NAME_MAXIMILLIAN"
 msgid "Maximillian"
-msgstr "maximillian"
+msgstr "マクシミリアン"
 
 msgctxt "Names/KEY_FIRST_NAME_MEGAN"
 msgid "Megan"
-msgstr "Megan"
+msgstr "ミーガン"
 
 msgctxt "Names/KEY_FIRST_NAME_MELANIA"
 msgid "Melania"
-msgstr "Melania"
+msgstr "メラニア"
 
 msgctxt "Names/KEY_FIRST_NAME_MELANIE"
 msgid "Melanie"
-msgstr "Melanie"
+msgstr "メラニー"
 
 msgctxt "Names/KEY_FIRST_NAME_MELISSA"
 msgid "Melissa"
-msgstr "Toronjil"
+msgstr "メリッサ"
 
 msgctxt "Names/KEY_FIRST_NAME_METTA"
 msgid "Metta"
-msgstr "Metta"
+msgstr "メッタ"
 
 msgctxt "Names/KEY_FIRST_NAME_MICAELA"
 msgid "Micaela"
-msgstr "Micaela"
+msgstr "ミカエラ"
 
 msgctxt "Names/KEY_FIRST_NAME_MICHAEL"
 msgid "Michael"
-msgstr "Miguel"
+msgstr "マイケル"
 
 msgctxt "Names/KEY_FIRST_NAME_MICHELLE"
 msgid "Michelle"
-msgstr "Michelle"
+msgstr "ミシェル"
 
 msgctxt "Names/KEY_FIRST_NAME_MIESZKO"
 msgid "Mieszko"
-msgstr "Mieszko"
+msgstr "ミエシュコ"
 
 msgctxt "Names/KEY_FIRST_NAME_MIGUEL_ANGEL"
 msgid "Miguel Ángel"
-msgstr "Miguel Angel"
+msgstr "ミゲル・アンヘル"
 
 msgctxt "Names/KEY_FIRST_NAME_MIKE"
 msgid "Mike"
-msgstr "Miguel"
+msgstr "マイク"
 
 msgctxt "Names/KEY_FIRST_NAME_MILAN"
 msgid "Milan"
-msgstr "Milán"
+msgstr "ミラン"
 
 msgctxt "Names/KEY_FIRST_NAME_MILAS"
 msgid "Milas"
-msgstr "Milas"
+msgstr "ミラス"
 
 msgctxt "Names/KEY_FIRST_NAME_MILENA"
 msgid "Milena"
-msgstr "Milena"
+msgstr "ミレーナ"
 
 msgctxt "Names/KEY_FIRST_NAME_MILLIE"
 msgid "Millie"
-msgstr "Millie"
+msgstr "ミリー"
 
 msgctxt "Names/KEY_FIRST_NAME_MILOSZ"
 msgid "Miłosz"
-msgstr "Milosz"
+msgstr "ミウォシュ"
 
 msgctxt "Names/KEY_FIRST_NAME_MIRA"
 msgid "Mira"
-msgstr "Mira"
+msgstr "ミラ"
 
 msgctxt "Names/KEY_FIRST_NAME_MIRANDA"
 msgid "Miranda"
-msgstr "Miranda"
+msgstr "ミランダ"
 
 msgctxt "Names/KEY_FIRST_NAME_MIRIAM"
 msgid "Miriam"
-msgstr "Miriam"
+msgstr "ミリアム"
 
 msgctxt "Names/KEY_FIRST_NAME_MOHAMMED"
 msgid "Mohammed"
-msgstr "Mahoma"
+msgstr "モハメッド"
 
 msgctxt "Names/KEY_FIRST_NAME_MOLLY"
 msgid "Molly"
-msgstr "muchacha"
+msgstr "モリー"
 
 msgctxt "Names/KEY_FIRST_NAME_MONTSERRAT"
 msgid "Montserrat"
-msgstr "Montserrat"
+msgstr "モントセラト"
 
 msgctxt "Names/KEY_FIRST_NAME_MORGAN"
 msgid "Morgan"
-msgstr "Morgan"
+msgstr "モーガン"
 
 msgctxt "Names/KEY_FIRST_NAME_MUHAMMAD"
 msgid "Muhammad"
-msgstr "Mahoma"
+msgstr "ムハンマド"
 
 msgctxt "Names/KEY_FIRST_NAME_MUSTAFA"
 msgid "Mustafa"
-msgstr "Mustafa"
+msgstr "ムスタファ"
 
 msgctxt "Names/KEY_FIRST_NAME_NABIL"
 msgid "Nabil"
-msgstr "Nabil"
+msgstr "ナビル"
 
 msgctxt "Names/KEY_FIRST_NAME_NADER"
 msgid "Nader"
-msgstr "Nader"
+msgstr "ネーダー"
 
 msgctxt "Names/KEY_FIRST_NAME_NADINE"
 msgid "Nadine"
-msgstr "Nadine"
+msgstr "ナディーヌ"
 
 msgctxt "Names/KEY_FIRST_NAME_NARE"
 msgid "Nare"
-msgstr "Nare"
+msgstr "ネア"
 
 msgctxt "Names/KEY_FIRST_NAME_NASER"
 msgid "Naser"
-msgstr "Naser"
+msgstr "ナセル"
 
 msgctxt "Names/KEY_FIRST_NAME_NATALIA"
 msgid "Natalia"
-msgstr "Natalia"
+msgstr "ナタリア"
 
 msgctxt "Names/KEY_FIRST_NAME_NATALIE"
 msgid "Natalie"
-msgstr "Natalie"
+msgstr "ナタリー"
 
 msgctxt "Names/KEY_FIRST_NAME_NATAN"
 msgid "Natan"
-msgstr "Natan"
+msgstr "ナタン"
 
 msgctxt "Names/KEY_FIRST_NAME_NATANIEL"
 msgid "Nataniel"
-msgstr "Nataniel"
+msgstr "ナタニエル"
 
 msgctxt "Names/KEY_FIRST_NAME_NATASHA"
 msgid "Natasha"
-msgstr "Natasha"
+msgstr "ナターシャ"
 
 msgctxt "Names/KEY_FIRST_NAME_NATHAN"
 msgid "Nathan"
-msgstr "Nathan"
+msgstr "ネイサン"
 
 msgctxt "Names/KEY_FIRST_NAME_NATHANIEL"
 msgid "Nathaniel"
-msgstr "Nathaniel"
+msgstr "ナサニエル"
 
 msgctxt "Names/KEY_FIRST_NAME_NEIL"
 msgid "Neil"
-msgstr "Neil"
+msgstr "ニール"
 
 msgctxt "Names/KEY_FIRST_NAME_NICHOLAS"
 msgid "Nicholas"
-msgstr "Nicholas"
+msgstr "ニコラス"
 
 msgctxt "Names/KEY_FIRST_NAME_NICK"
 msgid "Nick"
-msgstr "Mella"
+msgstr "ニック"
 
 msgctxt "Names/KEY_FIRST_NAME_NICOLA"
 msgid "Nicola"
-msgstr "Nicola"
+msgstr "ニコラ"
 
 msgctxt "Names/KEY_FIRST_NAME_NICOLAS"
 msgid "Nicolás"
-msgstr "Nicolás"
+msgstr "ニコラス"
 
 msgctxt "Names/KEY_FIRST_NAME_NICOLAUS"
 msgid "Nicolaus"
-msgstr "Nicolaus"
+msgstr "ニコラウス"
 
 msgctxt "Names/KEY_FIRST_NAME_NICOLE"
 msgid "Nicole"
-msgstr "Nicole"
+msgstr "ニコル"
 
 msgctxt "Names/KEY_FIRST_NAME_NIKITA"
 msgid "Nikita"
-msgstr "Nikita"
+msgstr "ニキータ"
 
 msgctxt "Names/KEY_FIRST_NAME_NIKLAS"
 msgid "Niklas"
-msgstr "Niklas"
+msgstr "ニクラス"
 
 msgctxt "Names/KEY_FIRST_NAME_NIKOLA"
 msgid "Nikola"
-msgstr "Nikola"
+msgstr "ニコラ"
 
 msgctxt "Names/KEY_FIRST_NAME_NIMROD"
 msgid "Nimrod"
-msgstr "Nimrod"
+msgstr "ニムロッド"
 
 msgctxt "Names/KEY_FIRST_NAME_NINA"
 msgid "Nina"
-msgstr "Nina"
+msgstr "ニーナ"
 
 msgctxt "Names/KEY_FIRST_NAME_NOAH"
 msgid "Noah"
-msgstr "Noé"
+msgstr "ノア"
 
 msgctxt "Names/KEY_FIRST_NAME_NOAM"
 msgid "Noam"
-msgstr "Noam"
+msgstr "ノーム"
 
 msgctxt "Names/KEY_FIRST_NAME_NOEL"
 msgid "Noel"
-msgstr "Navidad"
+msgstr "ノエル"
 
 msgctxt "Names/KEY_FIRST_NAME_NOLAN"
 msgid "Nolan"
-msgstr "Nolan"
+msgstr "ノーラン"
 
 msgctxt "Names/KEY_FIRST_NAME_NORA"
 msgid "Nora"
-msgstr "Nora"
+msgstr "ノラ"
 
 msgctxt "Names/KEY_FIRST_NAME_NORE"
 msgid "Nore"
-msgstr "Nore"
+msgstr "ノア"
 
 msgctxt "Names/KEY_FIRST_NAME_NOUR"
 msgid "Nour"
-msgstr "Nour"
+msgstr "ノウル"
 
 msgctxt "Names/KEY_FIRST_NAME_NURIA"
 msgid "Nuria"
-msgstr "Nuria"
+msgstr "ヌリア"
 
 msgctxt "Names/KEY_FIRST_NAME_OBAMA"
 msgid "Obama"
-msgstr "Obama"
+msgstr "オバマ"
 
 msgctxt "Names/KEY_FIRST_NAME_OLA"
 msgid "Ola"
-msgstr "Ola"
+msgstr "オラ"
 
 msgctxt "Names/KEY_FIRST_NAME_OLAVI"
 msgid "Olavi"
-msgstr "Olavi"
+msgstr "オラヴィ"
 
 msgctxt "Names/KEY_FIRST_NAME_OLGA"
 msgid "Olga"
-msgstr "Olga"
+msgstr "オルガ"
 
 msgctxt "Names/KEY_FIRST_NAME_OLIVER"
 msgid "Oliver"
-msgstr "Oliver"
+msgstr "オリバー"
 
 msgctxt "Names/KEY_FIRST_NAME_OLIVIA"
 msgid "Olivia"
-msgstr "Olivia"
+msgstr "オリビア"
 
 msgctxt "Names/KEY_FIRST_NAME_OLIVIER"
 msgid "Olivier"
-msgstr "Olivier"
+msgstr "オリヴィエ"
 
 msgctxt "Names/KEY_FIRST_NAME_OLLIE"
 msgid "Ollie"
-msgstr "ollie"
+msgstr "オリー"
 
 msgctxt "Names/KEY_FIRST_NAME_OLOF"
 msgid "Olof"
-msgstr "Olof"
+msgstr "オロフ"
 
 msgctxt "Names/KEY_FIRST_NAME_OLU"
 msgid "Olu"
-msgstr "Olu"
+msgstr "オル"
 
 msgctxt "Names/KEY_FIRST_NAME_OONA"
 msgid "Oona"
-msgstr "Oona"
+msgstr "ウーナ"
 
 msgctxt "Names/KEY_FIRST_NAME_OSCAR"
 msgid "Oscar"
-msgstr "Oscar"
+msgstr "オスカー"
 
 msgctxt "Names/KEY_FIRST_NAME_OWEN"
 msgid "Owen"
-msgstr "Owen"
+msgstr "オーウェン"
 
 msgctxt "Names/KEY_FIRST_NAME_PARVIN"
 msgid "Parvin"
-msgstr "Parvin"
+msgstr "パルヴィン"
 
 msgctxt "Names/KEY_FIRST_NAME_PATRICK"
 msgid "Patrick"
-msgstr "Patricio"
+msgstr "パトリック"
 
 msgctxt "Names/KEY_FIRST_NAME_PAUL"
 msgid "Paul"
-msgstr "Paul"
+msgstr "ポール"
 
 msgctxt "Names/KEY_FIRST_NAME_PAULA"
 msgid "Paula"
-msgstr "Paula"
+msgstr "ポーラ"
 
 msgctxt "Names/KEY_FIRST_NAME_PAULINA"
 msgid "Paulina"
-msgstr "Paulina"
+msgstr "パウリーナ"
 
 msgctxt "Names/KEY_FIRST_NAME_PAULINE"
 msgid "Pauline"
-msgstr "Pauline"
+msgstr "ポーリーヌ"
 
 msgctxt "Names/KEY_FIRST_NAME_PENELOPE"
 msgid "Penelope"
-msgstr "penélope"
+msgstr "ペネロペ"
 
 msgctxt "Names/KEY_FIRST_NAME_PETER"
 msgid "Peter"
-msgstr "Peter"
+msgstr "ピーター"
 
 msgctxt "Names/KEY_FIRST_NAME_PHILIP"
 msgid "Philip"
-msgstr "Philip"
+msgstr "フィリップ"
 
 msgctxt "Names/KEY_FIRST_NAME_PHOEBE"
 msgid "Phoebe"
-msgstr "Phoebe"
+msgstr "フィービー"
 
 msgctxt "Names/KEY_FIRST_NAME_PILI"
 msgid "Pili"
-msgstr "pili"
+msgstr "パイライ"
 
 msgctxt "Names/KEY_FIRST_NAME_PIOTR"
 msgid "Piotr"
-msgstr "Piotr"
+msgstr "ピョートル"
 
 msgctxt "Names/KEY_FIRST_NAME_POLINA"
 msgid "Polina"
-msgstr "Polina"
+msgstr "ポリーナ"
 
 msgctxt "Names/KEY_FIRST_NAME_PÅVEL"
 msgid "Påvel"
-msgstr "Pavel"
+msgstr "パヴェル"
 
 msgctxt "Names/KEY_FIRST_NAME_RACHEL"
 msgid "Rachel"
-msgstr "Rachel"
+msgstr "レイチェル"
 
 msgctxt "Names/KEY_FIRST_NAME_RADOSLAW"
 msgid "Radoslaw"
-msgstr "Radoslaw"
+msgstr "ラドスロウ"
 
 msgctxt "Names/KEY_FIRST_NAME_RAFAEL"
 msgid "Rafael"
-msgstr "Rafael"
+msgstr "ラファエル"
 
 msgctxt "Names/KEY_FIRST_NAME_RAFAELA"
 msgid "Rafaela"
-msgstr "Rafaela"
+msgstr "ラファエラ"
 
 msgctxt "Names/KEY_FIRST_NAME_RAFFAELE"
 msgid "Raffaele"
-msgstr "Raffaele"
+msgstr "ラファエレ"
 
 msgctxt "Names/KEY_FIRST_NAME_RAMAZAN"
 msgid "Ramazan"
-msgstr "Ramazan"
+msgstr "ラマダーン"
 
 msgctxt "Names/KEY_FIRST_NAME_RAMON"
 msgid "Ramon"
-msgstr "Ramón"
+msgstr "ラモン"
 
 msgctxt "Names/KEY_FIRST_NAME_RAPHAEL"
 msgid "Raphael"
-msgstr "Raphael"
+msgstr "ラファエル"
 
 msgctxt "Names/KEY_FIRST_NAME_RAQUEL"
 msgid "Raquel"
-msgstr "Raquel"
+msgstr "ラクエル"
 
 msgctxt "Names/KEY_FIRST_NAME_RASHID"
 msgid "Rashid"
-msgstr "Rashid"
+msgstr "ラシード"
 
 msgctxt "Names/KEY_FIRST_NAME_RASMUS"
 msgid "Rasmus"
-msgstr "Rasmus"
+msgstr "ラスマス"
 
 msgctxt "Names/KEY_FIRST_NAME_REBECA"
 msgid "Rebeca"
-msgstr "Rebeca"
+msgstr "レベッカ"
 
 msgctxt "Names/KEY_FIRST_NAME_REBECCA"
 msgid "Rebecca"
-msgstr "Rebecca"
+msgstr "レベッカ"
 
 msgctxt "Names/KEY_FIRST_NAME_REBEKA"
 msgid "Rebeka"
-msgstr "Rebeka"
+msgstr "リベカ"
 
 msgctxt "Names/KEY_FIRST_NAME_REKA"
 msgid "Reka"
-msgstr "Reka"
+msgstr "レカ"
 
 msgctxt "Names/KEY_FIRST_NAME_RENATA"
 msgid "Renata"
-msgstr "Renata"
+msgstr "レナータ"
 
 msgctxt "Names/KEY_FIRST_NAME_RENATE"
 msgid "Renate"
-msgstr "Renate"
+msgstr "レナーテ"
 
 msgctxt "Names/KEY_FIRST_NAME_RIAN"
 msgid "Rian"
-msgstr "rian"
+msgstr "ライアン"
 
 msgctxt "Names/KEY_FIRST_NAME_RICARDO"
 msgid "Ricardo"
-msgstr "Ricardo"
+msgstr "リカルド"
 
 msgctxt "Names/KEY_FIRST_NAME_RICHARD"
 msgid "Richard"
-msgstr "Ricardo"
+msgstr "リチャード"
 
 msgctxt "Names/KEY_FIRST_NAME_RILEY"
 msgid "Riley"
-msgstr "Riley"
+msgstr "ライリー"
 
 msgctxt "Names/KEY_FIRST_NAME_RINA"
 msgid "Rina"
-msgstr "rina"
+msgstr "リナ"
 
 msgctxt "Names/KEY_FIRST_NAME_ROBBIE"
 msgid "Robbie"
-msgstr "Robbie"
+msgstr "ロビー"
 
 msgctxt "Names/KEY_FIRST_NAME_ROBERT"
 msgid "Robert"
-msgstr "Robert"
+msgstr "ロバート"
 
 msgctxt "Names/KEY_FIRST_NAME_ROBIN"
 msgid "Robin"
-msgstr "Robin"
+msgstr "ロビン"
 
 msgctxt "Names/KEY_FIRST_NAME_RODRIGO"
 msgid "Rodrigo"
-msgstr "Rodrigo"
+msgstr "ロドリーゴ"
 
 msgctxt "Names/KEY_FIRST_NAME_ROISIN"
 msgid "Roisin"
-msgstr "Roisin"
+msgstr "ロイジン"
 
 msgctxt "Names/KEY_FIRST_NAME_ROMAIN"
 msgid "Romain"
-msgstr "Romain"
+msgstr "ロメイン"
 
 msgctxt "Names/KEY_FIRST_NAME_ROMINA"
 msgid "Romina"
-msgstr "Romina"
+msgstr "ロミーナ"
 
 msgctxt "Names/KEY_FIRST_NAME_RONAN"
 msgid "Ronan"
-msgstr "Ronan"
+msgstr "ローナン"
 
 msgctxt "Names/KEY_FIRST_NAME_RORY"
 msgid "Rory"
-msgstr "Rory"
+msgstr "ロリー"
 
 msgctxt "Names/KEY_FIRST_NAME_ROSA"
 msgid "Rosa"
-msgstr "Rosa"
+msgstr "ローザ"
 
 msgctxt "Names/KEY_FIRST_NAME_ROSE"
 msgid "Rose"
-msgstr "Rosa"
+msgstr "ローズ"
 
 msgctxt "Names/KEY_FIRST_NAME_ROSIE"
 msgid "Rosie"
-msgstr "Rosie"
+msgstr "ロージー"
 
 msgctxt "Names/KEY_FIRST_NAME_ROSS"
 msgid "Ross"
-msgstr "Ross"
+msgstr "ロス"
 
 msgctxt "Names/KEY_FIRST_NAME_RUBY"
 msgid "Ruby"
-msgstr "Rubí"
+msgstr "ルビー"
 
 msgctxt "Names/KEY_FIRST_NAME_RUSLAN"
 msgid "Ruslan"
-msgstr "Ruslan"
+msgstr "ルスラーン"
 
 msgctxt "Names/KEY_FIRST_NAME_RUTH"
 msgid "Ruth"
-msgstr "Piedad"
+msgstr "ルース"
 
 msgctxt "Names/KEY_FIRST_NAME_RYAN"
 msgid "Ryan"
-msgstr "Ryan"
+msgstr "ライアン"
 
 msgctxt "Names/KEY_FIRST_NAME_SAAR"
 msgid "Saar"
-msgstr "Sarre"
+msgstr "ザール"
 
 msgctxt "Names/KEY_FIRST_NAME_SABINE"
 msgid "Sabine"
-msgstr "Sabino"
+msgstr "サビーネ"
 
 msgctxt "Names/KEY_FIRST_NAME_SADIE"
 msgid "Sadie"
-msgstr "Sadie"
+msgstr "セイディ"
 
 msgctxt "Names/KEY_FIRST_NAME_SAID"
 msgid "Said"
-msgstr "Dijo"
+msgstr "サイード"
 
 msgctxt "Names/KEY_FIRST_NAME_SALOME"
 msgid "Salomé"
-msgstr "Salomé"
+msgstr "サロメ"
 
 msgctxt "Names/KEY_FIRST_NAME_SAM"
 msgid "Sam"
-msgstr "Sam"
+msgstr "サム"
 
 msgctxt "Names/KEY_FIRST_NAME_SAMANTHA"
 msgid "Samantha"
-msgstr "Samantha"
+msgstr "サマンサ"
 
 msgctxt "Names/KEY_FIRST_NAME_SAMI"
 msgid "Sami"
-msgstr "Sami"
+msgstr "サミ"
 
 msgctxt "Names/KEY_FIRST_NAME_SAMMER"
 msgid "Sammer"
-msgstr "Sammer"
+msgstr "ザマー"
 
 msgctxt "Names/KEY_FIRST_NAME_SAMUEL"
 msgid "Samuel"
-msgstr "Samuel"
+msgstr "サミュエル"
 
 msgctxt "Names/KEY_FIRST_NAME_SANNI"
 msgid "Sanni"
-msgstr "sanni"
+msgstr "サニー"
 
 msgctxt "Names/KEY_FIRST_NAME_SANTIAGO"
 msgid "Santiago"
-msgstr "Santiago"
+msgstr "サンティアゴ"
 
 msgctxt "Names/KEY_FIRST_NAME_SANTINO"
 msgid "Santino"
-msgstr "Santino"
+msgstr "サンティーノ"
 
 msgctxt "Names/KEY_FIRST_NAME_SARA"
 msgid "Sara"
-msgstr "Sara"
+msgstr "サラ"
 
 msgctxt "Names/KEY_FIRST_NAME_SARAH"
 msgid "Sarah"
-msgstr "Sarah"
+msgstr "サラ"
 
 msgctxt "Names/KEY_FIRST_NAME_SCOTT"
 msgid "Scott"
-msgstr "scott"
+msgstr "スコット"
 
 msgctxt "Names/KEY_FIRST_NAME_SEAMUS"
 msgid "Seamus"
-msgstr "Seamus"
+msgstr "シェーマス"
 
 msgctxt "Names/KEY_FIRST_NAME_SEAN"
 msgid "Sean"
-msgstr "Sean"
+msgstr "ショーン"
 
 msgctxt "Names/KEY_FIRST_NAME_SEBASTIAN"
 msgid "Sebastián"
-msgstr "Sebastián"
+msgstr "セバスティアン"
 
 msgctxt "Names/KEY_FIRST_NAME_SERENA"
 msgid "Serena"
-msgstr "Serena"
+msgstr "セリーナ"
 
 msgctxt "Names/KEY_FIRST_NAME_SERGEY"
 msgid "Sergey"
-msgstr "Sergey"
+msgstr "セルゲイ"
 
 msgctxt "Names/KEY_FIRST_NAME_SHANE"
 msgid "Shane"
-msgstr "Shane"
+msgstr "シェーン"
 
 msgctxt "Names/KEY_FIRST_NAME_SHELBY"
 msgid "Shelby"
-msgstr "Shelby"
+msgstr "シェルビー"
 
 msgctxt "Names/KEY_FIRST_NAME_SHIRA"
 msgid "Shira"
-msgstr "Shira"
+msgstr "シラ"
 
 msgctxt "Names/KEY_FIRST_NAME_SIGMUND"
 msgid "Sigmund"
-msgstr "Sigmund"
+msgstr "ジークムント"
 
 msgctxt "Names/KEY_FIRST_NAME_SIGRID"
 msgid "Sigrid"
-msgstr "Sigrid"
+msgstr "シグリッド"
 
 msgctxt "Names/KEY_FIRST_NAME_SILAS"
 msgid "Silas"
-msgstr "Silas"
+msgstr "サイラス"
 
 msgctxt "Names/KEY_FIRST_NAME_SIMONE"
 msgid "Simone"
-msgstr "Simone"
+msgstr "シモーヌ"
 
 msgctxt "Names/KEY_FIRST_NAME_SOFIA"
 msgid "Sofia"
-msgstr "Sofía"
+msgstr "ソフィア"
 
 msgctxt "Names/KEY_FIRST_NAME_SONE"
 msgid "Sone"
-msgstr "Sone"
+msgstr "ソーン"
 
 msgctxt "Names/KEY_FIRST_NAME_SONIA"
 msgid "Sonia"
-msgstr "Sonia"
+msgstr "ソニア"
 
 msgctxt "Names/KEY_FIRST_NAME_SOPHIA"
 msgid "Sophia"
-msgstr "Sofía"
+msgstr "ソフィア"
 
 msgctxt "Names/KEY_FIRST_NAME_SOPHIE"
 msgid "Sophie"
-msgstr "Sophie"
+msgstr "ソフィー"
 
 msgctxt "Names/KEY_FIRST_NAME_STAN"
 msgid "Stan"
-msgstr "Stan"
+msgstr "スタン"
 
 msgctxt "Names/KEY_FIRST_NAME_STANISLAS"
 msgid "Stanislas"
-msgstr "Stanislas"
+msgstr "スタニスラス"
 
 msgctxt "Names/KEY_FIRST_NAME_STANISLAW"
 msgid "Stanislaw"
-msgstr "Stanislaw"
+msgstr "スタニスワフ"
 
 msgctxt "Names/KEY_FIRST_NAME_STEFAN"
 msgid "Stefan"
-msgstr "Stefan"
+msgstr "ステファン"
 
 msgctxt "Names/KEY_FIRST_NAME_STEFANO"
 msgid "Stefano"
-msgstr "Stefano"
+msgstr "ステファノ"
 
 msgctxt "Names/KEY_FIRST_NAME_STELLA"
 msgid "Stella"
-msgstr "Stella"
+msgstr "ステラ"
 
 msgctxt "Names/KEY_FIRST_NAME_STEPHEN"
 msgid "Stephen"
-msgstr "Stephen"
+msgstr "スティーブン"
 
 msgctxt "Names/KEY_FIRST_NAME_STEVEN"
 msgid "Steven"
-msgstr "Steven"
+msgstr "スティーブン"
 
 msgctxt "Names/KEY_FIRST_NAME_STIJN"
 msgid "Stijn"
-msgstr "Stijn"
+msgstr "スティン"
 
 msgctxt "Names/KEY_FIRST_NAME_STINA"
 msgid "Stina"
-msgstr "Stina"
+msgstr "スティナ"
 
 msgctxt "Names/KEY_FIRST_NAME_SUNE"
 msgid "Sune"
-msgstr "Sune"
+msgstr "スネ"
 
 msgctxt "Names/KEY_FIRST_NAME_SUREN"
 msgid "Suren"
-msgstr "Suren"
+msgstr "スレン"
 
 msgctxt "Names/KEY_FIRST_NAME_SVANTE"
 msgid "Svante"
-msgstr "Svante"
+msgstr "スヴァンテ"
 
 msgctxt "Names/KEY_FIRST_NAME_SOREN"
 msgid "Sören"
-msgstr "Sören"
+msgstr "ソーレン"
 
 msgctxt "Names/KEY_FIRST_NAME_TADEUSZ"
 msgid "Tadeusz"
-msgstr "Tadeusz"
+msgstr "タデウシュ"
 
 msgctxt "Names/KEY_FIRST_NAME_TAHIR"
 msgid "Tahir"
-msgstr "Tahir"
+msgstr "タヒル"
 
 msgctxt "Names/KEY_FIRST_NAME_TAMAR"
 msgid "Tamar"
-msgstr "Tamar"
+msgstr "タマル"
 
 msgctxt "Names/KEY_FIRST_NAME_TAMAS"
 msgid "Tamás"
-msgstr "Tamás"
+msgstr "タマーシュ"
 
 msgctxt "Names/KEY_FIRST_NAME_TAPANI"
 msgid "Tapani"
-msgstr "tapani"
+msgstr "タパニ"
 
 msgctxt "Names/KEY_FIRST_NAME_TAPIO"
 msgid "Tapio"
-msgstr "Tapio"
+msgstr "タピオ"
 
 msgctxt "Names/KEY_FIRST_NAME_TARA"
 msgid "Tara"
-msgstr "Tara"
+msgstr "タラ"
 
 msgctxt "Names/KEY_FIRST_NAME_TARANA"
 msgid "Tarana"
-msgstr "Tarana"
+msgstr "タラナ"
 
 msgctxt "Names/KEY_FIRST_NAME_THEODORE"
 msgid "Theodore"
-msgstr "Theodore"
+msgstr "セオドア"
 
 msgctxt "Names/KEY_FIRST_NAME_THIAGO"
 msgid "Thiago"
-msgstr "Thiago"
+msgstr "ティアゴ"
 
 msgctxt "Names/KEY_FIRST_NAME_THIBAULT"
 msgid "Thibault"
-msgstr "Thibault"
+msgstr "チボー"
 
 msgctxt "Names/KEY_FIRST_NAME_THIJS"
 msgid "Thijs"
-msgstr "Thijs"
+msgstr "ティジス"
 
 msgctxt "Names/KEY_FIRST_NAME_THOMAS"
 msgid "Thomas"
-msgstr "Thomas"
+msgstr "トーマス"
 
 msgctxt "Names/KEY_FIRST_NAME_THOR"
 msgid "Thor"
-msgstr "Thor"
+msgstr "ソー"
 
 msgctxt "Names/KEY_FIRST_NAME_TIA"
 msgid "Tia"
-msgstr "Tia"
+msgstr "ティア"
 
 msgctxt "Names/KEY_FIRST_NAME_TIGRAN"
 msgid "Tigran"
-msgstr "Tigran"
+msgstr "ティグラン"
 
 msgctxt "Names/KEY_FIRST_NAME_TIM"
 msgid "Tim"
-msgstr "Tim"
+msgstr "ティム"
 
 msgctxt "Names/KEY_FIRST_NAME_TIRANA"
 msgid "Tirana"
-msgstr "Tirana"
+msgstr "ティラナ"
 
 msgctxt "Names/KEY_FIRST_NAME_TOBIAS"
 msgid "Tobias"
-msgstr "Tobias"
+msgstr "トビアス"
 
 msgctxt "Names/KEY_FIRST_NAME_TOBY"
 msgid "Toby"
-msgstr "Toby"
+msgstr "トビー"
 
 msgctxt "Names/KEY_FIRST_NAME_TOIVO"
 msgid "Toivo"
-msgstr "toivo"
+msgstr "トイボ"
 
 msgctxt "Names/KEY_FIRST_NAME_TOM"
 msgid "Tom"
-msgstr "tom"
+msgstr "トム"
 
 msgctxt "Names/KEY_FIRST_NAME_TOMMASO"
 msgid "Tommaso"
-msgstr "Tommaso"
+msgstr "トマソ"
 
 msgctxt "Names/KEY_FIRST_NAME_TOMMY"
 msgid "Tommy"
-msgstr "Tommy"
+msgstr "トミー"
 
 msgctxt "Names/KEY_FIRST_NAME_TORSTEN"
 msgid "Torsten"
-msgstr "Torsten"
+msgstr "トルステン"
 
 msgctxt "Names/KEY_FIRST_NAME_TRISTAN"
 msgid "Tristan"
-msgstr "tristan"
+msgstr "トリスタン"
 
 msgctxt "Names/KEY_FIRST_NAME_TURAL"
 msgid "Tural"
-msgstr "tural"
+msgstr "トゥラル"
 
 msgctxt "Names/KEY_FIRST_NAME_TYLER"
 msgid "Tyler"
-msgstr "Tyler"
+msgstr "タイラー"
 
 msgctxt "Names/KEY_FIRST_NAME_URSULA"
 msgid "Ursula"
-msgstr "Ursula"
+msgstr "ウルスラ"
 
 msgctxt "Names/KEY_FIRST_NAME_URSZULA"
 msgid "Urszula"
-msgstr "Urszula"
+msgstr "ウルスラ"
 
 msgctxt "Names/KEY_FIRST_NAME_VACLAV"
 msgid "Vaclav"
-msgstr "Vaclav"
+msgstr "ヴァーツラフ"
 
 msgctxt "Names/KEY_FIRST_NAME_VAHAN"
 msgid "Vahan"
-msgstr "vahan"
+msgstr "ヴァハン"
 
 msgctxt "Names/KEY_FIRST_NAME_VAHE"
 msgid "Vahe"
-msgstr "Vahe"
+msgstr "ヴァヘ"
 
 msgctxt "Names/KEY_FIRST_NAME_VALDEMAR"
 msgid "Valdemar"
-msgstr "Valdemar"
+msgstr "ヴァルデマー"
 
 msgctxt "Names/KEY_FIRST_NAME_VALENTINA"
 msgid "Valentina"
-msgstr "Valentina"
+msgstr "ヴァレンティーナ"
 
 msgctxt "Names/KEY_FIRST_NAME_VALENTINO"
 msgid "Valentino"
-msgstr "Valentino"
+msgstr "ヴァレンティノ"
 
 msgctxt "Names/KEY_FIRST_NAME_VALERIA"
 msgid "Valeria"
-msgstr "Valeria"
+msgstr "ヴァレリア"
 
 msgctxt "Names/KEY_FIRST_NAME_VALERY"
 msgid "Valery"
-msgstr "Valery"
+msgstr "ヴァレリー"
 
 msgctxt "Names/KEY_FIRST_NAME_VANESSA"
 msgid "Vanessa"
-msgstr "Vanessa"
+msgstr "ヴァネッサ"
 
 msgctxt "Names/KEY_FIRST_NAME_VARDAN"
 msgid "Vardan"
-msgstr "Vardan"
+msgstr "ヴァルダン"
 
 msgctxt "Names/KEY_FIRST_NAME_VEERA"
 msgid "Veera"
-msgstr "veera"
+msgstr "ヴィーラ"
 
 msgctxt "Names/KEY_FIRST_NAME_VICENTE"
 msgid "Vicente"
-msgstr "Vicente"
+msgstr "ビセンテ"
 
 msgctxt "Names/KEY_FIRST_NAME_VICTOR"
 msgid "Victor"
-msgstr "Víctor"
+msgstr "ビクター"
 
 msgctxt "Names/KEY_FIRST_NAME_VICTORIA"
 msgid "Victoria"
-msgstr "Victoria"
+msgstr "ヴィクトリア"
 
 msgctxt "Names/KEY_FIRST_NAME_VIGGO"
 msgid "Viggo"
-msgstr "Viggo"
+msgstr "ヴィゴ"
 
 msgctxt "Names/KEY_FIRST_NAME_VILMA"
 msgid "Vilma"
-msgstr "Vilma"
+msgstr "ヴィルマ"
 
 msgctxt "Names/KEY_FIRST_NAME_VINCE"
 msgid "Vince"
-msgstr "Vince"
+msgstr "ヴィンス"
 
 msgctxt "Names/KEY_FIRST_NAME_VINCENZO"
 msgid "Vincenzo"
-msgstr "Vincenzo"
+msgstr "ヴィンチェンツォ"
 
 msgctxt "Names/KEY_FIRST_NAME_VIOLET"
 msgid "Violet"
-msgstr "Violeta"
+msgstr "バイオレット"
 
 msgctxt "Names/KEY_FIRST_NAME_VIOLETA"
 msgid "Violeta"
-msgstr "Violeta"
+msgstr "ヴィオレータ"
 
 msgctxt "Names/KEY_FIRST_NAME_VIVIEN"
 msgid "Vivien"
-msgstr "Vivien"
+msgstr "ヴィヴィアン"
 
 msgctxt "Names/KEY_FIRST_NAME_WAHID"
 msgid "Wahid"
-msgstr "Wahid"
+msgstr "ワヒド"
 
 msgctxt "Names/KEY_FIRST_NAME_WALTER"
 msgid "Walter"
-msgstr "Walter"
+msgstr "ウォルター"
 
 msgctxt "Names/KEY_FIRST_NAME_WANGU"
 msgid "Wangu"
-msgstr "wangu"
+msgstr "ワング"
 
 msgctxt "Names/KEY_FIRST_NAME_WERNER"
 msgid "Werner"
-msgstr "Werner"
+msgstr "ヴェルナー"
 
 msgctxt "Names/KEY_FIRST_NAME_WILHELM"
 msgid "Wilhelm"
-msgstr "Wilhelm"
+msgstr "ヴィルヘルム"
 
 msgctxt "Names/KEY_FIRST_NAME_WILLIAM"
 msgid "William"
-msgstr "Guillermo"
+msgstr "ウィリアム"
 
 msgctxt "Names/KEY_FIRST_NAME_WITOLD"
 msgid "Witold"
-msgstr "Witold"
+msgstr "ヴィトルド"
 
 msgctxt "Names/KEY_FIRST_NAME_WOJCIECH"
 msgid "Wojciech"
-msgstr "Wojciech"
+msgstr "ヴォイチェフ"
 
 msgctxt "Names/KEY_FIRST_NAME_XAVIER"
 msgid "Xavier"
-msgstr "Javier"
+msgstr "ザビエル"
 
 msgctxt "Names/KEY_FIRST_NAME_YAEL"
 msgid "Yael"
-msgstr "Yael"
+msgstr "ヤエル"
 
 msgctxt "Names/KEY_FIRST_NAME_YAHYA"
 msgid "Yahya"
-msgstr "Yahya"
+msgstr "ヤハヤ"
 
 msgctxt "Names/KEY_FIRST_NAME_YARO"
 msgid "Yaro"
-msgstr "Yaro"
+msgstr "ヤロー"
 
 msgctxt "Names/KEY_FIRST_NAME_YASMINE"
 msgid "Yasmine"
-msgstr "Yasmine"
+msgstr "ヤスミン"
 
 msgctxt "Names/KEY_FIRST_NAME_YOSEF"
 msgid "Yosef"
-msgstr "Yosef"
+msgstr "ヨセフ"
 
 msgctxt "Names/KEY_FIRST_NAME_YOUNES"
 msgid "Younes"
-msgstr "Younes"
+msgstr "ユネス"
 
 msgctxt "Names/KEY_FIRST_NAME_YOUSIF"
 msgid "Yousif"
-msgstr "Yousif"
+msgstr "ユーシフ"
 
 msgctxt "Names/KEY_FIRST_NAME_YOUSSEF"
 msgid "Youssef"
-msgstr "Youssef"
+msgstr "ユーゼフ"
 
 msgctxt "Names/KEY_FIRST_NAME_ZSOLT"
 msgid "Zsolt"
-msgstr "Zsolt"
+msgstr "ツォルト"
 
 msgctxt "Names/KEY_FIRST_NAME_ZUZANA"
 msgid "Zuzana"
-msgstr "Zuzana"
+msgstr "ズザナ"
 
 msgctxt "Names/KEY_FIRST_NAME_AKE"
 msgid "Åke"
-msgstr "Åke"
+msgstr "オーケ"
 
 msgctxt "Names/KEY_FIRST_NAME_OSTEN"
 msgid "Östen"
-msgstr "Östen"
-
+msgstr "エステン"
