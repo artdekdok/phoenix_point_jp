@@ -1,452 +1,434 @@
-#
-msgid ""
-msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-02-07 23:09+0900\n"
-"Last-Translator: higema <ltdhyndsh@yahoo.co.jp>\n"
-"Language-Team: \n"
-"Language: th\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.4.2\n"
-
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU1"
 msgid "The Womb of Tomorrow"
-msgstr "明日が生まれる場所"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU10"
 msgid "We Can Be Better"
-msgstr "人はより優れたものになれる"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU100"
 msgid "Hope Requires Change"
-msgstr "希望は変化を必要とする"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU101"
 msgid "A Better World Waits To Be Born"
-msgstr "より良き世界が誕生を待つ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU102"
 msgid "Mutation Is Not The End, But The Beginning"
-msgstr "変異は終わりではなく始まりである"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU103"
 msgid "True Purity Exists Only In The Soul"
-msgstr "真の純粋は魂の内にのみ在る"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU104"
 msgid "Blessed by the Mysteries of the Exalted"
-msgstr "イグザルティドの秘跡に祝福されて"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU105"
 msgid "Anu Smile Upon Us"
-msgstr "アヌは私達に微笑む"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU106"
 msgid "The Deluge Will Cease When We Learn To Breathe Water"
-msgstr "かの水の吸い方を学んだ時、大洪水は止むであろう"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU107"
 msgid "Blessed Metamorphosis"
-msgstr "祝福された変成"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU108"
 msgid "The Soul Commands, The Body Obeys"
-msgstr "魂が導き、肉体が従う"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU11"
 msgid "Nothing Lasts Forever but the Certainty of Change"
-msgstr "永遠に続くものはないが、変化は確実にある"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU12"
 msgid "Beauty in a Handful of Dust"
-msgstr "一握のちりの美しさ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU13"
 msgid "Hear the Ancient Melody"
-msgstr "古のメロディに耳を澄ませ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU14"
 msgid "Salvation is at Hand"
-msgstr "救済の時は近い"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU15"
 msgid "The Church is Mother, the Church is Father"
-msgstr "教会は母であり、教会は父である"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU16"
 msgid "We Are of the Earth"
-msgstr "私達は地球の一部である"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU17"
 msgid "Gaze at the Stars and Dream"
-msgstr "星々と夢に目を凝らせ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU18"
 msgid "Embrace the New Birth"
-msgstr "新たな誕生を受け入れよ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU19"
 msgid "Faith in the Exalted is Faith in Tomorrow"
-msgstr "イグザルティドを信じることは明日を信じること"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU2"
 msgid "We Dream of the Dead God"
-msgstr "私達は死せる神を夢見る"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU20"
 msgid "Humanity Will Thrive"
-msgstr "人類は繁栄する"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU21"
 msgid "Perfect Souls in Imperfect Bodies"
-msgstr "不完全な肉体の内に在る完全な魂"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU22"
 msgid "Hail Anu"
-msgstr "アヌをたたえよ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU23"
 msgid "We Are Not Condemned to Eternal Sin"
-msgstr "永遠の罪を咎めはしない"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU24"
 msgid "Blessed by the Sacred Beasts"
-msgstr "聖獣達に祝福されて"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU25"
 msgid "Twice Risen from the Mud"
-msgstr "二度泥より生ず"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU26"
 msgid "Hope from Above"
-msgstr "天からの希望"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU27"
 msgid "All That Is Written May Change"
-msgstr "運命づけられしものは全て変化しえる"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU28"
 msgid "Faith Without Corruption"
-msgstr "堕落なき信仰"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU29"
 msgid "Rejoice and Give Thanks"
-msgstr "喜び感謝せよ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU3"
 msgid "Mortify the Flesh, Glorify the Soul"
-msgstr "肉体を克服し、魂を称えよ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU30"
 msgid "The Waters of Life Renew Us"
-msgstr "かの水は人を新しくする"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU31"
 msgid "It Moves in the Deep"
-msgstr "其は深淵にて動く"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU32"
 msgid "Evolution of the Body, Salvation of the Soul"
-msgstr "肉体の進化、魂の救済"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU33"
 msgid "Where the Seaweed Sighs"
-msgstr "海草がため息をつく場所"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU34"
 msgid "Exult and be Uplifted"
-msgstr "高めれば高められる"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU35"
 msgid "Children of Evolution"
-msgstr "進化の子ら"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU36"
 msgid "Deep Waters Are Still"
-msgstr "深海は平穏なり"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU37"
 msgid "A Light in the Black Sky"
-msgstr "黒き空の光"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU38"
 msgid "Evolve or Perish"
-msgstr "進化か消滅か"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU39"
-msgid ""
-"Just Because We're Mutants Worshipping A Dead God Doesn't Mean We Don't Have "
-"A Sense Of Humour"
+msgid "Just Because We're Mutants Worshipping A Dead God Doesn't Mean We Don't Have A Sense Of Humour"
 msgstr ""
-"死せる神を信仰するミュータントだからといって、 ユーモアを持たぬわけではない"
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU4"
 msgid "All Hail the Divine Flesh"
-msgstr "神体万歳"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU40"
 msgid "Drowned in the Mystery of Hope"
-msgstr "希望の秘跡の浸礼を授かりて"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU41"
 msgid "The Day Approaches"
-msgstr "その日は近づいている"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU42"
 msgid "Garlanded with the Leaves of Time"
-msgstr "時の葉冠で飾られて"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU43"
 msgid "One Day the Moon Will Flower"
-msgstr "いつか月は花を咲かせる"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU44"
 msgid "Where the Black Moss Grows"
-msgstr "黒苔が育つ場所"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU45"
 msgid "Carved into Coral"
-msgstr "サンゴに刻まれて"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU46"
 msgid "Worship the Divine Alchemist"
-msgstr "神の錬金術師を崇めよ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU47"
 msgid "Silver into Gold, Death into Life"
-msgstr "銀を金に、死を生に"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU48"
 msgid "Immersed in the Streams of Time"
-msgstr "時の流れの浸礼を授かりて"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU49"
 msgid "The Road of Change Passes Through the Vale of Impossibility"
-msgstr "変化の道は不可能の谷を抜ける"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU5"
 msgid "That Is Not Dead Which Can Eternal Lie"
-msgstr "永遠が存在するは死に非ず"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU50"
 msgid "The Old is Dying, the New Must be Born"
-msgstr "古きは瀕し、新しきは必ずや誕生する"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU51"
 msgid "Break The Past To Shape The Future"
-msgstr "未来を形作るために過去を断て"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU52"
 msgid "Death Is A Road"
-msgstr "死は一筋の道"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU53"
 msgid "We Are Made Anew In Worship"
-msgstr "私達は信仰によって生まれ変わった"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU54"
 msgid "All Will Bleed, All Will Heal"
-msgstr "全てが血を流し、全てが救われる"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU55"
 msgid "The Path of Truth"
-msgstr "真理の道"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU56"
 msgid "You Are Not Lost"
-msgstr "汝らにはまだ望みはある"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU57"
 msgid "Faith Is Our Flame"
-msgstr "信仰は我らが炎"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU58"
 msgid "Our Prayers Are Answered"
-msgstr "私達の祈りは応えられる"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU59"
 msgid "As Was Prophesied"
-msgstr "預言のとおりに"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU6"
 msgid "The Future Lies Within"
-msgstr "未来は内に在る"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU60"
 msgid "And The Worm Shall Devour The World; But The World Shall Live"
-msgstr "そしてかのワームが世界を飲み込むであろう; しかし世界は永らえるであろう"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU61"
 msgid "Let All Transgression Be Purged"
-msgstr "全ての罪を清められるに身を任せよ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU62"
 msgid "She Has Shown Us The Way"
-msgstr "彼女は私達に道を示した"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU63"
 msgid "All Will Be Transformed"
-msgstr "全ては変成する"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU64"
 msgid "Give Of Yourself So Others May Live"
-msgstr "他者を生かすため己が身を尽くせ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU65"
 msgid "We Are Born Again"
-msgstr "私達は再び生まれ変わる"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU66"
 msgid "Delivered From Greed Into A World Of Faith And Justice"
-msgstr "強欲の世界から信仰と公正の世界へ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU67"
 msgid "Drown The Past"
-msgstr "過去を流せ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU68"
 msgid "Perfect Heart, Imperfect Form"
-msgstr "完全な心、不完全な姿"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU69"
 msgid "Breathe Like The Dragonfly"
-msgstr "ドラゴンフライの如く呼吸せよ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU7"
 msgid "Do Not Fear the Strange Face of Hope"
-msgstr "希望の奇妙な面貌を恐れるなかれ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU70"
 msgid "The Future Rises"
-msgstr "未来が生まれる"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU71"
 msgid "Birthplace of Exarchs"
-msgstr "エクザルフの発祥の地"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU72"
 msgid "Anoint The Flesh"
-msgstr "肉体を生命の水で清めよ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU73"
 msgid "In Dreams, Truth; In Waking, Change"
-msgstr "夢中に真理が、覚醒時に変化が在る"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU74"
 msgid "A World Without Sin Is Possible"
-msgstr "罪なき世界は不可能ではない"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU75"
 msgid "There Are Secret Paths"
-msgstr "隠されし道はある"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU76"
 msgid "The Moth and the Moon"
-msgstr "蛾と月"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU77"
 msgid "The Tides Will Obey"
-msgstr "満ち引きは流れのままに"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU78"
 msgid "The Human Soul Must Not Be Caged"
-msgstr "ヒトの魂は囚われてはならない"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU79"
 msgid "Ride The Flood"
-msgstr "大洪水に浮かべ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU8"
 msgid "The Shadows Flutter When Children Dance"
-msgstr "子らが舞う時、影は揺れる"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU80"
 msgid "The Sky Is A Sea"
-msgstr "この空は一つの海"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU81"
 msgid "Eternal Change Is Eternal Peace"
-msgstr "永遠の変化は永遠の平穏"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU82"
 msgid "The Waters of Life Bring Wisdom"
-msgstr "生命の水は知恵をもたらす"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU83"
 msgid "The Exalted Sees"
-msgstr "イグザルティドは見ている"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU84"
 msgid "True to the Gospel"
-msgstr "福音に忠実なれ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU85"
 msgid "The Waters Sustain Us"
-msgstr "かの水が人を支える"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU86"
 msgid "For The Next Thousand Generations"
-msgstr "千代続く次代のために"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU87"
 msgid "In Dark Days, Strange Paths Lead To Salvation"
-msgstr "暗き時代にあっては、見慣れぬ道が救済につながる"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU88"
 msgid "We Shelter All Seekers"
-msgstr "我らは全ての探求者を保護する"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU89"
 msgid "To Justify The Lives Of Our Ancestors"
-msgstr "祖先達の生の罪を許すために"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU9"
 msgid "From the Sea, Unto the Stars"
-msgstr "かの海より星々まで"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU90"
 msgid "Do Not Fear Change, Fear Only Despair"
-msgstr "変化を恐れてはならない、絶望のみを恐れよ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU91"
 msgid "Embrace Hope"
-msgstr "希望を抱け"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU92"
 msgid "Flesh Is A Tool"
-msgstr "肉体は道具である"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU93"
 msgid "Dream Of The Stars"
-msgstr "星々の夢"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU94"
 msgid "Survival Is Victory"
-msgstr "生存は勝利である"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU95"
 msgid "Faith And Purpose"
-msgstr "信仰と決意"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU96"
 msgid "A Billion Years In A Single Moment"
-msgstr "一瞬の一兆年"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU97"
 msgid "A Ship Is Not The Ocean"
-msgstr "船は大洋に非ず"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU98"
 msgid "The Sea Sings When Mermaids Dance"
-msgstr "人魚が舞うときかの海は歌う"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_ANU99"
 msgid "What Does Not Kill Us Makes Us Stronger"
-msgstr "生ある限り全てが試練"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEUTRAL1"
 msgid "Hope Dies Last"
@@ -858,435 +840,435 @@ msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO1"
 msgid "Honor and Duty"
-msgstr "名誉と義務"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO10"
 msgid "Purity Is Paramount"
-msgstr "純粋は全てに優先する"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO100"
 msgid "Never Surrender"
-msgstr "決して屈するな"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO101"
 msgid "Freedom From Infection"
-msgstr "感染からの自由"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO102"
 msgid "To Accomplish The Task"
-msgstr "責務を果たすために"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO103"
 msgid "Incorruptible"
-msgstr "汚れず"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO104"
 msgid "The Self Is the Heart Of Liberty"
-msgstr "自我は自由の核心"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO105"
 msgid "Unafraid"
-msgstr "恐れず"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO106"
 msgid "Audacious Vision"
-msgstr "大胆なビジョン"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO107"
 msgid "Eternal Valor"
-msgstr "不滅の勇気"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO108"
 msgid "Indomitable"
-msgstr "不屈"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO11"
 msgid "The Forge of Freedom"
-msgstr "自由の鍛冶場"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO12"
 msgid "Merit Before Equality"
-msgstr "平等の下の美点"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO13"
 msgid "Aliens Will Be Shot"
-msgstr "エイリアン撃つべし"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO14"
 msgid "Liberty and Prosperity"
-msgstr "自由と繁栄"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO15"
 msgid "We Will Defend Our Rights"
-msgstr "我々は自分達の権利を守る"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO16"
 msgid "Loyalty and Independence"
-msgstr "忠誠と自立"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO17"
 msgid "Kicking Ass And Taking Names"
-msgstr "徹底的にぶちのめす"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO18"
 msgid "Freedom to the Vigilant"
-msgstr "油断なき者への自由"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO19"
 msgid "The Price of Civilization is Loyalty"
-msgstr "文明の対価は忠誠である"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO2"
 msgid "The Price of Freedom is Eternal Vigilance"
-msgstr "自由の対価は絶えなき警戒"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO20"
 msgid "A Better Cause"
-msgstr "より良い信念"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO21"
 msgid "Man Was Made To Lead"
-msgstr "人は導くために作られた"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO22"
 msgid "United in Industry"
-msgstr "産業での団結"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO23"
 msgid "United by Hope"
-msgstr "希望による結束"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO24"
 msgid "The Future is Ours"
-msgstr "未来は我々のもの"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO25"
 msgid "Wisdom, Justice, Moderation"
-msgstr "知恵、正義、節度"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO26"
 msgid "Y'all Better Watch Out"
-msgstr "警戒を怠らぬように"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO27"
 msgid "Dum Spiro Spero"
-msgstr "ドゥム・スピーロー・スペイロー"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO28"
 msgid "The Truth Is A Gun In An Honest Man's Hand"
-msgstr "真実は誠実な者の手の中の銃"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO29"
 msgid "Pure Human"
-msgstr "純粋な人間"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO3"
 msgid "Audemus jura nostra defendere"
-msgstr "アウデムス・ユラ・ノストラ・デフェンデレ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO30"
 msgid "From the Ashes"
-msgstr "フロム・ジ・アッシズ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO31"
 msgid "Alien Free Since '32"
-msgstr "'32年以来エイリアン・フリー"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO32"
 msgid "Speak Softly And Carry A Big Stick"
-msgstr "穏やかに話し合う一方で強攻策も進めよ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO33"
 msgid "No Free Man Shall Be Debarred the Use of Arms"
-msgstr "いかなる自由人も武器の使用を妨げられることはなかろう"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO34"
 msgid "Ardua Veritatem"
-msgstr "アルデュア・ウェリタテム"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO35"
 msgid "Postera Crescam Laude"
-msgstr "ポステラ・クレスカム・ラウデ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO36"
 msgid "Scientia ac Labore"
-msgstr "スキエンティア・アク・ラボレ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO37"
 msgid "Ora et Labora"
-msgstr "オラ・エト・ラボラ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO38"
 msgid "Grandescunt Aucta Labore"
-msgstr "グランデスクント・アウクタ・ラボレ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO39"
 msgid "Veritas Omnia Vincit"
-msgstr "ウェリタス・オムニア・ウィンキト"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO4"
 msgid "Ense petit placidam sub libertate quietem"
-msgstr "エンセ・ペティト・プラキダム・リベルタテ・クゥイエテム"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO40"
 msgid "Audere Est Facere"
-msgstr "アウデレ・エスト・ファケレ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO41"
 msgid "Audio Hostem"
-msgstr "アウディオ・ホステム"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO42"
 msgid "Aut Cum Scuto Aut In Scuto"
-msgstr "アウト・クム・スクト・アウト・イン・スクト"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO43"
 msgid "Suum Cuique Tribuere"
-msgstr "スウム・クイクゥエ・トリブエレ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO44"
 msgid "Born Free"
-msgstr "ボーン・フリー"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO45"
 msgid "Our Cause is the Cause of Mankind"
-msgstr "我々の大義は人類の大義である"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO46"
 msgid "Blood and Toil"
-msgstr "血と労苦"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO47"
 msgid "An Armed Society Is A Polite Society"
-msgstr "武器を持った社会が洗練された社会である"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO48"
 msgid "No Such Thing As A Free Lunch"
-msgstr "無料のランチのようなものはない"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO49"
 msgid "Discipline Without Coercion"
-msgstr "強制なき規律"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO5"
 msgid "The Rights of the One Before the Rights of the Many"
-msgstr "多数の権利の下の一人の権利"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO50"
 msgid "Courteous to All, Intimate with Few"
-msgstr "全ての者に礼儀正しく、少数と親密に"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO51"
 msgid "Pro Patria Mori"
-msgstr "プロ・パトリア・モリ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO52"
 msgid "Mutant Free Zone"
-msgstr "ミュータント制限区"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO53"
 msgid "Fortis fortuna adiuvat"
-msgstr "フォルティス・フォルトゥナ・アディウウァト"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO54"
 msgid "We Come Prepared"
-msgstr "私達は用意をして臨む"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO55"
 msgid "Blood Brothers"
-msgstr "血盟の友"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO56"
 msgid "Forged in Fire"
-msgstr "炎の中で鍛えられる"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO57"
 msgid "Work Hard, Dream Big"
-msgstr "懸命に働き、夢は大きく"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO58"
 msgid "Magnus ab integro saeclorum nascitur ordo"
-msgstr "マグヌス・アブ・インテグロ・ サエクロルム・ナスキトゥル・オルド"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO59"
 msgid "Endeavor to Achieve"
-msgstr "成し遂げるため奮闘せよ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO6"
 msgid "Aliens Out"
-msgstr "エイリアンを追放せよ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO60"
 msgid "Nemo Me Impune Lacessit"
-msgstr "ネモ・メ・インプネ・ラケッシト"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO61"
 msgid "Equality Of Opportunity"
-msgstr "機会の平等"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO62"
 msgid "This Is My Rifle"
-msgstr "ディス・イズ・マイライフル"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO63"
 msgid "Let's Get Down to Business"
-msgstr "さあ、取りかかろう"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO64"
 msgid "Carpe Jugulum"
-msgstr "カルぺ・ユグルム"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO65"
 msgid "We Happen to Other People"
-msgstr "他者は期せずして我々となる"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO66"
 msgid "Free The Earth"
-msgstr "地球を解放せよ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO67"
 msgid "Giving Up Is For Rookies"
-msgstr "諦めるのは新兵の所業"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO68"
 msgid "Our Actions Shall Be Deemed Glorious"
-msgstr "我々の行いは名誉とみなされる"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO69"
 msgid "Take Back The Earth"
-msgstr "地球を取り戻せ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO7"
 msgid "Justice, Liberty, and the Extermination of Alien Invaders"
-msgstr "正義、自由、エイリアンの根絶"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO70"
 msgid "First In, Last Out"
-msgstr "先入れ後出し"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO71"
 msgid "Uncommon Valor Is Our Common Value"
-msgstr "非凡な勇こそ我々の共通の価値"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO72"
 msgid "Retreat? Hell, We Just Got Here!"
-msgstr "撤退？来たばかりだぞ!"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO73"
 msgid "Make Peace Or Die"
-msgstr "講和か死か"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO74"
 msgid "Whatever It Takes"
-msgstr "何としてでも"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO75"
 msgid "Improvise, Adapt, and Overcome"
-msgstr "即興、適応、克服"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO76"
 msgid "Quell The Storm"
-msgstr "この混迷を鎮めよ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO77"
 msgid "True Humanity"
-msgstr "真の人類"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO78"
 msgid "Yielding to None"
-msgstr "何者にも屈しない"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO79"
 msgid "Putting Bullets In Monsters"
-msgstr "怪物どもに弾丸を"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO8"
 msgid "We Defend Freedom"
-msgstr "私達は自由を守護する"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO80"
 msgid "Building A World For Our Children"
-msgstr "子供達のために世界を築く"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO81"
 msgid "Life Without Principles Is Worse Than Death"
-msgstr "信条なき生は死よりも恐ろしい"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO82"
 msgid "Words Become Actions, Character Becomes Destiny"
-msgstr "言葉は行動になり、人格は運命になり"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO83"
 msgid "Virtue Is Not Always Amiable"
-msgstr "美徳はいつも優しいわけではない"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO84"
 msgid "Omnium Rerum Domina, Virtus"
-msgstr "オムニウム・レルム・ドミナ・ウィルトゥス"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO85"
 msgid "We Cannot Tell A Lie"
-msgstr "我々は嘘をつけない"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO86"
 msgid "Better Danger Than Disgrace"
-msgstr "恥をさらすぐらいなら危険を選べ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO87"
 msgid "Grounded In Reason"
-msgstr "理性に根ざして"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO88"
 msgid "Honor Is Self-Esteem Made Visible In Action"
-msgstr "名誉とは行動で可視化される自尊心である"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO89"
 msgid "Of Our Own Accord"
-msgstr "我々が自発的に"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO9"
 msgid "Protect Humanity At All Costs"
-msgstr "何としてでも人類を守れ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO90"
 msgid "Steel In Service Of Will"
-msgstr "意志に仕える鋼の精神"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO91"
 msgid "Error Is Cowardice"
-msgstr "過ちとは臆病さである"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO92"
 msgid "In The Mountains Of Truth, You Never Climb In Vain"
-msgstr "真実の山では、登って無駄に終わることは決してない"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO93"
 msgid "Kill The Infection, Save The Planet"
-msgstr "感染に終止符を打ち、この星を救え"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO94"
 msgid "Liberty and Unity"
-msgstr "自由と結束"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO95"
 msgid "Unmoved, Unbroken"
-msgstr "不動不屈"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO96"
 msgid "Clarity Of Mind, Purity Of Body"
-msgstr "精神の清明、肉体の純粋"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO97"
 msgid "All Are Equal In Pursuit Of Liberty"
-msgstr "自由の追求においては誰もが平等である"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO98"
 msgid "We Choose To Serve"
-msgstr "我々は奉仕することを選ぶ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_NEW_JERICHO99"
 msgid "Greatness Is Built, Not Born"
-msgstr "偉大さは生まれるのではなく築かれる"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_PHOENIX1"
 msgid "We are Humanity's Last Stand"
@@ -1394,695 +1376,691 @@ msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION1"
 msgid "Is This Good Enough?"
-msgstr "これで大丈夫？"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION10"
 msgid "Listen, Alien!"
-msgstr "エイリアンに告ぐ!"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION100"
 msgid "Amenable To Persuasion"
-msgstr "説得には素直に"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION101"
 msgid "Charmingly Rational"
-msgstr "チャーミングに論理的に"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION102"
 msgid "Witty But Devious"
-msgstr "機知に富むもずる賢く"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION103"
 msgid "Artificial Gravitas"
-msgstr "見せかけの厳粛さ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION104"
 msgid "We Miss You Iain"
-msgstr "イアン、あなたが恋しい"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION105"
 msgid "Squid Pro Quo"
-msgstr "スクゥイド・プロ・クウオ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION106"
 msgid "This Was A Terrible Idea"
-msgstr "これはひどいアイデアだった"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION107"
 msgid "I Have A Bad Feeling About This"
-msgstr "嫌な予感がする"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION108"
 msgid "Anybody Seen Our Motto?"
-msgstr "誰かうちのモットー見た？"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION11"
 msgid "Our Being is Becoming, not Stasis"
-msgstr "私達の存在は停滞してはおらず、形成途中にある"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION12"
 msgid "Our Science is Utopia, our Reality is Eros, our Desire is Revolution"
-msgstr "私達の科学はユートピア、私達の現実はエロス、 私達の渇望は革命"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION13"
 msgid "Do the Impossible or Face the Unthinkable"
-msgstr "不可能に取り組むか、想像を超えることに向き合うか"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION14"
 msgid "We Couldn't Agree on a Motto"
-msgstr "うちはモットーに関する意見がまとまらなかった"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION15"
 msgid "In a Permanent State of Arousal at the Thought of Scientific Progress"
-msgstr "科学的進歩に思いを馳せて、常に覚醒状態にあり"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION16"
 msgid "We Put the Syn in Synedrion"
-msgstr "私達はシネドリオンをSynと呼んでいる"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION17"
 msgid "The Other Havens Have Better Mottoes"
-msgstr "モットーなんて他のヘイヴンに任せておけばいい"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION18"
 msgid "And The Horse You Rode In On"
-msgstr "お前が乗ってきた馬ごと"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION19"
 msgid "Democracy In Action"
-msgstr "民主主義運動中"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION2"
 msgid "Come and Have Breakfast With Us"
-msgstr "来て、私達と共に朝の食事をしなさい"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION20"
 msgid "All Out Of Sausages, Try New Jericho"
-msgstr "ソーセージを全部切らしたら、 ニュージェリコをあたってみて"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION21"
 msgid "Science FTW"
-msgstr "とにかく科学"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION22"
 msgid "Turn Left at the Next Intersection"
-msgstr "次の交差点を左"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION23"
 msgid "Knock, Knock"
-msgstr "ノック・ノック"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION24"
 msgid "Change the World or be Changed by It"
-msgstr "世界を変えるか、世界によって変えられるか"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION25"
 msgid "We're Hoarding the Toilet Paper"
-msgstr "トイレットペーパー買いだめ中"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION26"
 msgid "It Was This Or Barbarism"
-msgstr "こうするか、野蛮と化すかのどちらかしかなかった"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION27"
 msgid "Abhor Stagnation"
-msgstr "停滞忌むべし"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION28"
 msgid "No Such Thing as Infallible Authorities"
-msgstr "完全無欠の権力者など存在しない"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION29"
 msgid "Freedom Requires Humanism, Humanism Requires Freedom"
-msgstr "自由はヒューマニズムを必要とし、 ヒューマニズムは自由を必要とする"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION3"
 msgid "Freedom is Fun"
-msgstr "自由は楽し"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION30"
 msgid "Live Together Or Die Alone"
-msgstr "共に生きるか、一人で死ぬか"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION31"
 msgid "Pedicabo Ego Vos Et Irrumabo"
-msgstr "ペディカボ・エゴ・ウォス・エト・イルマボ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION32"
 msgid "Super Fornicam"
-msgstr "スペル・フォルニカム"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION33"
 msgid "We Definitely Have Free Lunch"
-msgstr "うちには間違いなく無料のランチがある"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION34"
-msgid ""
-"Is That the Means of Production in Your Pocket or Are You Just Happy to See "
-"Us?"
+msgid "Is That the Means of Production in Your Pocket or Are You Just Happy to See Us?"
 msgstr ""
-"それはあなたのポケットの生産手段のこと？ それとも私達に会えて嬉しいの？"
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION35"
 msgid "Fully Automated Luxury Anarcho-Communism"
-msgstr "完全自動化豪華無政府共産主義"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION36"
 msgid "Falafels, Guns & Science"
-msgstr "ファラフェル、ガン＆サイエンス"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION37"
 msgid "Care to Elaborate?"
-msgstr "もう少し詳しく述べてくれるかな？"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION38"
 msgid "Your Mother Was A Hamster"
-msgstr "お前の母ちゃんハムスターだった"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION39"
 msgid "Mind Over Madness"
-msgstr "マインド・オーバー・マッドネス"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION4"
 msgid "Anarchists Do It Better"
-msgstr "無政府主義者はもっと上手くやる"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION40"
 msgid "Lost Our Chains"
-msgstr "失われた私達のつながり"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION41"
 msgid "In Vino Veritas"
-msgstr "イン・ウィノ・ウェリタス"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION42"
 msgid "Rise Like Lions After A Good Nap"
-msgstr "ぐっすり昼寝した後でライオンのように立ち上がれ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION43"
 msgid "Make It So"
-msgstr "やれるものならやってみろ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION44"
 msgid "Masters of All Trades, Jacks of None"
-msgstr "全ての分野の達人、何一つできない無能"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION45"
 msgid "Somebody Hacked The Motto Generator Again"
-msgstr "また誰かがモットージェネレーターをハッキングしやがった"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION46"
 msgid "Intellectually Opposed to Oversimplifying Philosophy"
-msgstr "過度に単純化された哲学に知的に反対する"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION47"
 msgid "For the Many"
-msgstr "多くの人のために"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION48"
 msgid "Dogmatically Free-Thinking"
-msgstr "教条主義的自由思想"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION49"
 msgid "Not Really Into the Post-Apocalyptic Thing"
-msgstr "ポストアポカリプス的なことにはあまり興味ない"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION5"
 msgid "No Hierarchies, No Leaders, No Problems"
-msgstr "ノーヒエラルキー、ノーリーダー、ノープロブレム"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION50"
 msgid "Silent but Deadly"
-msgstr "音はないのに死ぬほど"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION51"
 msgid "Freedom and Necessity"
-msgstr "自由と必要性"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION52"
 msgid "No Harmony Without Solidarity"
-msgstr "連帯なくして調和なし"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION53"
 msgid "Everyone Together Now: We're All Individuals"
-msgstr "誰もが共に在る今、誰もが個性的だ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION54"
 msgid "Inexplicably Irreverent In The Face Of Catastrophe"
-msgstr "破滅的状況にもかかわらず不思議と不遜"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION55"
 msgid "Misty with a Chance of Monsters"
-msgstr "モンスターが出そうな霧っぽさ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION56"
 msgid "It's Not How Big Your Haven Is, It's What You Do With It"
-msgstr "大事なのはヘイヴンの大きさではなく、そこで何を行うかだ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION57"
 msgid "Looking For Answers in All the Wrong Places"
-msgstr "ありとあらゆる間違った場所で答えを探す"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION58"
 msgid "Pessimism of the Spirit, Optimism of the Will"
-msgstr "精神の悲観主義、意志の楽観主義"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION59"
 msgid "You Can't Go Home Again, But You're Welcome Here"
-msgstr "汝再び故郷に帰れず、なれどここに歓迎する"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION6"
 msgid "Imagine A World Without Spam"
-msgstr "スパムの無い世界を想像してみよう"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION60"
 msgid "Stirred, Not Shaken"
-msgstr "ステアせずにシェイクで"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION61"
 msgid "Hakuna Matata"
-msgstr "ハクナ・マタタ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION62"
 msgid "I Was Run Over By The Truth One Day"
-msgstr "ある日、ある真実に気づかされた"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION63"
 msgid "Only Those with their Feet on Rock Can Build Castles in the Air"
-msgstr "地に足を着けた者のみが中空に城を建てられる"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION64"
 msgid "Intelligent Change To Make Us Better"
-msgstr "私達をより良くするための知的変化"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION65"
 msgid "We Must Adapt"
-msgstr "人は適応しなければならない"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION66"
 msgid "To Find Our Place In The Future"
-msgstr "未来の居場所を見つけるために"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION67"
 msgid "Understanding Provides Freedom"
-msgstr "理解は自由をもたらす"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION68"
 msgid "We Must Learn"
-msgstr "人は学ばねばならない"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION69"
 msgid "Building A Better Shovel"
-msgstr "より便利なシャベルを作る"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION7"
 msgid "Freedom is Always the Freedom of the Dissenter"
-msgstr "自由とは常に異論者の自由である"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION70"
 msgid "Never Gonna Let You Down"
-msgstr "君を裏切ったりしない"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION71"
 msgid "No Strangers to Love"
-msgstr "恋愛は初めてじゃない"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION72"
 msgid "Never Gonna Give You Up"
-msgstr "君をけっしてあきらめない"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION73"
 msgid "Never Gonna Say Goodbye"
-msgstr "さよならを言うつもりなんか無い"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION74"
 msgid "Gotta Make You Understand"
-msgstr "君に分かってもらわなきゃ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION75"
 msgid "May We Borrow Your Wheelbarrow?"
-msgstr "手押し車を拝借"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION76"
 msgid "The Human Race Is A Pretty Old Place"
-msgstr "人類種は非常に古い立場である"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION77"
 msgid "We Got Organized"
-msgstr "整理整頓"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION78"
 msgid "Placeholder Motto, Nobody Vote For This"
-msgstr "モットーなんてやつには誰も投票しない"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION79"
 msgid "We Summoned The Ghost of Tom Joad"
-msgstr "トム・ジョードの亡霊を呼んでやった"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION8"
-msgid ""
-"From Each According to their Abilities, to Each According to their Needs"
-msgstr "能力に応じて働き、必要に応じて受け取る"
+msgid "From Each According to their Abilities, to Each According to their Needs"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION80"
 msgid "Those That Fight When Oppressed Incur No Guilt"
-msgstr "抑圧された時に戦う者は罪を負わない"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION81"
 msgid "Trying To Make Sense"
-msgstr "理解しようとすること"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION82"
 msgid "Simple Interpretation Is Not Enough"
-msgstr "簡単な解説では不十分"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION83"
 msgid "Don't Get Hurt"
-msgstr "怪我しないように"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION84"
 msgid "Consciousness Transforms The World"
-msgstr "意識は世界の形を変える"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION85"
 msgid "Immersed In The Life-Giving Spring Of Popular Creativity"
-msgstr "大衆を引きつける創造性の生命の泉に浸かり"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION86"
 msgid "Oh Shit We Need A Motto?"
-msgstr "クソ、モットーなんているか？"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION87"
 msgid "Fixing Stuff, One Gene At A Time"
-msgstr "一遺伝子ずつ物事を修正していく"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION88"
 msgid "Power to the People"
-msgstr "人民に力を"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION89"
 msgid "A Rational Society (Mostly)"
-msgstr "(ほぼ)合理的な社会"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION9"
 msgid "History is the Actions of People in Pursuit of their Ends"
-msgstr "歴史とは目標を追い求める人民の活動である"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION90"
 msgid "BRB, Unsubscribing From The Apocalypse"
-msgstr "BRB、アポカリプスから退会中"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION91"
 msgid "We Can Build A World That Doesn't Suck"
-msgstr "クソじゃない世界は築ける"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION92"
 msgid "Coercion Is The Least Efficient Means Of Obtaining Order"
-msgstr "強制は秩序を得るうえで最も非効率な手段である"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION93"
 msgid "Most Popular Haven In This Region"
-msgstr "この区域で一番人気のヘイヴン"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION94"
 msgid "When There Is Freedom, There Will Be No State"
-msgstr "自由が存在する時、そこに国家は存在しない"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION95"
 msgid "Laugh At Death, Then Punch Him When He's Not Expecting It"
-msgstr "死を笑い飛ばせ、そして不意を突いて パンチをお見舞いしてやれ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION96"
 msgid "RTFM"
-msgstr "RTFM"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION97"
 msgid "Anti-Eschatological"
-msgstr "反終末論的"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION98"
 msgid "Exit Pursued By A Mutant"
-msgstr "ミュータントに追われて退場"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_MOTO_SYNEDRION99"
 msgid "You'll Thank Us Later"
-msgstr "後で私達に感謝することになる"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU1"
 msgid "Akkad"
-msgstr "アッカド"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU10"
 msgid "Badtibira"
-msgstr "バドティビラ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU11"
 msgid "Birtha"
-msgstr "ビルハ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU12"
 msgid "Borsippa"
-msgstr "ボルシッパ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU13"
 msgid "Carchemish"
-msgstr "カルケミシュ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU14"
 msgid "Der"
-msgstr "ダー"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU15"
 msgid "Dilbat"
-msgstr "ディルバット"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU16"
 msgid "Dur-Sharrukin"
-msgstr "ドゥル・シャルキン"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU17"
 msgid "Ekallatum"
-msgstr "エカラトゥム"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU18"
 msgid "Emar"
-msgstr "エマル"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU19"
 msgid "Eridu"
-msgstr "エリドゥ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU2"
 msgid "Akshak"
-msgstr "アクシャク"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU20"
 msgid "Eshnunna"
-msgstr "エシュヌンナ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU21"
 msgid "Girsu"
-msgstr "ギルス"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU22"
 msgid "Harbidum"
-msgstr "ハルビダム"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU23"
 msgid "Harranu"
-msgstr "ハラヌ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU24"
 msgid "Hattusa"
-msgstr "ハットゥシャ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU25"
 msgid "Isin"
-msgstr "イシン"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU26"
 msgid "Izala"
-msgstr "イザラ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU27"
 msgid "Kalhu"
-msgstr "カルフ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU28"
 msgid "Kar Zipar"
-msgstr "カル・ジパル"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU29"
 msgid "Katapa"
-msgstr "カタパ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU3"
 msgid "Amid"
-msgstr "アミド"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU30"
 msgid "Kazallu"
-msgstr "カザル"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU31"
 msgid "Kesh"
-msgstr "ケーシュ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU32"
 msgid "Kish"
-msgstr "キシュ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU33"
 msgid "Kishsassu"
-msgstr "キシュサス"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU34"
 msgid "Kisurra"
-msgstr "キスッラ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU35"
 msgid "Kuara"
-msgstr "クアラ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU36"
 msgid "Kurda"
-msgstr "クルダ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU37"
 msgid "Lagash"
-msgstr "ラガシュ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU38"
 msgid "Larak"
-msgstr "ララク"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU39"
 msgid "Larsa"
-msgstr "ラルサ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU4"
 msgid "Ankuwa"
-msgstr "アンクワ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU40"
 msgid "Mansuate"
-msgstr "マンスエト"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU41"
 msgid "Marad"
-msgstr "マラド"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU42"
 msgid "Masuwari"
-msgstr "マスワリ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU43"
 msgid "Nagar"
-msgstr "ナガル"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU44"
 msgid "Nasibina"
-msgstr "ナシビナ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU45"
 msgid "Nerikka"
-msgstr "ネリクカ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU46"
 msgid "Nineveh"
-msgstr "ニネヴェ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU47"
 msgid "Nippur"
-msgstr "ニップル"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU48"
 msgid "Nohadra"
-msgstr "ノハドラ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU49"
 msgid "Nuzi"
-msgstr "ヌジ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU5"
 msgid "Arinna"
-msgstr "アリンナ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU50"
 msgid "Rapiqum"
-msgstr "ラピクム"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU51"
 msgid "Sabatha"
-msgstr "サバタ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU52"
 msgid "Sapinuwa"
-msgstr "サピヌワ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU53"
 msgid "Sareisha"
-msgstr "サレイシャ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU54"
 msgid "Sattagu"
-msgstr "サッタグ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU55"
 msgid "Shekhna"
-msgstr "シェフナ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU56"
 msgid "Shuruppak"
-msgstr "シュルッパク"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU57"
 msgid "Sinahuttum"
-msgstr "シナフトゥム"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU58"
 msgid "Sippar"
-msgstr "シッパル"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU59"
 msgid "Sumer"
-msgstr "シュメール"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU6"
 msgid "Arrapkha"
-msgstr "アラプハ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU60"
 msgid "Umma"
-msgstr "ウンマ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU61"
 msgid "Ur"
-msgstr "ウル"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU62"
 msgid "Urbilum"
-msgstr "アルビール"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU63"
 msgid "Uruk"
-msgstr "ウルク"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU64"
 msgid "Zabala"
-msgstr "ザバラ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU7"
 msgid "Ashur"
-msgstr "アッシュール"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU8"
 msgid "Azupiranu"
-msgstr "アズピラヌ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_ANU9"
 msgid "Babylon"
-msgstr "バビロン"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEUTRAL1"
 msgid "Elpis"
@@ -2378,231 +2356,231 @@ msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO1"
 msgid "New Jericho"
-msgstr "ニュージェリコ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO10"
 msgid "Fort Sloboda"
-msgstr "フォート・スロボダ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO11"
 msgid "Fort Askatasuna"
-msgstr "フォート・アスカタスナ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO12"
 msgid "Fort Gerechtigkeit"
-msgstr "フォート・ゲレヒティヒカイト"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO13"
 msgid "Fort Justice"
-msgstr "フォート・ジャスティス"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO14"
 msgid "Fort Olympus"
-msgstr "フォート・オリンパス"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO15"
 msgid "Fort Terminus"
-msgstr "フォート・テルミナス"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO16"
 msgid "Fort Harshaw"
-msgstr "フォート・ハーショー"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO17"
 msgid "Fort Aurelius"
-msgstr "フォート・アウレリウス"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO18"
 msgid "Fort Locke"
-msgstr "フォート・ロック"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO19"
 msgid "Fort Hobbes"
-msgstr "フォート・ホッブズ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO2"
 msgid "Fort Liberty"
-msgstr "フォート・リバティ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO20"
 msgid "Fort Hayek"
-msgstr "フォート・ハイエク"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO21"
 msgid "Fort Methuselah"
-msgstr "フォート・メトシェラ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO22"
 msgid "Fort Shaw"
-msgstr "フォート・ショー"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO23"
 msgid "Fort Hera"
-msgstr "フォート・ヘラ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO24"
 msgid "Fort Dihya"
-msgstr "フォート・ディヒア"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO25"
 msgid "Fort Khutulun"
-msgstr "フォート・クトルン"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO26"
 msgid "Fort Andraste"
-msgstr "フォート・アンドラステ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO27"
 msgid "Fort Bellona"
-msgstr "フォート・ベローナ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO28"
 msgid "Fort Valkyrie"
-msgstr "フォート・ヴァルキリー"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO29"
 msgid "Fort Taggart"
-msgstr "フォート・タガート"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO3"
 msgid "Fort Freedom"
-msgstr "フォート・フリーダム"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO30"
 msgid "Fort Galt"
-msgstr "フォート・ガルト"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO31"
 msgid "Fort Roark"
-msgstr "フォート・ロアーク"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO32"
 msgid "Fort Travis"
-msgstr "フォート・トラヴィス"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO33"
 msgid "Fort Virtue"
-msgstr "フォート・バーチュ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO34"
 msgid "Fort Zeus"
-msgstr "フォート・ゼウス"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO35"
 msgid "Fort Neptune"
-msgstr "フォート・ネプチューン"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO36"
 msgid "Fort Ares"
-msgstr "フォート・アレス"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO37"
 msgid "Fort Churchill"
-msgstr "フォート・チャーチル"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO38"
 msgid "Fort Edison"
-msgstr "フォート・エジソン"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO39"
 msgid "Fort Escord"
-msgstr "フォート・エスコード"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO4"
 msgid "Fort Eleutheria"
-msgstr "フォート・エレウテリア"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO40"
 msgid "Fort Dauntless"
-msgstr "フォート・ドーントレス"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO41"
 msgid "Fort Niven"
-msgstr "フォート・ニーヴン"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO42"
 msgid "Fort Purity"
-msgstr "フォート・ピュリティ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO43"
 msgid "Fort Kahina"
-msgstr "フォート・カーヒナ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO44"
 msgid "Fort Nonhelema"
-msgstr "フォート・ノンヘレマ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO45"
 msgid "Fort Shangxiang"
-msgstr "フォート・シャンシヤン"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO46"
 msgid "Fort Enyo"
-msgstr "フォート・エニューオー"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO47"
 msgid "Fort Freyja"
-msgstr "フォート・フレイヤ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO48"
 msgid "Fort Khawlah"
-msgstr "フォート・ハウラー"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO49"
 msgid "Fort Ioke"
-msgstr "フォート・イオケ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO5"
 msgid "Fort Freiheit"
-msgstr "フォート・フライハイト"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO50"
 msgid "Fort Artemis"
-msgstr "フォート・アルテミス"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO6"
 msgid "Fort Liberte"
-msgstr "フォート・リベルテ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO7"
 msgid "Fort Heinlein"
-msgstr "フォート・ハインライン"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO8"
 msgid "Fort Rand"
-msgstr "フォート・ランド"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_NEW_JERICHO9"
 msgid "Fort Zìyóu"
-msgstr "フォート・ジユウ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_PHOENIX1"
 msgid "Phoenix Point"
-msgstr "フェニックス ポイント"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_PHOENIX10"
 msgid "Phoenix Omega"
-msgstr "フェニックス オメガ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_PHOENIX11"
 msgid "Phoenix Avionics"
-msgstr "フェニックス アビオニクス"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_PHOENIX12"
 msgid "Phoenix Logistics B"
-msgstr "フェニックス ロジスティクスB"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_PHOENIX13"
 msgid "Phoenix Delta"
-msgstr "フェニックス デルタ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_PHOENIX14"
 msgid "Phoenix Echo"
-msgstr "フェニックス エコー"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_PHOENIX15"
 msgid "Phoenix Storage 1"
-msgstr "フェニックス ストレージ1"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_PHOENIX16"
 msgid "PHB-1"
@@ -2618,243 +2596,243 @@ msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_PHOENIX19"
 msgid "Sumrall Memorial Base"
-msgstr "サムロル メモリアルベース"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_PHOENIX2"
 msgid "Phoenix R&D 7"
-msgstr "フェニックス R&D7"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_PHOENIX20"
 msgid "Symes Memorial Base"
-msgstr "サイムズ メモリアルベース"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_PHOENIX21"
 msgid "Phoenix Forward Command"
-msgstr "フェニックス フォワードコマンド"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_PHOENIX22"
 msgid "Phoenix Storage 2"
-msgstr "フェニックス ストレージ2"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_PHOENIX23"
 msgid "Phoenix Foxtrot"
-msgstr "フェニックス フォックストロット"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_PHOENIX3"
 msgid "Phoenix R&D 9"
-msgstr "フェニックス R&D9"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_PHOENIX4"
 msgid "Phoenix R&D 4"
-msgstr "フェニックス R&D4"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_PHOENIX5"
 msgid "Phoenix Aeronautics"
-msgstr "フェニックス エアロノーティクス"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_PHOENIX6"
 msgid "Phoenix Alfa"
-msgstr "フェニックス アルファ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_PHOENIX7"
 msgid "Phoenix Bravo"
-msgstr "フェニックス ブラボー"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_PHOENIX8"
 msgid "Phoenix Charlie"
-msgstr "フェニックス チャーリー"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_PHOENIX9"
 msgid "Phoenix Transfer Point 1"
-msgstr "フェニックス トランスファーポイント1"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION1"
 msgid "Spartacus"
-msgstr "スパルタカス"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION10"
 msgid "Neu Chennai"
-msgstr "ノイチェンナイ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION11"
 msgid "Neo Djibouti"
-msgstr "ネオジブチ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION12"
 msgid "New Athens"
-msgstr "ニューアテネ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION13"
 msgid "Shelley"
-msgstr "シェリー"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION14"
 msgid "Oz"
-msgstr "オズ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION15"
 msgid "Forty McFortface"
-msgstr "フォーティ・マクフォートフェイス"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION16"
 msgid "Exarchia Deux"
-msgstr "エクザルヒア・ドゥ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION17"
 msgid "Camp Laloo Chiba"
-msgstr "キャンプ・ラルー・チバ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION18"
 msgid "Peter Abrahams"
-msgstr "ピーター・エイブラハムズ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION19"
 msgid "Dorothy Adams"
-msgstr "ドロシー・アダムス"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION2"
 msgid "Louverture"
-msgstr "ルーヴェルチュール"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION20"
 msgid "Peterloo Town"
-msgstr "ピータールー・タウン"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION21"
 msgid "Ginsberg"
-msgstr "ギンズバーグ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION22"
 msgid "Towards Hope"
-msgstr "トゥワーズ・ホープ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION23"
 msgid "Adrian Mitchell"
-msgstr "エイドリアン・ミッチェル"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION24"
 msgid "Lorca"
-msgstr "ロルカ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION25"
 msgid "Matoaka"
-msgstr "マトーカ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION26"
 msgid "Bakunin"
-msgstr "バクーニン"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION27"
 msgid "Freeland"
-msgstr "フリーランド"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION28"
 msgid "Baja Rebellion"
-msgstr "バハ・リベリオン"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION29"
 msgid "Oaxaca Remembered"
-msgstr "オアハカ・リメンバード"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION3"
 msgid "Camp John Brown"
-msgstr "キャンプ・ジョン・ブラウン"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION30"
 msgid "Beloborodov"
-msgstr "ベロボロドフ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION31"
 msgid "Cataloonia"
-msgstr "カタルーニャ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION32"
 msgid "Gerdzhikov"
-msgstr "ゲルジコフ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION33"
 msgid "Beloyannis"
-msgstr "ベロヤニス"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION34"
 msgid "Amadioha"
-msgstr "アマディオハ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION35"
 msgid "Marghdeen"
-msgstr "マーディーン"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION36"
 msgid "Rileytown"
-msgstr "ライリータウン"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION4"
 msgid "Bellamy"
-msgstr "ベラミー"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION5"
 msgid "Nowhere"
-msgstr "ノーウェア"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION6"
 msgid "Murray"
-msgstr "マリー"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION7"
 msgid "Anarchistan"
-msgstr "アナーキスタン"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION8"
 msgid "Hyper Mombasa"
-msgstr "ハイパーモンバサ"
+msgstr ""
 
 msgctxt "GeoHavens/KEY_HAVEN_NAME_SYNEDRION9"
 msgid "Surabaya 2.0"
-msgstr "スラバヤ2.0"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_NAME_BCR1"
 msgid "Longinus Point"
-msgstr "ロンギヌスポイント"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_NAME_BCR2"
 msgid "Zarautz"
-msgstr "サラウツ"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_NAME_BCR3"
 msgid "Dokkum"
-msgstr "ドックム"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_NAME_BCR4"
 msgid "Kalgoorlie"
-msgstr "カルグーリー"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_NAME_BCR5"
 msgid "Cedar Ark"
-msgstr "シダーアーク"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_NAME_BCR6"
 msgid "Scheria"
-msgstr "スケリア"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_NAME_BCR7"
 msgid "Mena"
-msgstr "ミーナ"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_NAME_BCR8"
 msgid "Ryanwood"
-msgstr "ライアンウッド"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_NAME_BCR9"
 msgid "Genova"
-msgstr "ジェノバ"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_NAME_BCR10"
 msgid "Towa"
-msgstr "東和"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_NAME_BCR11"
 msgid "Harmony"
-msgstr "ハーモニー"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_MOTTO_BCR1"
 msgid "[null]"
@@ -2870,7 +2848,7 @@ msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_MOTTO_BCR4"
 msgid "Work Today To Get Fed Tomorrow"
-msgstr "明日食むために今日を働く"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_MOTTO_BCR5"
 msgid "[null]"
@@ -2878,11 +2856,11 @@ msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_MOTTO_BCR6"
 msgid "Faber est Suae Quisque Fortunae"
-msgstr "ファベル・エスト・スアエ・クゥィスクゥェ・フォルトゥーナエ"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_MOTTO_BCR7"
 msgid "Presidium Prepetua Aeternum Quaerere"
-msgstr "プレジディウム・プレペトゥア・アエテルヌム・クゥアエレレ"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_MOTTO_BCR8"
 msgid "[null]"
@@ -2890,7 +2868,7 @@ msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_MOTTO_BCR9"
 msgid "Inter Nos Nostra Lex"
-msgstr "インテル・ノス・ノストラ・レクス"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_MOTTO_BCR10"
 msgid "[null]"
@@ -2898,51 +2876,51 @@ msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_MOTTO_BCR11"
 msgid "With Music, Rise"
-msgstr "音楽と共に、立ち上がれ"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_LEADER_BCR1"
 msgid "Justinian Cyneweard"
-msgstr "ジャスティニアン シネワード"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_LEADER_BCR2"
 msgid "Erik-Logan Hughes"
-msgstr "エリックローガン ヒューズ"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_LEADER_BCR3"
 msgid "Boris Eysbroek"
-msgstr "ボリス イスブローク"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_LEADER_BCR4"
 msgid "King Brown"
-msgstr "キング ブラウン"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_LEADER_BCR5"
 msgid "Mike Spark"
-msgstr "マイク スパーク"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_LEADER_BCR6"
 msgid "Ulysses J. Black"
-msgstr "ユリシーズ J ブラック"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_LEADER_BCR7"
 msgid "Fabio Mena"
-msgstr "ファビオ ミーナ"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_LEADER_BCR8"
 msgid "Ryan Dustin Wood"
-msgstr "ライアン ダスティン ウッド"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_LEADER_BCR9"
 msgid "Walter Ivan Toso"
-msgstr "ウォルター・イワン・トーソー"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_LEADER_BCR10"
 msgid "Hikari Towa"
-msgstr "東和 光"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_LEADER_BCR11"
 msgid "James O'Hearn"
-msgstr "ジェームス オハーン"
+msgstr ""
 
 msgctxt "BackerHavens/KEY_HAVEN_NAME_BCR15"
 msgid "New Warsaw"
@@ -2955,3 +2933,4 @@ msgstr ""
 msgctxt "BackerHavens/KEY_HAVEN_LEADER_BCR15"
 msgid "Tomasz Baer"
 msgstr ""
+
